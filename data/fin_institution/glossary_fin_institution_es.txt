@@ -1,0 +1,1168 @@
+activo titulizado
+suficientemente prudente
+ALAC
+activo líquido de alta calidad
+operación al contado en el mercado de divisas
+operación de divisas al contado
+agente de cambio y bolsa
+obligación subordinada
+bono subordinado
+acuerdo de garantía financiera
+acuerdo de garantía real
+acciones del emisor
+posición calificada
+posición de riesgo neta
+otros mecanismos de transferencia del riesgo
+OMTR
+fecha de envío de la información
+fecha de transmisión de la información
+banco en dificultades
+banco en crisis
+actividades de las agencias de calificación crediticia
+modelo de fijación de precios en función del riesgo
+modelo de valoración del riesgo
+modelo de medición del riesgo
+pacto o transacción interprofesional
+compensación entre productos distintos
+exposición mantenida por la originadora
+evaluación del balance
+flujos de efectivo del conjunto subyacente
+procedimiento de recompra
+riesgos frente a clientes individuales
+órgano de administración en su función de supervisión
+índice de calificación agregado
+posición no compensada
+agencia externa de calificación crediticia designada
+ECAI designada
+escala de calificaciones a largo plazo de seguros
+asignación de capital interno
+asignación interna de capital
+venta forzosa
+venta «a precio de saldo»
+Asociación Bancaria del Euro
+ABE
+premio marginal de la operación de permuta
+premio marginal del swap
+diligencia debida normal con respecto al cliente
+ayuda financiera pública extraordinaria
+cobertura interna
+método de modelos internos
+capital de nivel 1 adicional
+tarjeta de crédito
+crédito garantizado
+superpreferencia
+superpreferencia de los SGD
+banco cooperativo
+cooperativa de crédito
+instrumento de la entidad puente
+autoridad de resolución
+coeficiente de apalancamiento
+ratio de apalancamiento
+política de modificación del método AMA
+resolución de grupo
+acreedor ordinario no garantizado
+colchón de conservación de capital
+colchón de conservación
+filtrado de la tendencia
+recepción de órdenes de los inversores
+bono estructurado
+exposición minorista renovable admisible
+valores de la cartera de negociación
+acuerdo de margen
+acuerdo de reposición del margen
+aportación ex ante
+método estándar para el riesgo de crédito de contraparte
+constituir una garantía
+pago anticipado de un bono garantizado
+día laborable cero
+fondos de fondos
+actividad no cubierta
+institutos de crédito de valores mobiliarios
+contrato de crédito garantizado
+mecanismo de protección
+estructura socop
+socop
+evaluación del interés público
+cartera de instrumentos de deuda propios
+instituto especializado en el crédito hipotecario
+evaluación de la resolubilidad
+Directiva del Parlamento Europeo y del Consejo sobre la firmeza de la liquidación en los sistemas de pagos y de liquidación de valores
+Directiva sobre la firmeza de la liquidación
+plan de resolución
+sistema de seguro pleno
+pago interbancario
+escala de calificaciones a largo plazo de municipios
+depuración de datos
+creación de sucursales
+requisito de financiación casada
+inspección material
+modelos de sensibilidad
+modificación menor
+riesgo de acciones estándar
+estructura dual
+adecuación
+mecanismo de absorción de pérdidas
+plan de resolución de grupo
+posición ponderada de signo contrario
+valoración del resultado
+derivado de crédito de n-ésimo incumplimiento
+ingresos por liquidación
+creador del mercado de valores del Estado
+utilizable en la recapitulación interna
+utilizable para la recapitalización interna
+posición de titulización semisubordinada
+remuneración variable garantizada
+sociedad financiera de cartera matriz de un Estado miembro
+recargo de capital por concentración de deuda soberana
+salida de liquidez
+gestión de cartera
+mecanismos de control interno de las entidades
+activo de la lista uno
+analista de calificaciones principal
+bono preferente
+obligación preferente
+monto teórico
+importe nocional
+cálculo de las exposiciones ponderadas por riesgo
+función de control de riesgos
+gestión de carteras individuales
+rescate de activos
+pérdida pendiente
+método basado en el VaR
+plan corrector
+posición al contado
+título a corto plazo
+distribución real
+c/c
+cuenta corriente
+MMI
+método de los modelos internos
+doble recurso
+mecanismo de doble recurso
+tarjeta de prepago anónima con un gran volumen de almacenamiento
+evento de crédito
+suceso de crédito
+siniestro de crédito
+deuda incumplida
+liquidez con carácter complementario
+seguro de depósitos
+garantía de depósitos
+activación única
+punto de entrada único
+parte restante de la posición
+posición residual
+hipoteca vitalicia
+financiación intermediada
+financiación subrogada
+curva de rendimientos
+perspectiva histórica normalizada
+capital económico
+colegio de autoridades de resolución
+desfase de los vencimientos contractuales
+descuadre de los vencimientos contractuales
+préstamo bilateral
+grupo
+pérdida por periodificación
+retirada
+opciones negociables en mercados no organizados
+entidad de resolución
+colegio de autoridades de resolución europeo
+acuerdo de interoperabilidad
+actividad bancaria básica
+exposición en balance
+opción knock-in
+factor de ajuste por riesgo
+proceso de revisión y evaluación supervisora
+PRES
+aportación extraordinaria
+aportación ex post
+aportación ex post extraordinaria
+capital hipotético
+opciones sobre acciones adquiridas fuera de un mercado organizado
+financiación mayorista
+umbral
+institución financiera no bancaria
+cuasibanco
+sistema bancario paralelo
+banca en la sombra
+banca paralela
+posiciones ponderadas
+su disolución o liquidación no se someterá a ningún tipo de gravamen
+organismo de inversión colectiva de capital variable
+compartimento nacional
+entidad de financiación de ventas a plazos
+entidad financiera de un tercer país
+intermediación financiera
+obligación financiera
+información en base consolidada o subconsolidada
+periodo de aplazamiento
+beneficiario por defecto
+exposición a bonos soberanos
+exposición a la deuda pública
+exposición a la deuda soberana
+exposición soberana
+proveedor de servicios de administración de créditos
+posición de riesgo
+mercado para las actividades de postnegociación
+márgenes diarios obligatorios
+límites legales diarios de cobertura
+recurrir a líneas de crédito
+cartera casada
+costes de oportunidad/lucro cesante
+deuda propia
+sucursal
+pauta de colchón
+Comité Económico y Financiero – Plataforma de Estabilidad Financiera
+CEF-PEF
+gestionar la liquidez
+operación con liquidación diferida
+comunicación de información con fines de supervisión
+cobertura del riesgo de crédito con garantías reales o instrumentos similares
+entidad EISM
+compromiso de compra a plazo
+bono con garantía prendaria
+instrumentos admisibles subordinados
+establecer un requisito de riesgo específico para las obligaciones
+bono de titulización hipotecaria con amortización pass-through –al ritmo de la cartera-
+margen inicial
+incertidumbre del pago
+cobro de cupones
+medida del capital
+ayuda financiera dentro de un grupo
+ayuda financiera de grupo
+ayuda financiera intragrupo
+margen mínimo obligatorio
+anulación de las correcciones de valor
+análisis de crédito
+ámbito de aplicación de un modelo interno
+exceso de pérdidas
+mecanismo de protección prudencial
+empréstito voluntario
+obtención de un préstamo voluntario
+importe del principal
+principal
+diferencial medio ponderado
+spread medio ponderado
+periodo de retención
+swap de tipos de interés en una sola divisa
+permuta financiera de tipos de interés en una sola divisa
+cuenta de cheques postales
+recapitalización interna bancaria abierta
+estrategia de recapitalización interna bancaria abierta
+riesgos derivados de los grupos de clientes relacionados entre sí en la cartera de negociación
+NSFR
+ratio de financiación estable neta
+coeficiente de financiación estable neta
+ente del sector financiero
+grado del deudor
+LGD
+pérdida en caso de impago
+riesgo de refinanciación
+préstamo subrogado
+préstamo intermediado
+préstamo de mediación
+pago sin contacto
+emisor de deuda
+protección crediticia vendida
+red de seguridad financiada por el sector
+red de seguridad
+préstamo hipotecario a tipo de interés variable
+hipoteca de interés variable
+espónsor
+patrocinadora
+entidad de crédito patrocinadora
+adeudo
+entidad inviable o con probabilidad de serlo
+entidad inviable o que es probable que vaya a serlo
+entidad inviable o que sea previsible que vaya a serlo
+entidad en graves dificultades o en peligro de quiebra
+método de un solo nivel
+préstamo voluntario
+concesión de un préstamo voluntario
+obligación simple
+obligación no garantizada
+obligación sin garantía
+instrumento de resolución
+escala de calificaciones a largo plazo de bancos
+banca de inversión
+método basado en los factores de riesgo
+control prudencial
+supervisión prudencial
+quiebra bancaria
+reembolso
+pago de los depósitos
+pago de los importes garantizados de los depósitos
+desembolso
+escala de calificaciones a largo plazo de emisiones
+cuenta bancaria
+activo de nivel 2
+activo transferible de liquidez y calidad crediticia elevadas
+activo de liquidez y calidad crediticia elevadas
+criterio de asignación de la financiación especializada
+capital regulador
+fondos propios
+capital reglamentario
+supervisor prudencial
+revocación de la autorización
+diligencia debida simplificada con respecto al cliente
+ABCA
+Asociación de Bancos Centrales Africanos
+préstamo y crédito sindicado
+exposición que no se encuentra en situación de impago
+ente no regulado del sector financiero
+compensación de pérdidas
+medida de resolución
+información reglamentaria
+Agencia de Crédito a la Exportación
+ACE
+organismo de crédito a la exportación
+deuda de consumo
+períodos sucesivos de 10 días hábiles
+tasa media ponderada de impagos por exposición en caso de incumplimiento
+tasa media ponderada de impagos por EAD
+operación tardía
+reservas mínimas
+reservas obligatorias
+ejercicio financiero
+fase de seguro pleno
+etapa de seguro pleno
+administrador de créditos
+riesgo de acciones basado en la duración
+riesgo de mezcla de fondos
+actividad relacionada con el mercado y en contacto con los clientes
+orden contractual de prelación de pagos
+cascada contractual
+desencadenante contractual en cascada
+evento de desembolso
+plan de reestructuración
+plan de recuperación
+aceptación bancaria
+disponer de un crédito
+acuerdos de elevado nivel de seguridad para el mantenimiento de efectivo
+preferencia de los depositantes de un solo nivel
+tasa de impago a largo plazo
+distribución de las exposiciones
+valor de exposición
+valor de la exposición
+remuneración fija
+elementos de los fondos propios
+protegerse contra los efectos adversos del tipo de cambio
+opción sin alcance de barrera doble
+opción en rango
+cobertura de pérdidas
+líneas de crédito comprometidas
+sistema de coaseguro
+exposición renovable
+bancos autorizados
+factor de riesgo modelizado
+swap de doble moneda
+swap cruzado
+permuta financiera de intereses en divisas
+plan de contingencia
+negociar por cuenta propia
+ejercicio de recopilación de información
+tipo marginal de crédito
+tipo de interés de la facilidad marginal de crédito
+umbral de margen
+exigencias de capital globales
+reserva de valor razonable
+Grupo de Partes Interesadas del Sector Bancario
+GPISB
+ECAI
+agencia de calificación externa
+agencia externa de calificación crediticia
+márgenes de los contratos de futuros negociables y de contratos de opción
+plan de reestructuración de grupo
+infraestructura del mercado basada en la TRD
+entidades autorizadas para recibir depósitos
+operaciones incompletas
+administrador
+obligación de compensación
+ajuste de valor adicional
+AVA
+ajuste de valoración adicional
+posiciones en instrumentos derivados
+condonación
+institución financiera
+activo improductivo
+Grupo \Supervisión bancaria\""
+remuneración diferida
+entidad de liquidación
+bono cubierto
+obligación garantizada
+ajuste unilateral de valoración del crédito
+mercado interior financiero
+posición corta ponderada no compensada
+originación de préstamos
+originacion del préstamo
+reestructuración forzosa de los propios valores de renta variable
+reestructuración forzosa de las propias acciones
+sociedad emisora
+ANC
+autoridad nacional competente
+fondos en efectivo
+fase de reaseguro
+etapa de reaseguro
+periodo de reaseguro
+calificación alternativa
+instrumento de recapitalización interna
+requerimiento de capital regulatorio
+entidad de negociación
+instrumento de deuda subordinada perpetua
+modalidad A2A
+modalidad aplicación-aplicación
+posición ponderada en base a la duración
+Grupo de Trabajo de Alto Nivel sobre el SESD
+transaccionista
+prueba del menor coste
+día hábil de un BCN
+norma de rotación
+remuneración variable diferida
+retitulización
+AVC
+ajuste de valoración del crédito
+exposición máxima
+cadena de suscripción indirecta
+cadena de filiales
+operación de asistencia financiera
+empresa matriz de un tercer país
+exceso de margen
+unidad de control
+acción preferente convertible
+DAC
+Directiva sobre la adecuación del capital
+Directiva 2006/49/CE del Parlamento Europeo y del Consejo sobre la adecuación del capital de las empresas de inversión y las entidades de crédito (refundición)
+estructura de vencimiento prorrogable
+EE
+exposición esperada
+precio de recompra
+operación pasiva
+operación de pasivo
+liquidación al margen del principio FIFO
+loro
+posiciones propias en instrumentos financieros
+sucursal de la Union
+remuneración variable no diferida
+código de identificación de entidad mercantil
+código de identificación de negocio
+BIC
+código de identificación del banco
+asesoramiento a empresas en materia de finanzas corporativas
+fecha de entrega estipulada en un contrato de futuros
+revaluación completa
+transferir valores a una contraparte
+subasta a tipo de interés único
+subasta holandesa
+subasta a tipo único
+Cámara de compensación del África Occidental
+CCAO
+contrato de crédito sobre capital compartido
+deudor soberano
+remuneración variable
+empresa de servicios auxiliares
+población sin cuenta bancaria
+método estándar para el riesgo operativo
+método estándar
+entidad originadora
+originadora
+entidad de crédito originadora
+originador
+tolerancia de las autoridades de supervisión
+fondos propios de base
+empresa de inversión reconocida de terceros países
+compromiso de compra a plazo de un instrumento de deuda
+permuta de cobertura por impago vinculada a un índice
+capital interno
+concesión de periodos de gracia
+cupón fijado ex post
+riesgo de la cartera de negociación
+solvencia del emisor
+titulización simple, transparente y normalizada
+titulización STS
+salida neta de liquidez
+entidad que emplea el AMA
+entidad de gestión de activos
+banco defectuoso
+banco malo
+tasa íntegra
+prueba de estrés en toda la UE
+pérdida en la cola de distribución
+sociedad de gestión de un OICVM
+valoración local
+datos antitéticos
+periodo de mantenimiento
+sistema de garantía de depósitos
+SGD
+efecto de sustitución
+coeficiente de solvencia consolidado
+línea de liquidez
+comité nacional de pagos
+rendimiento de la cartera
+subasta estándar
+método de medición avanzada
+AMA
+depósito bancario
+cartera con bajo nivel de incumplimientos
+confianza de los depositantes
+desfase en la cobertura
+límite multilateral
+préstamo del mercado de dinero
+préstamo no garantizado
+crédito no garantizado
+Unidad de control de los riesgos
+entidad prestamista
+entidad de crédito
+centralización de tesorería
+APR
+activo ponderado por riesgo
+activo ponderado en función del riesgo
+parte transferente
+proceso de otorgamiento
+objetos de un poder
+colchón para otras entidades de importancia sistémica
+colchón para OEIS
+distribución de los valores de mercado
+escala de vencimientos
+opción de extinción
+nuevas emisiones en los mercados primarios
+Directiva 2013/36/UE del Parlamento Europeo y del Consejo relativa al acceso a la actividad de las entidades de crédito y a la supervisión prudencial de las entidades de crédito y las empresas de inversión, por la que se modifica la Directiva 2002/87/CE y se derogan las Directivas 2006/48/CE y 2006/49/CE
+Directiva sobre Requisitos de Capital
+DRC
+requisitos combinados de colchón
+requerimiento combinado de colchones
+inyección de liquidez
+instrumento de deuda de rango superior «no preferente»
+entidad que emplea el BIA
+opción adquirida en un mercado organizado
+certificado de depósito
+compromiso de recompra de valores
+financiación mayorista no garantizada
+riesgo de entrega
+exposición impagada
+exposición en situación de impago
+entidad pequeña y no compleja
+crisis sistémica del sector bancario
+baremo de remuneración
+lote
+divisas estrechamente correlacionadas
+subsector autoridades bancarias centrales
+posiciones de cupón fijo
+colchón contra riesgos sistémicos
+vencimiento inicial
+vencimiento a la emisión
+vencimiento original
+plazo de origen
+ratio de apalancamiento cumpliendo todos los requisitos
+cláusula de penalización
+cláusula de reducción de la remuneración
+préstamo productivo
+unidad de reestructuración
+empresa matriz de la Unión
+transacción ficticia
+variaciones del tipo de interés
+cálculo de las exigencias de capital consolidadas
+transacción transfronteriza
+cambio material del valor de los valores
+transacción artificial
+plan de liquidación
+plan de liquidación ordenada
+instrumento de venta del negocio
+línea de compra no utilizada
+compromiso de compra no utilizado
+requerimiento de capital por riesgo de cambio
+requisito de fondos propios por riesgo de tipo de cambio
+umbral de modelización body-tail
+derivado de crédito
+derivado crediticio
+entidad de grupo
+operación de intermediación
+operación CCL
+titular de funciones clave
+operación de absorción de liquidez
+riesgo de aseguramiento
+flujo de efectivo contingente
+caja de ahorro para la construcción
+cuenta de liquidación
+modelo de correponsalía de los bancos centrales
+modelo de corresponsalía entre bancos centrales
+MCBC
+subparticipación
+sistema de garantía de depósitos participante
+SGD participante
+entidad de crédito
+NR
+sin calificación
+IRC
+requerimiento de capital por riesgos de incumplimiento y de migración incrementales
+distribución neutral al riesgo
+herramienta prospectiva
+crédito bancario
+reembolso en la fecha de vencimiento
+EBIC
+Comité Europeo del Sector Bancario
+facilidad permanente
+facilidad permanente del Eurosistema
+escala de bandas de calificación soberana
+euronota
+prueba de resistencia de liquidez
+terceros vinculados
+Directiva 89/299/CEE del Consejo relativa a los fondos propios de las entidades de crédito
+Directiva sobre Fondos Propios
+riesgo general de mercado
+concentración de la financiación
+diligencia debida reforzada con respecto al cliente
+posición bruta global
+exposición de deuda
+ramas de actividad principales
+no aplicación del método de los modelos internos
+cartera de prestamos
+préstamo de un consorcio
+operación de recompra inversa
+operación de repo inverso
+operación de compra con pacto de reventa
+importe mínimo de transferencia
+instrumentos de capital pertinentes
+derecho de resolución
+derecho de rescisión
+subasta a tipo de interés múltiple
+subasta americana
+acuerdo de compensación por netting
+tipo de interés marginal
+compensación de clientes
+moratoria
+expediente de transmisión
+fondo de resolución ex ante
+instrumentos de capital ordinario de nivel 1
+matriz de volatilidad
+banco universal
+banco múltiple
+multibanco
+banco (a)de servicios múltiples
+banco de operaciones generales
+senda de financiación
+préstamo hipotecario para fines de consumo
+matriz de precios de contado
+elemento de los fondos propios de seguros
+calificación interna
+titular afectado
+calificación de duda municipal
+casa de compensación
+cuasiincidente
+secreto bancario
+eliminación del riesgo
+reducción del riesgo
+modificación importante
+contrapartes en pactos de recompra
+plan de reorganización de actividades
+garante principal
+posiciones de tipo flotante
+inmovilización de recursos económicos
+activo de nivel 1
+activo transferible de liquidez y calidad crediticia sumamente elevadas
+activo de liquidez y calidad crediticia sumamente elevadas
+mercado de futuros financieros
+exposición sin calificación
+activo de sustitución
+método basado en el riesgo
+titulización renovable
+impago regularizado
+incumplimiento subsanado
+proceso de evaluación de la adecuación del capital interno
+ICAAP
+proceso de autoevaluación del capital
+proceso interno de evaluación del capital
+pérdida en caso de impago de la contraparte
+LGDMKT
+tratamiento del retraso en los pagos
+reestructuración forzosa
+entidad matriz de la UE
+escala de calificación de fondos de bonos
+instrumento asimilado a efectivo
+opción down-and-out
+fondo minorista
+derivado de crédito suscrito
+inspección a distancia
+necesidad de liquidez
+derechos garantizados relativos a la titularidad de los valores
+porcentaje de colchón para OEIS
+porcentaje de colchón para otras entidades de importancia sistémica
+descubierto intradía
+entidad que emplea el TSA
+margen de cobertura
+requisito de margen
+usuario de la tarjeta
+valor intrínseco
+valor de paridad
+requisito de cobertura
+requisito de cobertura de activos
+entidad
+plazo de reembolso
+sistema de cotización bajo petición
+sistema de solicitud de cotización
+derecho de prelación de primer grado
+gravamen preferente perfecto
+sobreanticipo
+pérdida media ponderada por las posiciones en caso de impago
+ELGD
+cartera con alto nivel de incumplimiento
+mecanismos de financiación preacordados
+entidad financiera regulada
+ente regulado del sector financiero
+administrador de un índice de referencia crucial
+administrador de índices de referencia cruciales
+administrador del índice de referencia crucial
+activo primario
+falta de liquidez
+posiciones en divisas
+método basado en el criterio de expertos
+riesgo de liquidación en divisas
+riesgo de liquidación en moneda extranjera
+comprador de créditos
+plazo de revisión de los tipos de interés
+deudor
+obligado
+prueba de resistencia de solvencia
+periodo de coaseguro
+etapa de coaseguro
+pérdidas
+pérdidas por desembolso
+cartera pasiva
+control de los riesgos crediticios
+contrato de novación
+contrato novatorio
+método basado en fórmulas
+Directiva 2006/48/CE del Parlamento Europeo y del Consejo relativa al acceso a la actividad de las entidades de crédito y a su ejercicio (refundición)
+Directiva bancaria
+bien inmueble comercial
+sociedad financiera de cartera matriz de la UE
+crear sucursales
+venta verdadera
+auténtica compraventa
+titulización de venta verdadera
+fondo de capital riesgo
+contrato de futuros negociables en mercados organizados
+problema de liquidez
+recorte de derechos a los acreedores
+quita
+acuerdo de corresponsalía
+permuta de cobertura por impago
+vencimiento de permuta de riesgo de crédito
+bancos medianos y más pequeños
+exposición en periodo de prueba
+mecanismo de reparto de pérdidas
+capital de mayor calidad
+liquidación por compensación exigible anticipadamente
+compensación de cierre
+bonos de titulización de activos
+pérdida en situación de estrés
+Reglamento sobre liquidación y depositarios centrales de valores
+del país de origen y del país de acogida
+papeleta del monte de piedad
+montante global de un empréstito en principal y en intereses
+prueba de solvencia inversa
+poder compensarse respecto de las posiciones opuestas en las propias acciones subyacentes
+banco sujeto a control nacional
+OEIS
+otra entidad de importancia sistémica
+matriz de transición
+sistema de fondo común en la toma de garantías
+partida del activo
+persona con alta remuneración
+principio nominal
+posiciones de la cartera de negociación
+requerimiento de capital
+requerimiento de fondos propios
+requisito de capital
+requisito de fondos propios
+requisito de adecuación del capital
+riesgo de precio de acciones
+vida media ponderada
+acreditivo irrevocable
+activos no líquidos deducidos de los fondos propios
+producto de inversión
+posición ponderada compensada
+fecha de referencia de la información
+inmunidad a la quiebra
+aislamiento de la quiebra
+posición larga en contratos financieros de futuros sobre tipos de interés
+ratio temporal de capital
+crédito en efectivo
+en metálico
+gestión responsable de los créditos hipotecarios
+Banco Nacional de Austria
+instrumento de segregación de activos
+reducción del rating
+factor de duración supervisor
+PE
+EL
+pérdida esperada
+requerimiento de capital por riesgo de crédito
+requisito de fondos propios por riesgo de crédito
+requisito de capital por riesgo de crédito
+BCN AL
+apropiación
+revisión de la calidad de los activos
+anulación en libros
+cancelación en libros
+Consejo Mundial de Cooperativas de Ahorro y Crédito
+CMCAC
+exposición no renovable
+EE efectiva
+exposición esperada efectiva
+divisas compuestas
+riesgo de insolvencia
+posición en la cartera de negociación
+reaseguradas por terceros sobre la base de un acuerdo formal
+Banco Central del Caribe del Este
+BCCE
+horizonte de liquidez
+opción knock-out
+orden de traspaso de liquidez
+Federación Latinoamericana de Bancos
+FELABAN
+fragmentación de liquidiez
+método del indicador básico
+provisión dinámica
+radio de acción limitado
+sistema de reaseguro
+financiación minorista
+derechos de cobro adquiridos
+paquete de supervisión bancaria
+colchón anticíclico
+colchón de capital anticíclico
+Comité de Coordinación y Diálogo sobre Políticas
+Comité Conjunto de Coordinación y Diálogo sobre Políticas Económicas
+CCDP
+criterio de suscripción
+criterio para la concesión de créditos
+práctica de suscripción
+porcentaje del colchón anticíclico
+exposición no incluida en la cartera de negociación
+exposición de la cartera de inversión
+cópula
+entidad de crédito básica
+titulización tradicional
+mesa de negociación
+posición de retitulización
+cubierto con garantías reales
+con garantía
+banco participante
+banco coleader
+bancos codirectores
+bancos agentes
+grupo de resolución
+vencimiento efectivo para un conjunto de operaciones compensables con un vencimiento superior a un año
+estructura socar
+socar
+fecha de recompra
+depósitos de fondos de clientes
+autoridad de resolución a nivel de grupo
+línea de crédito
+instrumento de préstamo
+facilidad de crédito
+instrumento de financiación
+ejecución de la garantía real
+ejecución de garantía
+ratio de cobertura de liquidez
+coeficiente de cobertura de liquidez
+LCR
+tasa histórica de incumplimiento
+custodio
+opción up-and-in
+aportación en efectivo
+bono garantizado
+tenencia sintética
+participación sintética
+NICA
+importe de la garantía real independiente neta
+hipótesis contrafactual de insolvencia
+competencias de transmisión
+entidad que emplea el ASA
+exposición en instrumentos de capital
+posiciones de tipo fijo
+medida de seguro de depósitos
+ECAI elegible
+ECAI admisible
+entidad financiera de importancia sistémica
+riesgos derivados de transacciones pendientes de liquidación
+exceso en la garantía
+límite máximo de puja
+sociedades de crédito a la vivienda
+supervisor financiero de la lucha contra el blanqueo de capitales y la financiación del terrorismo
+supervisor encargado de la lucha contra el blanqueo de capitales y la financiación del terrorismo
+intermediario de crédito vinculado
+operaciones con divisas
+costes de rescate
+código del registro de crédito
+test de uso
+evento de tensión
+situación de tensión
+cartera de negociación
+opción down-and-in
+VaR estrés
+VaR en estrés
+VaR
+valor en riesgo en situación de estrés
+línea de liquidez sin calificación
+umbral de modelización de minimis
+dedicar liquidez
+competencia de resolución
+medida de la exposición
+medida de la exposición del coeficiente de apalancamiento
+medida de la exposición total de la ratio de apalancamiento
+medida de la exposición total
+aproximación
+grupo de agencias de calificación crediticia
+cubrir elementos de la cartera de negociación
+triple A
+calificación crediticia triple A
+AAA
+calificación triple A
+tasa de supervisión
+importe utilizado
+servicios de fondo de liquidez
+índices ampliamente diversificados
+Proyecto SGA
+plan general sobre las sociedades de gestión de activos
+compromiso de valor mínimo
+supervisor en base consolidada
+supervisor consolidado
+requerimientos de recursos propios por riesgo específico
+exigencia de capital por riesgo específico
+activos de caja
+cobertura del exceso de pérdidas
+adquirir participaciones
+escala de calificaciones a largo plazo de empresas
+fecha de adquisición
+código normativo único
+estrategia de transmisión
+estrategia de resolución mediante transmisión
+operación estructural
+regulación macroprudencial
+reglamentación macroprudencial
+mercado de instrumentos de deuda soberana
+principio de evitar a los acreedores perjuicios superiores a los de los procedimientos ordinarios de insolvencia
+evitación de perjuicios suplementarios para los acreedores
+reservar liquidez
+herramienta retrospectiva
+riesgo de financiación
+riesgo de liquidez de financiación
+deducción de los fondos propios
+requerimiento de capital por riesgo operacional
+requisito de capital por riesgo operativo
+requisito de fondos propios por riesgo operativo
+dispositivo de resolución de grupo
+derecho a recibir margen
+FMM promovido
+personal de caja
+personal que trabaja habitualmente con dinero en efectivo
+personal encargado del manejo de efectivo
+márgenes de garantía sobre instrumentos derivados negociables en mercados organizados
+Directiva sobre Requisitos de Capital
+Directivas sobre Requisitos de Capital
+DRC
+entidad autorizada en el ámbito nacional
+garantía dentro de un grupo
+liquidez del sector bancario
+supervisión de las sociedades de inversión y de las entidades de crédito
+vencimiento legal
+uso parcial permanente
+mecanismo de financiación de grupo
+instrumento vinculado a acciones
+mecanismo de promediación
+entidad de un tercer país
+vinculación entre los bancos y la deuda soberana
+círculo vicioso entre banca y deuda pública
+balance y cuentas de orden
+certificación basada en la equivalencia
+acreedor afectado
+entidad financiera
+calificación que desaparece
+venta directa
+posiciones residuales no compensadas ponderadas en base a la duración
+posición alcista
+posición larga
+reestructuración forzosa de la obligación crediticia
+entidad matriz pertinente
+carga de notificación
+carga de presentación de información
+correlación del riesgo de crédito
+contraparte ficticia
+riesgos derivados de pactos de recompra
+préstamo NINJA
+cambio de cuentas bancarias
+titulización sintética
+choque de liquidez
+mercado bancario
+Nuevo Marco de Capital de Basilea
+Marco de Basilea II
+Marco de Capital de Basilea II
+cooperativa de crédito
+categoría de deuda «no preferente» de rango superior
+comparación de remuneraciones
+obligación con garantía prendaria
+bono con garantía prendaria
+prórroga del préstamo
+fondos propios de las empresas fusionadas en el momento de producirse la fusión
+esquema de protección de activos
+método estándar simplificado para el riesgo de crédito de contraparte
+compensación entre la cartera de negociación y las posiciones en divisas
+vigilante de seguridad para transporte de fondos
+tasa de impago acumulada
+captación de depósitos a plazo
+captación de depósitos a plazo fijo
+riesgo general
+crédito privilegiado
+deuda privilegiada
+crédito preferente
+deuda prioritaria
+deuda senior
+calificación por defecto
+control
+préstamo con cesión del quinto del sueldo
+préstamo garantizado por una cesión de sueldo
+filial de la Unión
+activación múltiple
+prestatario empresarial
+ejercicio de comparación de remuneraciones
+sindicato bancario
+consorcio bancario
+depósito disponible con preaviso
+ejecución extrajudicial acelerada de garantías reales
+capacidad crediticia
+solvencia
+banco inscrito
+valor prioritario
+valor preferente
+exposición a criptoactivos
+tipo de actividades que las sociedades de inversión están autorizadas a desarrollar
+protección crediticia sin aportación de fondos
+cobertura del riesgo de crédito con garantías personales
+opción con barrera
+transacción extrabursátil
+preferencia general de los depositantes
+política de aprobación de nuevos productos
+rango de subordinación
+beneficios netos de la cartera de negociación de la entidad
+OFPML
+operación de financiación a plazo más largo
+categoría de exposición disociada
+derivado de crédito de n-ésimo impago
+registro central de calificación crediticia
+obligación crediticia significativa
+cupón prefijado
+deuda tóxica
+programa de bonos garantizados
+valor observado
+capacidad de reestructuración
+requisito de liquidez
+requisito de cobertura de liquidez
+requerimiento de liquidez
+grupo de clientes vinculados entre sí
+mecanismo de asignación
+cláusula de liquidación
+interés moratorio
+intereses de mora
+intereses de demora
+calificación externa
+umbral de declaración
+bono de tesorería
+bono de caja
+grado de cada riesgo
+mercado fluido
+mercado profundo
+empréstito subordinado
+balance temporalmente alto
+conjunto de operaciones compensables
+grandes exposiciones
+grandes riesgos
+probable impago
+improbabilidad de pago
+órgano de control del conjunto de cobertura
+calificación soberana
+a efectos de regulación
+factor de cobertura
+depósito mayorista
+depósito al por mayor
+opcíón up-and-out
+pérdida no realizada
+PIIGS
+Portugal, Irlanda, Italia, Grecia y España
+condiciones de resolución
+autorización
+requisito de fondos propios adicionales
+requerimiento de pilar 2
+requerimiento de capital por pilar 2
+P2R
+resolución
+resolución bancaria
+periodo de riesgo del margen
+cheque truncado
+entidad no crediticia
+banco de importancia sistémica
+banco sistémico
+ampliación
+IMD
+importe máximo distribuible
+tasa de impago
+tasa de morosidad
+demanda de garantía
+código del registro mercantil
+P2G
+recomendación de capital por pilar 2
+expectativa supervisora de capital de pilar 2
+orientación sobre fondos propios adicionales
+exposición esperada efectiva en una fecha concreta
+financiamiento de contrapartida
+financiamiento de contraparte
+financiación casada
+financiación simétrica
+bono garantizado pendiente
+catalogacíón del riesgo
+préstamo de margen
+sistema institucional de protección
+SIP
+conjunto de posiciones compensables
+structurer
+probabilidad de impago a largo plazo
+hipoteca burbuja
+hipoteca sumergida
+hipoteca sobrevalorada
+asignación
+prueba de resistencia de abajo arriba
+prueba de resistencia individual
+método estándar para el riesgo de crédito
+método estándar
+valor parcialmente abonado
+método de escalado
+activo libre de cargas
+activo sin cargas
+evaluación de las posiciones
+crisis sistémica
+crisis sistemática
+exposición positiva esperada efectiva
+EPE efectiva
+periodo de estrés
+NGR
+coeficiente neto/bruto
+riesgo de delta
+BCN gestor
+tasa de salidas
+mejora crediticia
+colchón del coeficiente de apalancamiento
+colchón de la ratio de apalancamiento
+intermediario de crédito no vinculado
+opciones sobre tipos de interés
+FEIN
+gastos fijos generales
+banco de inversión
+instrumento con un perfil económico a largo plazo
+posición larga en un instrumento de tipo flotante
+mercado financiero integrado
+activo de la lista dos
+principio del inversor privado en una economía de mercado
+auditor
+competencias de amortización («write-down») y conversión
+personal identificado
+acuerdos de un elevado nivel de seguridad para el depósito de instrumentos financieros
+protección del inversor

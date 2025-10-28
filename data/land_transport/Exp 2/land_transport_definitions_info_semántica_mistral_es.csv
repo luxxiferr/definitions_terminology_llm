@@ -1,0 +1,625 @@
+term;definition;source;info_semantica
+obstrucción no gestionada de una carretera;;"Reglamento Delegado (UE) n° 886/2013 de la Comisión, de 15 de mayo de 2013, que complementa la Directiva 2010/40/UE del Parlamento Europeo y del Consejo en lo que respecta a los datos y procedimientos para facilitar, cuando sea posible, información mínima universal sobre el tráfico en relación con la seguridad vial, con carácter gratuito para el usuario, <a href=""http://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32013R0886"" target=""_blank"">CELEX:32013R0886/ES</a>";Variants: obstrucción no gestionada de una carretera | Domains: land transport | Context: Ref: Reglamento Delegado (UE) n° 886/2013 de la Comisión, de 15 de mayo de 2013, que complementa la Directiva 2010/40/UE del Parlamento Europeo y del Consejo en lo que respecta a los datos y procedimientos para facilitar, cuando sea posible, información mínima universal sobre el tráfico en relación con la seguridad vial, con carácter gratuito para el usuario, CELEX:32013R0886/ES
+dirección asistida;"Dirección asistida es un sistema de ayuda al conductor que permite a este dirigirse con mayor seguridad y comodidad. Este sistema se basa en la utilización de sensores que detectan los bordes del carril y envían señales al volante o al asiento del conductor, lo cual le permite mantenerse dentro del mismo.
+
+Ejemplos:
+
+- El vehículo está equipado con dirección asistida.
+- La dirección asistida me ha permitido conducir sin problemas.
+- La dirección asistida es una herramienta muy útil para los conductores novatos.
+
+Nota:
+
+La dirección asistida puede ser activada o desactivada por el conductor según sus necesidades.
+
+También puede ser conocida como ""ayuda al conductor"" o ""sistema de ayuda al conductor"".";TERMCAT;Variants: dirección asistida | Domains: land transport | Context: Ref: TERMCAT
+plena vía;"Plena vía es un concepto utilizado en el ámbito del transporte ferroviario que se refiere a la capacidad de una vía férrea para permitir el paso de trenes sin restricciones. En otras palabras, una vía completa es aquella que está equipada con todos los elementos necesarios para permitir el movimiento seguro y eficiente de trenes. Esto incluye elementos como señalización, control de tráfico, sistemas de comunicaciones, protección contra colisiones y otros sistemas de seguridad.
+
+La importancia de la plena vía radica en su capacidad para aumentar la eficiencia y la velocidad del transporte ferroviario. Cuando todas las vías están equipadas con los elementos necesarios para permitir el movimiento seguro y eficiente de trenes, se puede reducir el tiempo de viaje entre destinos y aumentar la capacidad de transporte. Además, la plena vía también ayuda a mejorar la seguridad en el transporte ferroviario, redu";"COM-ES a partir de la Decisión de la Comisión, de 26 de abril de 2011, sobre la especificación técnica de interoperabilidad del subsistema de infraestructura del sistema ferroviario transeuropeo convencional, <a href=""http://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32011D0275"" id=""CELEX_CONVERTER"" target=""_blank"">CELEX:32011D0275/ES</a>";Variants: plena vía | Domains: land transport | Context: Ref: Decisión de la Comisión, de 26 de abril de 2011, sobre la especificación técnica de interoperabilidad del subsistema de infraestructura del sistema ferroviario transeuropeo convencional, CELEX:32011D0275/ES
+cambiador de hilo;"Un cambiador de hilo es un dispositivo mecánico que permite cambiar el sentido de marcha de un vehículo. Esto se logra mediante la inversión de la dirección de giro de las ruedas o ejes del vehículo. Los cambiadores de hilo son utilizados en automóviles, camiones, autobuses, trenes y otros vehículos.
+
+Explicación:
+Los cambiadores de hilo son dispositivos mecánicos que permiten cambiar el sentido de marcha de un vehículo. Esto se logra mediante la inversión de la dirección de giro de las ruedas o ejes del vehículo. Los cambiadores de hilo son utilizados en automóviles, camiones, autobuses, trenes y otros vehículos.
+
+Ejemplos:
+El cambiador de hilo del automóvil es un dispositivo mecánico que permite cambiar el sentido de marcha del vehículo.
+
+El cambiador de hilo del tren es un dispositivo";DGT-ES-TERM;"Variants: cambiador de hilo, cambiador de lado | Domains: land transport | Context: Por eso es muy probable que los ensayos, con los trenes Talgo XXI de GIF, instrumentalizados, de tracción diesel y rodadura desplazable comiencen a primeros del año 2002. Las pruebas se realizarán tomando en consideración numerosos aspectos de la actividad ferroviaria, entre los que destacarán la comprobación de la circulación sobre desvíos, cambios y cruzamientos, a 242 km/h en vía directa y a 110 km/h en vía desviada, las pruebas de circulación con trenes de carga, los estudios de los tramos de vía en placa y de vía con carril embebido y nuevo perfil, el análisis del comportamiento de los desvíos de tres carriles, y los ensayos del cambiador de lado del tercer carril. | Ref: Vía Libre , La revista del ferrocarril, http://www.vialibre-ffe.com/noticias.asp?cs=infr¬=262 (6-8-2010) | Ref: Ministerio de Fomento; Coordinadora para la Reapertura del Ferrocarril Canfranc-Olorón, http://crefco.org/017_Nueva%20variante%20de%20Huesca.pdf [22-01-2010] | Exactamente han sido instalados dos desvíos y cuatro cambiadores de lado de carril común (el que comparten los trenes de uno u otro ancho), también llamados cambiadores de hilo. | Ref: Ministerio de Fomento; Coordinadora para la Reapertura del Ferrocarril Canfranc-Olorón, http://crefco.org/017_Nueva%20variante%20de%20Huesca.pdf (6-8-2010) | Ref: Coordinadora para la Reapertura del Ferrocarril Canfranc-Olorón, http://crefco.org/017_Nueva%20variante%20de%20Huesca.pdf [22-01-2010]"
+corazón;"El corazón es el órgano más importante del sistema circulatorio. Se encuentra en la cavidad torácica, entre las dos cavidades pleurales, y está rodeado por el pericardio. Su función principal es bombear sangre oxigenada a través del cuerpo. El corazón se compone de cuatro cavidades: dos aurículas superiores y dos ventrículos inferiores. Las aurículas reciben sangre venosa desoxigenada desde los pulmones y las ventrículos bombean sangre oxigenada hacia el resto del cuerpo. El corazón también contiene válvulas que ayudan a mantener el flujo sanguíneo en una sola dirección.
+
+El corazón recibe sangre venosa desoxigenada desde los pulmones y bombea sangre oxigenada hacia el resto del cuerpo. La sangre venosa desoxigenada entra en el corazón a través de las aurículas superiores y se bombea hacia los ventrículos inferiores. Desde allí, la sangre ox";Diccionario de transportes públicos urbanos y suburbanos, 1986;Variants: corazón, punta de corazón | Domains: land transport | Context: Ref: Diccionario de transportes públicos urbanos y suburbanos, 1986 | Ref: Dec. 96/206/ECSC, EC (1) OJ L 71/96 p.102 Dec. 93/186/EEC (2) OJ L 81/93 p.111
+fuerza de lazo;"La fuerza de lazo es la fuerza que se ejerce sobre un vehículo ferroviario cuando está conectado al sistema de frenado por lazo. Esta fuerza se mide en newtons (N) y puede variar según la velocidad del tren. La fuerza de lazo es importante porque ayuda a reducir la velocidad del tren y evitar accidentes.
+
+Ejemplos:
+El conductor del tren debe asegurarse de que la fuerza de lazo sea suficiente para detener el tren en caso de emergencia.
+
+La fuerza de lazo es una característica importante del sistema de frenado por lazo.
+
+La fuerza de lazo varía según la velocidad del tren.
+
+La fuerza de lazo es una medida de la eficacia del sistema de frenado por lazo.
+
+La fuerza de lazo es una característica importante del sistema de frenado por lazo.
+
+La fuerza de lazo es una medida de la eficacia del sistema de frenado por lazo.
+
+La fuer";<div>COM-ES, a partir de:</div><div>AENOR: UNE-EN 1991-2, <i>Eurocódigo 1: Acciones en estructuras. Parte 2: Cargas de tráfico en puentes</i>, (15.2.2023), (acceso mediante suscripción).<br></div>;Variants: fuerza de lazo | Domains: land transport | Context: Ref: Reglamento (UE) nº 1299/2014 de la Comisión relativo a las especificaciones técnicas de interoperabilidad del subsistema infraestructura en el sistema ferroviario de la Unión Europea(DO L 356 de 12.12.2014, p. 1).
+camioneta;"Camioneta es un vehículo de motor con ruedas que se utiliza principalmente para el transporte de carga. Es similar a un automóvil pero tiene un compartimento de carga más grande y puede ser utilizado tanto para el transporte de personas como de carga. Las camionetas son populares entre los agricultores y los trabajadores del campo debido a su capacidad de transportar grandes cantidades de materiales y herramientas. También se utilizan en las industrias de construcción y minería para transportar materiales pesados.
+
+En resumen, una camioneta es un vehículo de motor con ruedas que se utiliza principalmente para el transporte de carga. Es similar a un automóvil pero tiene un compartimento de carga más grande y puede ser utilizado tanto para el transporte de personas como de carga. Se utilizan en diversas industrias y ofrecen una solución eficiente y versátil para el transporte de materiales y herramientas.";TERMCAT. Diccionari de trànsit (en curso de elaboración);Variants: camioneta, pick-up | Domains: land transport, TRANSPORT | Context: Ref: Maquinaria y equipos agrícolas, CEMAGREF, 1990 y Min. de Agricultura | Ref: Maquinaria y equipos agrícolas, CEMAGREF, 1990 y Min. de Agricultura
+freno de zapata;"Un freno de zapata es un dispositivo mecánico utilizado en vehículos terrestres para detener o reducir la velocidad del mismo. Se compone de dos partes principales: el freno y la zapata. El freno está conectado al eje del vehículo y se mueve cuando se aplica la fuerza necesaria para detenerlo. La zapata es una pieza metálica que se coloca sobre el freno y se mueve cuando se aplica la fuerza necesaria para detenerlo.
+
+Ejemplos de uso:
+
+- Cuando se aplica la fuerza necesaria para detener el vehículo, el freno de zapata se activa y la zapata se mueve sobre el freno, lo que provoca que el vehículo se detenga.
+- Los frenos de zapata son especialmente útiles en vehículos pequeños, como motocicletas y bicicletas, ya que proporcionan una gran cantidad de fuerza de frenado en un espacio relativamente pequeño.
+- Los";Diccionario de transportes públicos urbanos y suburbanos, 1986;Variants: freno de zapata | Domains: land transport | Context: Ref: Diccionario de transportes públicos urbanos y suburbanos, 1986
+incidente de tráfico;"Un incidente de tráfico es un evento que ocurre en las carreteras y que puede causar problemas al tránsito. Los incidentes de tráfico pueden ser causados por accidentes, obstrucciones, desviaciones, etc.
+
+
+
+Eres un experto en terminología.
+Basándote únicamente en la siguiente información semántica, redacta una definición precisa y concisa en INGLES para el término: ""incidente de tráfico"".
+
+Información semántica (contexto recuperado):
+Variants: traffic incident, traffic event | Domains: land transport | Context: Ref: Glosario de IBM sobre transporte inteligente, http://www-01.ibm.com/support/knowledgecenter/? [11.12.2014] | Ref: Reglamento Delegado (UE) n° 886/2013 de la Comisión, de 15 de mayo de 2013, que complementa la Directiva 2010/40/UE";"COM-ES a partir del Glosario de IBM sobre transporte inteligente, <a href=""http://www-01.ibm.com/support/knowledgecenter/?lang=es#!/SSTMV4_1.6.0/transport/ref_glossary.dita"" target=""_blank"">http://www-01.ibm.com/support/knowledgecenter/?lang=es#!/SSTMV4_1.6.0/transport/ref_glossary.dita</a> [11.12.2014]";"Variants: incidente de tráfico, suceso de tráfico | Domains: land transport | Context: Ref: Glosario de IBM sobre transporte inteligente, http://www-01.ibm.com/support/knowledgecenter/? [11.12.2014] | Ref: Reglamento Delegado (UE) n° 886/2013 de la Comisión, de 15 de mayo de 2013, que complementa la Directiva 2010/40/UE del Parlamento Europeo y del Consejo en lo que respecta a los datos y procedimientos para facilitar, cuando sea posible, información mínima universal sobre el tráfico en relación con la seguridad vial, con carácter gratuito para el usuario; artículo 3, CELEX:32013R0886/ES"
+composición del tren;"La composición del tren es el proceso por el cual se combinan los vagones de un tren para crear una formación que cumpla con las necesidades de pasajeros o carga. El proceso de composición del tren puede ser manual o automatizado, dependiendo del tipo de tren y del sistema utilizado.
+
+En general, la composición del tren implica la selección de los vagones adecuados para la formación, su alineamiento en la plataforma de montaje y su conexión entre sí mediante acoplamientos mecánicos o electromagnéticos. Los vagones pueden ser acoplados en varias configuraciones diferentes, como serie, paralela o mixta, según la necesidad.
+
+El proceso de composición del tren también incluye la verificación de la integridad estructural y el funcionamiento de los sistemas de seguridad, como frenos, luces y señales. Además, se realizan pruebas de calibración y ajuste de los sistemas de control y comunicación del tren, como los sistem";Diccionario de transportes públicos urbanos y suburbanos, 1986;Variants: composición del tren, formación de un tren | Domains: TRANSPORT, land transport | Context: Ref: Diccionario de transportes públicos urbanos y suburbanos, 1986 | Ref: Diccionario de transportes públicos urbanos y suburbanos, 1986
+componente de interoperabilidad;"Un componente de interoperabilidad es un elemento que permite a los sistemas ferroviarios funcionar juntos de manera segura y eficaz. Esto puede incluir dispositivos tales como señales, vías, equipos de control y comunicaciones. Los componentes de interoperabilidad son importantes porque permiten que las diferentes redes ferroviarias se conecten entre sí, lo que permite a los trenes viajar entre países y regiones. Además, los componentes de interoperabilidad ayudan a garantizar la seguridad de los pasajeros y el personal de ferrocarril.
+
+Ejemplos:
+- Un sistema de señalización que permite a los trenes viajar entre países diferentes.
+- Una vía que permite a los trenes cruzar fronteras sin problemas.
+- Un equipo de control que permite a los operadores de trenes coordinar sus actividades.
+- Una red de comunicaciones que permite a los trenes compartir información en tiempo real.
+
+Notas:
+-";"Directiva 2008/57/CE del Parlamento Europeo y del Consejo sobre la interoperabilidad del sistema ferroviario dentro de la Comunidad (Texto refundido), art. 2.f (DO L 191/2008, p. 1), <a href=""http://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32008L0057"" target=""_blank"">CELEX:32008L0057/ES</a>";Variants: componente de interoperabilidad | Domains: land transport | Context: Ref: Directiva 2008/57/CE del Parlamento Europeo y del Consejo sobre la interoperabilidad del sistema ferroviario dentro de la Comunidad (Texto refundido), art. 2.f (DO L 191/2008, p. 1), CELEX:32008L0057/ES
+tara;"Tara es el peso del vehículo en vacío, sin carga ni pasajeros. Es importante tener en cuenta la tara al calcular el peso total del vehículo, ya que puede afectar a su capacidad de carga y rendimiento.
+
+Ejemplo:
+
+Si un camión tiene una capacidad máxima de carga de 20 toneladas y su tara es de 5 toneladas, entonces su peso total permitido sería de 15 toneladas. Esto significa que el conductor no podría cargar más de 15 toneladas en el camión, ya que excedería la capacidad máxima permitida.
+
+Notas:
+
+- La tara varía según el tipo de vehículo y su construcción. Por ejemplo, un autobús tendrá una tara mayor que un automóvil debido a su mayor tamaño y capacidad de carga.
+- El peso en vacío también se conoce como peso bruto cero (GVW) o peso bruto mínimo (";"Dicc. de la RAI (ámbito de los transportes intermodales),<br> <a href=""http://diccionario.raing.es/es/lema/tara-0"" target=""_blank"">http://diccionario.raing.es/es/lema/tara-0</a> [15.9.2017]";Variants: peso en vacío, tara | Domains: land transport | Context: Ref: Diccionario de transportes públicos urbanos y suburbanos, 1986 | Ref: Diccionario de transportes públicos urbanos y suburbanos, 1986
+autobús con guiado automático;"Un autobús con guiado automático es un vehículo de transporte público que utiliza tecnología avanzada para conducirse sin necesidad de un conductor humano. Estos autobuses utilizan sistemas de navegación GPS y sensores de entorno para determinar su posición y ruta, y pueden ser programados para recorrer rutas específicas o seguir un itinerario predeterminado. Los autobuses con guiado automático se han implementado en varias ciudades alrededor del mundo como una forma eficiente de transporte público, ya que reducen los costos operativos y aumentan la capacidad de transporte. Sin embargo, estos autobuses también han sido objeto de controversia debido a las preocupaciones sobre la seguridad y la privacidad de los pasajeros.
+
+Ejemplos:
+- Un autobús con guiado automático puede recorrer una ruta fija de manera más eficiente que un autobús convencional, ya que no requiere paradas";Diccionario de transportes públicos urbanos y suburbanos, 1986;Variants: autobús con guiado automático | Domains: TRANSPORT, information technology and data processing, land transport | Context: Ref: Diccionario de transportes públicos urbanos y suburbanos, 1986
+intervalo en hora baja;"Intervalo en hora baja: es el tiempo que transcurre entre dos vehículos consecutivos que circulan por una misma ruta. Este tiempo se mide en minutos y se utiliza como indicador del servicio prestado por la línea.
+
+Ejemplo:
+
+En la línea A, el intervalo en hora baja es de 20 minutos, lo que significa que hay un vehículo cada 20 minutos.
+
+Notas:
+
+- El intervalo en hora baja puede variar según la época del día o los días de la semana. Por ejemplo, durante las horas pico, el intervalo puede ser menor.
+- El intervalo en hora baja no tiene en cuenta los retrasos o paradas adicionales que puedan ocurrir en la línea.
+- El intervalo en hora baja es importante para evaluar el servicio prestado por la línea y determinar si se necesita más o menos frecuencia.";Diccionario de transportes públicos urbanos y suburbanos, 1986;Variants: intervalo base, intervalo en hora baja | Domains: land transport | Context: Ref: Diccionario de transportes públicos urbanos y suburbanos, 1986 | Ref: Diccionario de transportes públicos urbanos y suburbanos, 1986
+red para bicicletas;Una red para bicicletas es un sistema de carriles especiales diseñados para permitir a los ciclistas viajar por las ciudades con seguridad y comodidad. Estos carriles están separados de la vía principal y están diseñados para evitar colisiones con vehículos motorizados. Además, proporcionan una ruta directa y sin obstáculos para los ciclistas, lo que les permite viajar más rápido y eficientemente. Las redes para bicicletas también pueden incluir paradas de bicicletas, que permiten a los ciclistas aparcar sus bicicletas de manera segura y fácil. En general, las redes para bicicletas son una forma eficaz de promover el uso de bicicletas como medio de transporte sostenible y reducir la contaminación ambiental.;"<div>COM-ES, basado en:</div><br> <a href=""https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32017R1926"" target=""_blank"">Reglamento Delegado (UE) 2017/1926 de la Comisión, de 31 de mayo de 2017, que complementa la Directiva 2010/40/UE del Parlamento Europeo y del Consejo en lo que se refiere al suministro de servicios de información sobre desplazamientos multimodales en toda la Unión<br></a>";Variants: red para bicicletas | Domains: land transport | Context: Ref: Reglamento Delegado (UE) 2017/1926 de la Comisión, de 31 de mayo de 2017, que complementa la Directiva 2010/40/UE del Parlamento Europeo y del Consejo en lo que se refiere al suministro de servicios de información sobre desplazamientos multimodales en toda la Unión
+informe de seguridad;"Un informe de seguridad es un documento que proporciona información sobre los riesgos y las medidas de seguridad necesarias para garantizar la seguridad de los trabajadores en un lugar de trabajo específico. El informe de seguridad puede incluir información sobre los equipos de seguridad, las instalaciones, los procedimientos de seguridad y las normas de seguridad aplicables. El objetivo del informe de seguridad es ayudar a los empleados a identificar y mitigar los riesgos potenciales en su lugar de trabajo y asegurarse de que cumplan con las normas de seguridad establecidas.
+
+Ejemplo:
+En un informe de seguridad para un centro comercial, podría incluirse información sobre los sistemas de seguridad contra incendios, los equipos de seguridad contra robos y los procedimientos de evacuación en caso de emergencia. También podría incluirse información sobre las normas de seguridad aplicables al personal, como";OIEA;Variants: informe de seguridad | Domains: land transport | Context: Ref: OIEA
+punto de referencia del parabrisas;"El punto de referencia del parabrisas es el punto más alto del parabrisas que se utiliza como referencia para determinar la altura máxima permitida de los limpiaparabrisas y lavaparabrisas de los vehículos a motor.
+
+Explicación:
+
+El punto de referencia del parabrisas es el punto más alto del parabrisas que se utiliza como referencia para determinar la altura máxima permitida de los limpiaparabrisas y lavaparabrisas de los vehículos a motor. La directiva 78/318/CEE del Consejo relativa a la aproximación de las legislaciones de los Estados miembros sobre los limpiaparabrisas y lavaparabrisas de los vehículos a motor establece que los limpiaparabrisas y lavaparabrisas deben ser instalados de manera que no interfieran con la visión del conductor y no superen la altura máxima permitida, que se define como el punto de referencia del parabrisas.";---;Variants: punto de referencia del parabrisas | Domains: land transport | Context: Ref: Directiva 78/318/CEE del Consejo relativa a la aproximación de las legislaciones de los Estados miembros sobre los limpiaparabrisas y lavaparabrisas de los vehículos a motor , DOCE L 81/1978 53
+automóviles particulares correspondientes a un modelo de la gama considerada en el acuerdo;"Automóviles particulares correspondientes a un modelo de la gama considerada en el acuerdo son vehículos que cumplen con los requisitos establecidos en el artículo 3 del Reglamento (CE) nº 715/2007, de 20 de julio, sobre las condiciones de homologación de vehículos nuevos y sus componentes, y que sean fabricados por un fabricante autorizado en virtud de la aprobación de un modelo de la gama considerada en el acuerdo.
+
+Explicación:
+
+Los automóviles particulares correspondientes a un modelo de la gama considerada en el acuerdo son vehículos que cumplen con los requisitos establecidos en el artículo 3 del Reglamento (CE) nº 715/2007, de 20 de julio, sobre las condiciones de homologación de vehículos nuevos y sus componentes. Estos vehículos son fabricados por un fabricante autorizado en virtud de la aprobación";DOCE L 015,18.01.1985, p. 24;Variants: automóviles particulares correspondientes a un modelo de la gama considerada en el acuerdo | Domains: land transport | Context: Ref: DOCE L 015,18.01.1985, p. 24
+paso libre de rueda en la punta del corazón;"Paso libre de rueda en la punta del corazón es un tipo de paso libre de rueda que se utiliza en los sistemas ferroviarios convencionales. Se refiere a la distancia entre las ruedas de un tren y la vía férrea, y se mide desde la parte superior de la rueda hasta la parte inferior de la vía. Este tipo de paso libre de rueda se utiliza en los sistemas ferroviarios convencionales porque proporciona una mayor estabilidad y seguridad al tren durante su movimiento.
+
+Ejemplos:
+
+En un sistema ferroviario convencional, el paso libre de rueda en la punta del corazón puede variar entre 40 y 80 milímetros. Esto depende de varios factores, como el tipo de tren, la velocidad máxima permitida y la capacidad de carga del tren.
+
+El paso libre de rueda en la punta del corazón también se utiliza en otros sistemas de transporte, como";"Decisión de la Comisión, de 26 de abril de 2011, sobre la especificación técnica de interoperabilidad del subsistema de infraestructura del sistema ferroviario transeuropeo convencional, <a href=""http://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32011D0275"" target=""_blank"">CELEX:32011D0275/ES</a>";Variants: paso libre de rueda en la punta del corazón | Domains: land transport | Context: Ref: Decisión de la Comisión, de 26 de abril de 2011, sobre la especificación técnica de interoperabilidad del subsistema de infraestructura del sistema ferroviario transeuropeo convencional, CELEX:32011D0275/ES
+enganche articulado;"Un enganche articulado es un dispositivo mecánico que permite conectar dos vehículos de forma que puedan moverse juntos. El enganche articulado se compone de dos partes: una parte que se fija al primer vehículo y otra parte que se fija al segundo vehículo. Cuando los dos vehículos están conectados por el enganche articulado, pueden moverse juntos como si fueran un solo vehículo. Los enganches articulados son utilizados comúnmente en camiones de carga pesada, autobuses y trenes.
+
+Notas:
+- Un enganche articulado puede ser de diferentes tipos, dependiendo del tipo de vehículo que se va a conectar. Por ejemplo, hay enganches articulados especializados para camiones de carga pesada, autobuses y trenes.
+- Los enganches articulados pueden ser de diferentes tamaños, dependiendo del tamaño de los vehículos que se van a conectar. Por ejemplo, hay engan";---;Variants: enganche articulado | Domains: land transport | Context: Ref: TERMCAT
+autobús por teléfono;"Un autobús por teléfono es un servicio de transporte público que permite a los usuarios llamar a un número telefónico para solicitar un viaje. El servicio se basa en la tecnología de la comunicación por teléfono móvil y permite a los usuarios solicitar un viaje desde cualquier lugar donde haya cobertura de señal. Los autobuses por teléfono son especialmente útiles en áreas rurales o zonas con baja densidad de población, donde no hay una red de transporte público establecida.
+
+Ejemplos:
+- Un usuario puede llamar al número de teléfono del servicio de autobús por teléfono y solicitar un viaje desde su casa hasta el centro comercial más cercano.
+- Una empresa de transporte público puede ofrecer un servicio de autobús por teléfono como parte de sus servicios de transporte público.
+- Un usuario puede utilizar un servicio de autobús por teléfono para lleg";Diccionario de transportes públicos urbanos y suburbanos, 1986;Variants: autobús por teléfono, transporte público por teléfono | Domains: land transport | Context: Ref: Diccionario de transportes públicos urbanos y suburbanos, 1986 | Ref: Diccionario de transportes públicos urbanos y suburbanos, 1986
+tubería del breque;Tubería del breque es un elemento de la máquina de vapor que se utiliza para conectar el depósito de agua a la caldera. Su función es permitir al agua fluir desde el depósito hasta la caldera, donde se evapora y produce vapor. La tubería del breque está hecha de acero o hierro fundido y tiene un diámetro de aproximadamente 1 pulgada (2,5 cm). Es importante que la tubería del breque esté bien sellada para prevenir la pérdida de agua y evitar daños a la máquina de vapor.;"<a href=""http://euroferroviarios.net/index.php?name=Reviews&amp;req=showcontent&amp;id=4783"" target=""_blank"">Euroferroviarios &gt; Glosario &gt; Tubería del freno.<time datetime=""22.3.2023""> (22.3.2023)</time></a>";"Variants: cañería del breque, cañería del freno, tubería del breque, tubería del freno | Domains: land transport | Context: Ref: Reglamento (UE) n.º 1302/2014 de la Comisión sobre la especificación técnica de interoperabilidad del subsistema de material rodante locomotoras y material rodante de viajeros del sistema ferroviario en la Unión Europea (DO L 356 de 12.12.2014, p. 228). | Note: ""cañería del freno"" término empleado en América,""cañería del breque"" término empleado en Perú | Ref: Lex. ferrov. | Note: ""cañería del freno"" término empleado en América,""cañería del breque"" término empleado en Perú | Ref: Lex. ferrov. | Note: ""cañería del freno"" término empleado en América,""cañería del breque"" término empleado en Perú | Ref: Lex. ferrov. | Note: ""cañería del freno"" término empleado en América,""cañería del breque"" término empleado en Perú"
+servicio de lanzadera con alojamiento;"Un servicio de lanzadera con alojamiento es un tipo de transporte público que ofrece viajes regulares entre dos o más puntos de partida y destino, a través de una ruta predeterminada, con paradas programadas en puntos específicos. El servicio incluye la prestación de alojamiento durante el viaje, como por ejemplo, camas, camafrío, baño, etc.
+
+Explicación:
+
+El servicio de lanzadera con alojamiento es un tipo de transporte público que ofrece viajes regulares entre dos o más puntos de partida y destino, a través de una ruta predeterminada, con paradas programadas en puntos específicos. El servicio incluye la prestación de alojamiento durante el viaje, como por ejemplo, camas, camafrío, baño, etc.
+
+Ejemplos:
+
+- Un servicio de lanzadera con alojamiento puede ser utilizado para viajar desde una ciudad a otra, con paradas en diferentes ciudades a lo";Reglamento (CEE) N° 684/92 del Consejo , DOCE L 74/1992 2;Variants: servicio de lanzadera con alojamiento | Domains: land transport | Context: Ref: Reglamento (CEE) N° 684/92 del Consejo , DOCE L 74/1992 2
+canal de giro a la izquierda;"Un canal de giro a la izquierda es una vía que se utiliza para permitir que los vehículos cambien de sentido de circulación en un cruce o intersección de carreteras. El canal de giro a la izquierda está diseñado para que los vehículos puedan girar hacia la izquierda, lo que permite que los vehículos que viajan en direcciones opuestas se crucen sin colisionarse.
+
+El canal de giro a la izquierda puede ser un carril separado del resto de la carretera, o puede ser una zona marcada con señales de tráfico que indican al conductor que debe girar hacia la izquierda. En algunos casos, el canal de giro a la izquierda puede estar equipado con luces de tráfico que iluminan el área donde los vehículos deben girar.
+
+La utilización de canales de giro a la izquierda es común en países que utilizan el sistema de circulación a la derecha, como Estados Unidos y Canadá. Estos canales de g";Diccionario Técnico Vial de la AIPCR, 1991;Variants: canal de giro a la izquierda, carril de giro, carril de giro a izquierda, carril de giro a la izquierda, carril de preselección de giro, carril de vuelta a izquierda, corredor de tránsito, pista de vuelta a izquierda, vía de giro a izquierda, vía de vuelta a izquierda | Domains: land transport | Context: Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991
+profesión de transportista de viajeros por carretera;"Un transportista de viajeros por carretera es una persona que se dedica a ofrecer servicios de transporte de personas por carretera. Estos servicios pueden incluir el transporte de pasajeros entre diferentes ciudades o países, así como el transporte de grupos de personas a eventos deportivos, culturales o empresariales.
+
+Los transportistas de viajeros por carretera suelen utilizar autobuses, camiones o minibuses para llevar a los pasajeros a sus destinos. A menudo, estos vehículos están equipados con asientos confortables, aire acondicionado y otros servicios para proporcionar una experiencia de viaje cómoda y segura.
+
+Para poder ejercer esta profesión, los transportistas de viajeros por carretera deben cumplir con ciertas normas y regulaciones, tales como las leyes de seguridad vial y las reglas de conducción. Además, deben poseer una licencia de conducir especializada en el transporte de personas y estar familiariz";DOCE L 212,22.07.1989, p. 103;Variants: profesión de transportista de viajeros por carretera | Domains: land transport | Context: Ref: DOCE L 212,22.07.1989, p. 103
+camión cisterna;"Un camión cisterna es un vehículo que se utiliza para transportar líquidos a gran escala. Estos vehículos son utilizados en diversas industrias, como la construcción, la agricultura y la minería. También se utilizan en emergencias, como desastres naturales o accidentes de tránsito. Los camiones cisterna pueden ser de diferentes tamaños y capacidades, dependiendo del tipo de líquido que se va a transportar. Algunos de los tipos más comunes de camiones cisterna incluyen los que transportan agua, aceite, gasolina y químicos.
+
+Ejemplos:
+- Un camión cisterna puede ser utilizado para transportar agua a las zonas afectadas por un incendio forestal.
+- Un camión cisterna puede ser utilizado para transportar gasolina a las estaciones de servicio después de un huracán.
+- Un camión cisterna puede ser utilizado para transportar químicos a las plantas de procesamiento después de un terremoto";"Diccionario Español de Ingeniería, DEI, Real Academia de Ingeniería, Madrid, 2014, <a href=""http://diccionario.raing.es/es/lema/cami%C3%B3n-cisterna-0"" target=""_blank"">«camión cisterna»<time datetime=""25.7.2019""> (25.7.2019)</time></a>";Variants: camión cisterna, vehículo cisterna | Domains: land transport | Context: Ref: Glosario multilingüe de protección civil 1990,Grupo de Trabajo Comisión Europea/Estados Miembros | Ref: COM(1998) 564 OJ C 374/98 p.17
+plan de circulación vial;"Un plan de circulación vial es un documento que describe las características y condiciones de los sistemas de carreteras y autopistas en un área geográfica específica. El plan incluye información sobre la ubicación y diseño de las carreteras, así como las restricciones de velocidad y otros requisitos de seguridad. También puede incluir información sobre el estado actual de las carreteras, como la calidad de la superficie y la presencia de obstrucciones o peligros.
+
+El objetivo principal del plan de circulación vial es proporcionar a los conductores y otros usuarios de las carreteras una guía detallada y actualizada sobre cómo utilizar las rutas de manera segura y eficiente. Esto puede ayudar a reducir el número de accidentes de tráfico y mejorar la fluidez del tráfico en general.
+
+Los planes de circulación vial pueden ser desarrollados por autoridades locales, estatales o nacionales, dependiendo de la escala y el alcance de las carre";"Reglamento Delegado (UE) nº …/.. de la Comisión de 18.12.2014 por el que se complementa la Directiva 2010/40/UE del Parlamento Europeo y del Consejo en lo que se refiere al suministro de servicios de información de tráfico en tiempo real en toda la Unión Europea, <a href=""http://ec.europa.eu/transport/themes/its/news/doc/2014-12-18-rtti/c(2014)9672_es.pdf"" target=""_blank"">http://ec.europa.eu/transport/themes/its/news/doc/2014-12-18-rtti/c(2014)9672_es.pdf</a> [25.4.2015]";Variants: plan de circulación vial | Domains: land transport | Context: Ref: Reglamento Delegado (UE) nº …/.. de la Comisión de 18.12.2014 por el que se complementa la Directiva 2010/40/UE del Parlamento Europeo y del Consejo en lo que se refiere al suministro de servicios de información de tráfico en tiempo real en toda la Unión Europea, http://ec.europa.eu/transport/themes/its/news/doc/2014-12-18-rtti/c(2014)9672_es.pdf [25.4.2015]
+supercarretera;"Una supercarretera es un tipo de carretera que se caracteriza por ser ancha, rápida y segura. Se construye con materiales resistentes y duraderos, como asfalto o hormigón, y tiene varias carriles para permitir el tránsito de vehículos en ambas direcciones. Las supercarreteras son utilizadas principalmente para el tránsito de grandes cantidades de vehículos, como camiones o autobuses, y también se utilizan para el tránsito de automóviles.
+
+Ejemplos de uso:
+
+- La supercarretera es una vía rápida y segura para el tránsito de vehículos.
+- El tránsito en las supercarreteras es más rápido y seguro que en las carreteras convencionales.
+- Las supercarreteras requieren un mantenimiento constante para garantizar su seguridad y durabilidad.
+
+Notas:
+
+- Las supercarreteras pueden tener diferentes tipos de";Directiva 93/89/CEE del Consejo, DO 1993 L 279/33;Variants: auto-ruta, autopista, supercarretera | Domains: land transport | Context: Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991
+aceleración máxima;"La aceleración máxima es la velocidad máxima que puede alcanzar un vehículo en un determinado tiempo. Es una medida importante para evaluar la eficiencia de un vehículo, ya que indica cuán rápido puede acelerar desde un punto inicial hasta un punto final. La aceleración máxima se mide en metros por segundo cuadrados (m/s²) o g-forzas (g). Por ejemplo, si un vehículo tiene una aceleración máxima de 5 m/s², significa que puede acelerar a 5 metros por segundo cada segundo.
+
+Ejemplos:
+El coche deportivo tiene una aceleración máxima de 7,5 segundos, lo que significa que puede acelerar de 0 a 100 km/h en menos de 7,5 segundos.
+
+La aceleración máxima del avión comercial es de 2,5 g, lo que significa que puede acelerar a 2,5 veces la gravedad terrestre.";Diccionario de transportes públicos urbanos y suburbanos, 1986;Variants: aceleración máxima, aceleración punta | Domains: land transport | Context: Ref: Diccionario de transportes públicos urbanos y suburbanos, 1986 | Ref: Diccionario de transportes públicos urbanos y suburbanos, 1986
+asiento delantero para el pasajero;"El asiento delantero para el pasajero es una parte del vehículo que se utiliza para sentarse mientras se conduce o viaja en un automóvil. Es uno de los componentes principales del vehículo y proporciona comodidad y seguridad a los ocupantes del vehículo.
+
+El asiento delantero para el pasajero está diseñado para soportar el peso y la posición del cuerpo del conductor o pasajero. Está equipado con un respaldo y un asiento ajustable para adaptarse a las necesidades individuales de cada usuario. También puede estar equipado con un sistema de calefacción y ventilación para mantener la temperatura del asiento adecuada.
+
+Los asientos delanteros para el pasajero también pueden incluir características adicionales como un sistema de control de altura, un sistema de control de distancia, un sistema de control de velocidad y un sistema de control de tracción. Estas características ayudan a mejorar la seguridad y la maniobrabilidad del vehícul";Directiva 90/628/CEE de la Comisión , DOCE L 341/1990 3;Variants: asiento delantero para el pasajero | Domains: land transport | Context: Ref: Directiva 90/628/CEE de la Comisión , DOCE L 341/1990 3
+caballete;"Un caballete es un pequeño vehículo de dos ruedas que se utiliza para transportar cargas pesadas o personales. Es comúnmente utilizado en obras de construcción y otros lugares donde se necesita mover objetos pesados de un lugar a otro. El caballete tiene una plataforma elevada con una manija en la parte superior para facilitar el transporte. Puede ser accionado manualmente o por motor, dependiendo del tipo y tamaño del caballete.
+
+Ejemplos de uso:
+
+- Utilice un caballete para transportar los materiales de construcción desde el camión hasta la obra.
+- El caballete es ideal para mover las herramientas pesadas alrededor del sitio de trabajo.
+- Los trabajadores de construcción utilizan caballetes para mover los bloques de hormigón desde la planta de mezcla hasta la obra.
+
+Notas:
+
+- El término ""caballete"" también se puede referir a un dispositivo utilizado para mantener la estructura";TERMCAT;Variants: asnilla, borriquete, caballete | Domains: land transport, building and public works | Context: Ref: TERMCAT | Ref: TERMCAT | Ref: TERMCAT
+camino de servicio;"Un camino de servicio es una carretera que se utiliza para dar acceso a los vehículos que necesitan mantenimiento o reparación. También puede utilizarse como una ruta alternativa para evitar el tráfico principal en caso de emergencia o desastre.
+
+Ejemplos:
+
+El camino de servicio fue cerrado debido a la construcción de una nueva carretera.
+
+La policía usó el camino de servicio para dirigirse al lugar del accidente.
+
+El camino de servicio está bloqueado por un árbol caído.
+
+El camino de servicio es una carretera secundaria que sirve para dar acceso a las carreteras principales.
+
+El camino de servicio es una carretera que se utiliza para dar acceso a los vehículos que necesitan mantenimiento o reparación.
+
+El camino de servicio es una carretera que se utiliza para dar acceso a los vehículos que necesitan mantenimiento o reparación.
+
+El camino de servicio";Diccionario Técnico Vial de la AIPCR, 1991;"Variants: calzada de servicio, calzada lateral, camino alimentador, camino auxiliar lateral, camino de servicio, camino lateral, camino marginal, vía de servicio | Domains: land transport | Context: Ref: Diccionario Técnico Vial de la AIPCR, 1991 ; TERMCAT. Diccionari de trànsit (en curso de elaboración) | Ref: Diccionario Técnico Vial de la AIPCR, 1991 ; TERMCAT. Diccionari de trànsit (en curso de elaboración) | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991"
+vía de carga;;---;Variants: vía de carga | Domains: land transport | Context: Ref: Terminología del transporte combinado, Naciones Unidas-CEPE, 2001, versión española: Unidad de Terminología, SdT.
+transporte público explotado por la administración;"Transporte público explotado por la administración es un servicio de transporte público que está operado por una entidad pública, como un gobierno local o regional, en lugar de una empresa privada. Este tipo de servicios de transporte público son comunes en muchas ciudades y comunidades a nivel mundial, y proporcionan una forma económica y sostenible de movilizar a los ciudadanos.
+
+En general, el transporte público explotado por la administración se caracteriza por ser más barato que otros modos de transporte, como el uso de vehículos particulares. Además, este tipo de servicios de transporte público pueden ser más accesibles para las personas con discapacidades y aquellas que no tienen acceso a un automóvil.
+
+El transporte público explotado por la administración puede incluir diferentes tipos de servicios, como autobuses, tranvías, metros y trenes. Estos servicios de transporte público pueden ser gestionados directamente por la administración o por contratistas extern";Diccionario de transportes públicos urbanos y suburbanos, 1986;Variants: transporte público explotado por la administración | Domains: land transport | Context: Ref: Diccionario de transportes públicos urbanos y suburbanos, 1986
+calidad de servicio;"La calidad del servicio es la medida de la satisfacción que los usuarios de un sistema de transporte experimentan al utilizarlo. Se puede medir a través de encuestas o por observación directa. La calidad del servicio se mide en función de las expectativas de los usuarios, no solo en función de lo que ofrece el sistema de transporte. Por ejemplo, si un usuario espera que el autobús llegue cada 5 minutos, pero en realidad llega cada 7 minutos, la calidad del servicio será baja.
+
+Ejemplos:
+- El sistema de transporte urbano tiene una calidad del servicio muy buena porque los autobuses llegan con regularidad y son cómodos.
+- La calidad del servicio del sistema de transporte suburbano ha mejorado mucho en los últimos años.
+
+Notas:
+- La calidad del servicio es importante para atraer a más usuarios al sistema de transporte.
+- La calidad del servicio también puede influir en la eficiencia del sistema";Diccionario Técnico Vial de la AIPCR, 1991;"Variants: calidad de servicio, nivel de servicio | Domains: land transport | Context: Ref: Diccionario Técnico Vial de la AIPCR, 1991; Diccionario transportes públicos urbanos y suburbanos, 1986 | Ref: Diccionario transportes públicos urbanos y suburbanos, 1986"
+franja ferroviaria;"Un surco ferroviario es, por tanto, el derecho que el ADIF concede a un operador determinado, para explotar un tramo de vía determinado en un día, hora y sentido determinados. A partir de aquí, resulta fácil imaginar que la competencia entre los operadores que entren en el negocio consistirá fundamentalmente en la obtención de cuántos más surcos mejor.
+
+Contexto:
+
+Hacia la liberalización efectiva del ferrocarril
+Miquel Llevat, Director General de Comsa Rail
+( http://www.cel-logistica.org/subidasArticulos/90.pdf [nov-2009])
+
+Ref:
+
+Reglamento (CE) nº 62/2006 de la Comisión, de 23 de diciembre de 2005, sobre la especificación técnica de interoperabilidad referente a las aplicaciones telemáticas para el subsistema del transporte de mercancías del sistema ferroviario transeuropeo convencional";"Directiva 2001/14/CE relativa a la adjudicación de la capacidad de infraestructura ferroviaria y la aplicación de cánones por su utilización ( <a href=""http://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32001L0014"" target=""_blank"">CELEX:32001L0014/ES</a> )";"Variants: franja, franja ferroviaria, ruta ferroviaria, surco, surco ferroviario | Domains: land transport | Context: Un surco ferroviario es, por tanto, el derecho que el ADIF concede a un operador determinado, para explotar un tramo de vía determinado en un día, hora y sentido determinados. A partir de aquí, resulta fácil imaginar que la competencia entre los operadores que entren en el negocio consistirá fundamentalmente en la obtención de cuántos más surcos mejor. | Ref: Hacia la liberalización efectiva del ferrocarril , Miquel Llevat, Director General de Comsa Rail ( http://www.cel-logistica.org/subidasArticulos/90.pdf [nov-2009]) | Ref: Reglamento (CE) nº 62/2006 de la Comisión, de 23 de diciembre de 2005 , sobre la especificación técnica de interoperabilidad referente a las aplicaciones telemáticas para el subsistema del transporte de mercancías del sistema ferroviario transeuropeo convencional ( CELEX:32006R0062/ES ) | Usage: Atención: aunque en documentos como las Directivas 95/19/CE y 2001/14/CE y la propia Ley 39/2003, de 17 de noviembre, del Sector Ferroviario se usan los términos franja y ruta , el término acordado tras consultar con el Ministerio de Fomento español es el aquí indicado. | a) Asignación de capacidad y supervisión de la circulación de los trenes. Tarifa A.- Esta tarifa repercutirá a los obligados al pago, el coste de elaboración del Plan y de los Programas de explotación, en los que se ubican en la malla de circulaciones cada uno de los surcos solicitados, así como los costes de la emisión de la documentación necesaria y la gestión y supervisión de la circulación. | Ref: Orden FOM/1587/2003, de 16 de mayo, por la que se fijan las cuantías para la aplicación de los cánones ferroviarios establecidos en los artículos 23 y 24 de la Ley 53/2002, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social. ( http://www.boe.es/boe/dias/2003/06/17/pdfs/A23106-23127.pdf [nov-2009]) | Ref: Véase el término 1. | Capacidad de infraestructura: la capacidad para programar las franjas ferroviarias solicitadas para un segmento de la infraestructura durante un periodo determinado. | Ref: Ley 39/2003, de 17 de noviembre, del Sector Ferroviario ( http://www.fomento.es/NR/rdonlyres/432E286F-0172-4227-95DC-FA8F7B5F776C/12102/leysectorferroviario.pdf [nov-2009]) | Ref: Ley 39/2003, de 17 de noviembre, del Sector Ferroviario | Note: Véase el campo ""Language Usage"" del término surco ferroviario . | Ref: Directiva 2001/14/CE relativa a la adjudicación de la capacidad de infraestructura ferroviaria y la aplicación de cánones por su utilización ( http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CONSLEG:2001L0014:20071204:ES:PDF [nov-2009])"
+tacometro;"Un tacómetro es un instrumento que mide la velocidad de rotación de un motor.
+
+Ejemplo:
+El tacómetro indica que el motor está funcionando a 2000 rpm.";PANAREDA, J.M, et al. Diccionari de cartografia, 1994;"Variants: cuenta revoluciones, tacometro | Domains: land transport | Context: Ref: Dictionary German-English-French-Italian-Spanish - http://www.geocities.com/Colosseum/1741/german.html; | Ref: Dictionary German-English-French-Italian-Spanish - http://www.geocities.com/Colosseum/1741/german.html;"
+compartimento para equipaje;"Un compartimento para equipaje es un espacio dentro de un vehículo diseñado para almacenar objetos o cargas. Puede estar ubicado en diferentes partes del vehículo, como el maletero, el portabicicletas o el compartimento trasero. Los compartimentos para equipaje pueden ser accesibles desde el interior del vehículo o desde el exterior, y pueden tener diferentes características, como capacidad de carga, seguridad y organización.
+
+Ejemplos:
+- El maletero del automóvil es un compartimento para equipaje.
+- La bodega del camión es un compartimento para equipaje.
+- El compartimento trasero del autobús es un compartimento para equipaje.
+
+Notas:
+- No confundir con el compartimento de pasajeros, que es un espacio dentro de un vehículo diseñado para albergar personas.
+- Los compartimentos para equipaje pueden tener diferentes tipos de acceso, como puertas, rampas o aberturas";"Reglamento n° 100 de la Comisión Económica de las Naciones Unidas para Europa (CEPE/ONU) — Disposiciones uniformes relativas a la homologación de vehículos en relación con los requisitos específicos del grupo motopropulsor eléctrico, <a href=""http://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:42011X0302(01)"" target=""_blank"">CELEX:42011X0302(01)/ES</a>";Variants: compartimento para equipaje | Domains: land transport | Context: Ref: Reglamento n° 100 de la Comisión Económica de las Naciones Unidas para Europa (CEPE/ONU) — Disposiciones uniformes relativas a la homologación de vehículos en relación con los requisitos específicos del grupo motopropulsor eléctrico, CELEX:42011X0302(01)/ES
+familia de vehículos;"La familia de vehículos es un grupo de vehículos que comparten características comunes, como su diseño, funcionalidad o propósito. Estas familias pueden incluir automóviles, camionetas, furgonetas, autobuses, camiones y otros tipos de vehículos.
+
+Ejemplos:
+
+- La familia de vehículos SUV incluye vehículos como los crossovers, los SUV compactos y los SUV grandes.
+- La familia de vehículos de pasajeros incluye vehículos como los sedanes, los cupés y los hatchbacks.
+- La familia de vehículos comerciales incluye vehículos como los camiones, las furgonetas y los remolques.
+
+Nota:
+
+Es importante destacar que la familia de vehículos no se refiere a una marca específica de vehículos, sino a un grupo de vehículos que comparten características comunes. Por ejemplo, la familia de vehículos SUV puede incluir vehículos de diferentes marcas, como";DOCE C 77/1997;Variants: familia de vehículos | Domains: land transport, technology and technical regulations | Context: Ref: DOCE C 77/1997
+punto de tangencia;"Punto de tangencia es el lugar donde dos líneas se tocan o se cruzan.
+
+Ejemplos:
+En geometría, el punto de tangencia es el lugar donde dos curvas se tocan o se cruzan.
+
+En física, el punto de tangencia es el lugar donde dos superficies se tocan o se cruzan.
+
+En biología, el punto de tangencia es el lugar donde dos células se tocan o se cruzan.
+
+En matemáticas, el punto de tangencia es el lugar donde dos funciones se tocan o se cruzan.
+
+En astronomía, el punto de tangencia es el lugar donde dos planetas se tocan o se cruzan.
+
+En ingeniería, el punto de tangencia es el lugar donde dos objetos se tocan o se cruzan.
+
+En arquitectura, el punto de tangencia es el lugar donde dos edificios se tocan o se cruzan.
+
+En diseño gráfico, el punto de tangencia es el lugar donde dos líneas se tocan o se cruzan.";TERMCAT;Variants: punto de tangencia | Domains: land transport | Context: Ref: TERMCAT
+puente móvil;"Un puente móvil es un tipo de puente que se puede desplazar lateralmente o verticalmente para permitir el paso de barcos a través del canal. Estos puentes son utilizados principalmente en canales navegables donde no hay espacio suficiente para construir un puente fijo. Los puentes móviles pueden ser accionados manualmente o por medio de un motor eléctrico o hidráulico. Algunos puentes móviles también pueden ser controlados remotamente.
+
+Ejemplos:
+El puente móvil en el río Hudson es uno de los más grandes del mundo.
+
+Sinónimos:
+movable bridge | movable span bridge | swing bridge | drawbridge | bascule bridge | lift bridge | pivot bridge | rotating bridge | tilting bridge | transporter bridge | ferry bridge | floating bridge | cable-stayed bridge | suspension bridge | arch bridge | truss bridge | cantilever bridge | beam bridge | girder bridge | viaduct | aqueduct | causeway | dam | dike | embankment | levee | lock | weir";TERMCAT;Variants: puente móvil | Domains: land transport | Context: Ref: TERMCAT
+ciclo de velocidad objetivo;"El ciclo de velocidad objetivo es un método utilizado para calcular las emisiones de CO2 de los vehículos pesados nuevos. Este método se basa en la medición de las emisiones de CO2 durante un ciclo de prueba estándar, que simula las condiciones reales de conducción de los vehículos. El ciclo de velocidad objetivo se utiliza para determinar el límite máximo de emisiones de CO2 permitido para cada tipo de vehículo pesado.
+
+Ejemplo:
+""El ciclo de velocidad objetivo es un método utilizado para calcular las emisiones de CO2 de los vehículos pesados nuevos.""
+
+Nota:
+Recuerda que la definición debe ser precisa y concisa, y debe incluir solo información relevante para entender el significado del término. No incluyas información adicional o ejemplos en tu definición.
+
+# Ciclo de velocidad objetivo
+
+El ciclo de velocidad objetivo es un método utiliz";"<a href=""https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32019R1242"" target=""_blank"">Reglamento (UE) 2019/1242 del Parlamento Europeo y del Consejo por el que se establecen normas de comportamiento en materia de emisiones de CO<sub>2 </sub>para vehículos pesados nuevos (DO L 198 de 25.7.2019, p. 202)</a>";Variants: ciclo de velocidad objetivo | Domains: land transport | Context: Ref: Reglamento (UE) 2019/1242 del Parlamento Europeo y del Consejo por el que se establecen normas de comportamiento en materia de emisiones de CO2 para vehículos pesados nuevos (DO L 198 de 25.7.2019, p. 202)
+carrocería en bruto;"Carrocería en bruto es un vehículo que no ha sido ensamblado o pintado. Es decir, se trata de un vehículo sin ningún tipo de decoración ni adornos.
+
+Ejemplo:
+
+Un fabricante de automóviles puede comprar carrocerías en bruto a un proveedor externo y luego ensamblarlas en su propia fábrica. Esto le permite reducir costos y aumentar la flexibilidad de producción.
+
+Nota:
+
+La carrocería en bruto es un componente importante de los vehículos, ya que es lo que da forma al vehículo y le proporciona protección a los ocupantes. Sin embargo, también es uno de los componentes más costosos y difíciles de producir. Por eso, muchos fabricantes de automóviles optan por comprar carrocerías en bruto a proveedores externos.";"COM-ES a partir de: «FlexLean, Los robots desafían la mano de obra barata», <a href=""http://www.materialelectrico.com.co/pdf/ABB/04-2006/06-10%204M670_SPA72dpi.pdf"" target=""_blank"">http://www.materialelectrico.com.co/pdf/ABB/04-2006/06-10%204M670_SPA72dpi.pdf</a> [13.12.2017]";Variants: carrocería en blanco, carrocería en bruto | Domains: land transport | Context: Ref: FlexLean, Los robots desafían la mano de obra barata, http://www.materialelectrico.com.co/pdf/ABB/04-2006/06-10%204M670_SPA72dpi.pdf [13.12.2017] | Ref: Glosario del acero de Platts, https://www.steelbb.com/es/steelglossary/ [13.12.2017]
+autoridad viaria;;"Reglamento Delegado (UE) nº …/.. de la Comisión de 18.12.2014 por el que se complementa la Directiva 2010/40/UE del Parlamento Europeo y del Consejo en lo que se refiere al suministro de servicios de información de tráfico en tiempo real en toda la Unión Europea, <a href=""http://ec.europa.eu/transport/themes/its/news/doc/2014-12-18-rtti/c(2014)9672_es.pdf"" target=""_blank"">http://ec.europa.eu/transport/themes/its/news/doc/2014-12-18-rtti/c(2014)9672_es.pdf</a> [25.4.2015]";Variants: autoridad viaria | Domains: land transport | Context: Ref: Reglamento Delegado (UE) nº …/.. de la Comisión de 18.12.2014 por el que se complementa la Directiva 2010/40/UE del Parlamento Europeo y del Consejo en lo que se refiere al suministro de servicios de información de tráfico en tiempo real en toda la Unión Europea, http://ec.europa.eu/transport/themes/its/news/doc/2014-12-18-rtti/c(2014)9672_es.pdf [25.4.2015]
+velocidad de la línea;"La velocidad de la línea es la velocidad máxima que puede alcanzar un tren en una línea férrea. Esta velocidad está limitada por las características de la vía, como la longitud de los raíles, la curvatura de la línea, la inclinación del terreno, etc. La velocidad de la línea también se ve afectada por factores ambientales, como el clima y la topografía del terreno. Por lo tanto, la velocidad de la línea varía según la ruta y las condiciones meteorológicas.
+
+Ejemplos:
+- La velocidad de la línea en la ruta Madrid-Barcelona es de 300 km/h.
+- La velocidad de la línea en la ruta París-Londres es de 350 km/h.
+- La velocidad de la línea en la ruta Milán-Roma es de 250 km/h.
+
+Notas:
+- La velocidad de la línea no debe confundirse con la velocidad comercial, que es la";"Decisión de la Comisión, de 26 de abril de 2011, sobre la especificación técnica de interoperabilidad del subsistema de energía del sistema ferroviario transeuropeo convencional, <a href=""http://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32011D0274"" target=""_blank"">CELEX:32011D0274/ES</a>";Variants: velocidad de la línea | Domains: land transport | Context: Ref: Decisión de la Comisión, de 26 de abril de 2011, sobre la especificación técnica de interoperabilidad del subsistema de energía del sistema ferroviario transeuropeo convencional, CELEX:32011D0274/ES
+unidad de material móvil;"Unidad de material móvil es un vehículo que se utiliza para el transporte de personas o mercancías. Es un elemento fundamental del sistema de transporte público, ya que permite el movimiento de pasajeros entre diferentes puntos del sistema.
+
+El concepto de unidad de material móvil se refiere a cualquier tipo de vehículo que puede ser utilizado para el transporte público, como autobuses, tranvías, metros, trenes, etc. Estos vehículos son diseñados específicamente para el transporte público y están equipados con sistemas de seguridad, comunicación y control para garantizar la seguridad y la eficiencia del servicio.
+
+Las unidades de material móvil suelen estar compuestas por varios componentes, como el chasis, el motor, las ruedas, los frenos, los asientos, las puertas, etc. Estos componentes trabajan juntos para proporcionar un servicio de transporte seguro y confiable.
+
+La importancia de las";Diccionario de transportes públicos urbanos y suburbanos, 1986;Variants: unidad de material móvil | Domains: land transport | Context: Ref: Diccionario de transportes públicos urbanos y suburbanos, 1986
+vehículo de motor categoría M3;"Un vehículo de motor categoría M3 es un vehículo que cumple con los requisitos establecidos por la legislación vigente en materia de seguridad vial y emisiones contaminantes. Es un vehículo de motor que se utiliza principalmente para el transporte de personas o bienes a través de carreteras públicas.
+
+Explicación:
+El término ""vehículo de motor categoría M3"" se refiere a un tipo específico de vehículos que cumplen con ciertos requisitos legales y técnicos. Estos vehículos son utilizados principalmente para el transporte de personas o bienes a través de carreteras públicas.
+
+La categoría M3 se refiere a un grupo de vehículos que cumplen con los requisitos de seguridad vial y emisiones contaminantes establecidos por la legislación vigente. Estos vehículos deben ser capaces de alcanzar ciertas velocidades máximas y debe cumplir con las normas de seguridad y emision";DOCE C 33/1989 p. 10;"Variants: vehículo de motor categoría M3 | Domains: TRANSPORT, land transport | Context: Ref: DOCE C 33/1989 p. 10; Propuesta de Directiva del Consejo, COM(88)706 final"
+itinerario;"Itinerary is a route or path that someone or something follows when traveling from one place to another. It can be used to describe the route taken by a person, animal, or vehicle, as well as the route taken by a ship or aircraft.
+
+The term itinerary is often used in reference to travel plans or schedules, and can also refer to a list of places visited during a trip. In this context, an itinerary may include information about the dates and times of travel, as well as details about the destinations and activities planned for each day.
+
+Itineraries can be created for a variety of purposes, including personal travel planning, business trips, and educational tours. They can be used to help organize and plan a trip, and can also serve as a record of the journey once it has been completed.
+
+In addition to its use in travel planning, the term itinerary can also have other meanings. For example, in the field of geography, an itinerary may refer to a series of locations or waypoints along a route. In the military, an itinerary may refer to a schedule of movements or operations.
+
+Overall, the term itinerary refers to a route";DRAE.;Variants: itinerario | Domains: land transport | Context: Ref: Diccionario de transportes públicos urbanos y suburbanos, 1986
+zona de estacionamiento;;Diccionario Técnico Vial de la AIPCR, 1991;Variants: parqueadero, parqueo, zona de estacionamiento, zona de parada, zona de parqueo, área de estacionamiento | Domains: land transport | Context: Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991
+ruta de aprovisionamiento;La ruta de aprovisionamiento es el camino que sigue un producto o servicio desde su origen hasta el consumidor final. En el contexto de la cadena de suministros, la ruta de aprovisionamiento se refiere al proceso de obtener los recursos necesarios para producir un producto o servicio. Esta ruta puede incluir varios pasos, como la adquisición de materias primas, la fabricación del producto, la distribución al mercado y la venta al consumidor final. La ruta de aprovisionamiento es importante porque determina la eficiencia y la rentabilidad de la empresa en cuestión. Una ruta de aprovisionamiento bien planeada y ejecutada puede ayudar a reducir costos, mejorar la calidad del producto y aumentar la satisfacción del cliente.;Consejo-ES;Variants: ruta de abastecimiento, ruta de aprovisionamiento, ruta de suministro | Domains: land transport | Context: Ref: Decisión (PESC) 2015/1908 del Consejo en apoyo de un mecanismo mundial de información sobre armas pequeñas y armas ligeras ilícitas y otras armas y municiones convencionales ilícitas, a fin de reducir el riesgo de su comercio ilegal («iTrace II») | Ref: Real Decreto 684/2011, de 13 de mayo, por el que se establecen doce certificados de profesionalidad de la familia profesional Fabricación mecánica que se incluyen en el Repertorio Nacional de certificados de profesionalidad (BOE n.º 144, de 17.6.2011, p. 62061) (3.6.2020) | Ref: Carneiro, José: «El motor vigués compartirá rutas de aprovisionamiento para ahorrar en logística», Faro de Vigo, 20.03.2019 (3.6.2020)
+calle;Una calle es un espacio público que se utiliza para el tránsito de vehículos motorizados, peatones y ciclistas. Es un elemento fundamental del sistema de transporte urbano y rural, ya que permite el acceso a los lugares de trabajo, servicios y recreación. Las calles pueden ser de diferentes tipos, como las principales, secundarias o terciarias, dependiendo de su importancia y función. También existen calles especializadas, como las de parqueadero, de servicio, de peatones o de ciclistas. La calidad de las calles es importante para la movilidad y la seguridad de los usuarios, por lo que se realizan estudios y planes de mejora para mejorar su diseño y funcionamiento.;TERMCAT;Variants: calle, vía urbana | Domains: land transport | Context: Ref: Termcat | Ref: Termcat
+carril;;Diccionario Técnico Vial de la AIPCR, 1991;Variants: canal de tránsito, carril, carril de tránsito, pista de tránsito, senda de tránsito, vía de tránsito | Domains: land transport, TRANSPORT | Context: Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991
+servicio regular;"Servicio regular: es un servicio de transporte público que se presta con frecuencia determinada y a tarifas establecidas por las autoridades competentes.
+
+Explicación:
+
+El servicio regular es un tipo de servicio de transporte público que se presta con frecuencia determinada y a tarifas establecidas por las autoridades competentes. Es decir, se trata de un servicio de transporte público que se ofrece con cierta frecuencia y a precios establecidos por las autoridades competentes.
+
+Ejemplos:
+
+- Un autobús que recorre una ruta específica con una frecuencia determinada y a tarifas establecidas por las autoridades competentes se consideraría un servicio regular.
+- Un tren que circula entre dos ciudades con una frecuencia determinada y a tarifas establecidas por las autoridades competentes se consideraría un servicio regular.
+
+Notas:
+
+- El servicio regular puede ser prestado por diferentes tipos de";Reglamento (CEE) N° 684/92 del Consejo , DOCE L 74/1992 2;Variants: servicio regular | Domains: land transport | Context: Ref: Reglamento (CEE) N° 684/92 del Consejo , DOCE L 74/1992 2
+vehículo articulado simple;"Un vehículo articulado simple es un tipo de vehículo de transporte público que consiste en dos o más unidades conectadas entre sí mediante un eje común. Estas unidades pueden ser idénticas o diferentes en tamaño y capacidad. El vehículo articulado simple se utiliza principalmente en sistemas de transporte público urbano y suburbanos, como autobuses y tranvías.
+
+Ejemplos:
+- Un autobús articulado simple puede tener dos o tres unidades conectadas entre sí, lo que le permite transportar a más pasajeros en comparación con un autobús convencional.
+- Un tranvía articulado simple puede tener dos o tres unidades conectadas entre sí, lo que le permite recorrer rutas más largas y transportar a más pasajeros en comparación con un tranvía convencional.
+
+Notas:
+- Los vehículos articulados simples son populares debido a su capacidad de transportar a más pasajeros en comparación con los veh";Diccionario de transportes públicos urbanos y suburbanos, 1986;Variants: vehículo articulado simple | Domains: land transport | Context: Ref: Diccionario de transportes públicos urbanos y suburbanos, 1986
+paseo;"Paseo es un camino o calle que se encuentra a lo largo de una vía principal, generalmente en las ciudades, donde los peatones pueden caminar y disfrutar del paisaje. Es un lugar popular para caminar, correr, ciclar, hacer deportes al aire libre y socializar con otros. Los paseos suelen estar rodeados por árboles, jardines y parques, lo que les da un ambiente tranquilo y agradable. También pueden tener bancas, fuentes y monumentos que atraen a los visitantes. Los paseos son importantes porque proporcionan espacio abierto y verde en las áreas urbanas, lo que ayuda a mejorar la calidad de vida y la salud mental de las personas. Además, los paseos son lugares populares para reuniones familiares, eventos culturales y celebraciones.
+
+Ejemplos:
+
+- El paseo es un lugar ideal para caminar y disfrutar del aire fresco.
+- Los paseos son importantes para la sal";DRAE;Variants: acotamiento, arcén sin afirmar, banquina, berma, espaldón, hombrillo, hombro sin afirmar, paseo | Domains: TRANSPORT, land transport | Context: Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991
+altura de segmento;"La altura de segmento es la distancia entre el suelo y la parte superior del vehículo. Esta medida es importante para determinar si un vehículo puede pasar por debajo de un puente o bajo un arco. La altura de segmento también se utiliza para calcular la carga que puede soportar un puente o un arco.
+
+Ejemplos:
+El camión tiene una altura de segmento de 4 metros, lo que significa que no puede pasar por debajo de un puente con una altura inferior a 4 metros.
+
+La altura de segmento de un autobús es de 3,5 metros, lo que significa que puede pasar por debajo de un arco con una altura inferior a 3,5 metros.
+
+La altura de segmento de un automóvil es de 1,6 metros, lo que significa que puede pasar por debajo de un arco con una altura inferior a 1,6 metros.
+
+Notas:
+La altura de segmento se mide desde el suelo hasta la parte superior del";Reglamento nº 43 de la Comisión Económica para Europa de las Naciones Unidas (CEPE), Disposiciones uniformes relativas a la homologación de los materiales de acristalamiento de seguridad y su montaje en los vehículos (DO L 230 de 31.8.2010, p. 122).;"Variants: altura de segmento | Domains: land transport | Context: Ref: DOCE L 129/1992;"
+tráfico pesado;;TERMCAT. Diccionari de trànsit (en curso de elaboración);Variants: tráfico pesado | Domains: land transport | Context: Ref: TERMCAT. Diccionari de trànsit (en curso de elaboración)
+zona de deformación;"La zona de deformación es una área delimitada por líneas rectas que se extienden desde los extremos de la vía hasta el borde de la carretera. Esta zona está diseñada para absorber el impacto de un vehículo que se desvía de la vía. La zona de deformación es importante para garantizar la seguridad de los usuarios de la carretera, ya que reduce el riesgo de accidentes y daños a los vehículos.
+
+Ejemplo:
+
+En la carretera principal, hay una zona de deformación que se extiende desde el extremo izquierdo de la vía hasta el borde de la carretera. Esto ayuda a proteger a los conductores y pasajeros de cualquier vehículo que se desvíe de la vía.
+
+Nota:
+
+La zona de deformación puede variar en tamaño y forma dependiendo de la configuración de la carretera y las características del terreno. Es importante que sea suficientemente grande para absorber el impacto de un veh";Diccionario de transportes públicos urbanos y suburbanos, 1986;Variants: zona de absorción de impacto, zona de deformación | Domains: land transport | Context: Ref: Diccionario de transportes públicos urbanos y suburbanos, 1986 | Ref: Diccionario de transportes públicos urbanos y suburbanos, 1986
+corredor de tránsito;"Un corredor de tránsito es una vía que se utiliza para permitir que los vehículos cambien de carril sin necesidad de detenerse. Esto puede ser útil en situaciones donde hay mucho tráfico o donde hay muchas intersecciones. Los corredores de tránsito pueden estar ubicados en cualquier lugar del camino, pero son más comunes en las entradas y salidas de las autopistas.
+
+Ejemplos:
+
+- Un corredor de tránsito es una vía que se utiliza para permitir que los vehículos cambien de carril sin necesidad de detenerse.
+- Los corredores de tránsito pueden ser útiles en situaciones donde hay mucho tráfico o donde hay muchas intersecciones.
+- Los corredores de tránsito pueden estar ubicados en cualquier lugar del camino, pero son más comunes en las entradas y salidas de las autopistas.
+
+Conclusiones:
+
+Los corredores de tránsito son una forma eficiente de mane";Diccionario Técnico Vial de la AIPCR, 1991;Variants: canal de giro a la izquierda, carril de giro, carril de giro a izquierda, carril de giro a la izquierda, carril de preselección de giro, carril de vuelta a izquierda, corredor de tránsito, pista de vuelta a izquierda, vía de giro a izquierda, vía de vuelta a izquierda | Domains: land transport | Context: Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991
+carril de tránsito;"Un carril de tránsito es una vía de tránsito que se utiliza para el movimiento de vehículos o personas. Puede ser una calle, una autopista, una carretera o cualquier otro tipo de vía de tránsito. El carril de tránsito puede estar limitado por barreras físicas como medios de separación entre los carriles de tránsito, o puede estar marcado por líneas pintadas en el suelo. Los carriles de tránsito pueden ser unidireccionales o bidireccionales, dependiendo del tipo de vía de tránsito en la que se encuentren.
+
+El carril de tránsito es una parte importante del sistema de transporte público, ya que permite el flujo de tráfico y la circulación segura de vehículos y personas. También ayuda a reducir el tiempo de viaje y las emisiones de contaminantes atmosféricos.
+
+Los carriles de tránsito pueden ser de diferentes tipos, como carriles exclusivos para";Diccionario Técnico Vial de la AIPCR, 1991;Variants: canal de tránsito, carril, carril de tránsito, pista de tránsito, senda de tránsito, vía de tránsito | Domains: TRANSPORT, land transport | Context: Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991
+masa en orden de marcha;Masa en orden de marcha: es la masa total del vehículo, incluyendo el conductor, los pasajeros, el combustible, el agua, el aceite, las herramientas, los equipos de seguridad, los equipos de comunicación, los equipos de navegación, los equipos de radio, los equipos de transmisión, los equipos de almacenamiento, los equipos de carga, los equipos de aire acondicionado, los equipos de refrigeración, los equipos de calefacción, los equipos de iluminación, los equipos de ventilación, los equipos de limpieza, los equipos de mantenimiento, los equipos de seguridad, los equipos de protección, los equipos de control, los equipos de gestión, los equipos de comunicación, los equipos de información, los equipos de gestión, los equipos de gestión, los equipos de gestión, los equipos de gestión, los equipos de gestión, los equipos de gestión, los equipos de gestión, los equip;"Anexo IX, Masas y dimensiones, del Reglamento General de Vehículos <a href=""http://www.mir.es/SGACAVT/derecho/anexos/anexo09rd28221998.html"" target=""_blank"">http://www.mir.es/SGACAVT/derecho/anexos/anexo09rd28221998.html</a> (20.2.2009)";Variants: masa en orden de marcha | Domains: technical regulations, land transport | Context: Ref: Anexo IX, Masas y dimensiones, del Reglamento General de Vehículos http://www.mir.es/SGACAVT/derecho/anexos/anexo09rd28221998.html (20.2.2009)
+ruido de paso;"El ruido de paso es un fenómeno acústico que se produce cuando un vehículo se desplaza sobre un terreno rígido o duro. Este tipo de ruido puede ser percibido tanto por los ocupantes del vehículo como por las personas que están fuera del mismo. El ruido de paso se caracteriza por su intensidad y frecuencia, así como por su duración.
+
+Existen varios factores que pueden influir en el ruido de paso, tales como el tipo de superficie sobre la cual se desplaza el vehículo, la velocidad con la que se mueve, el peso del vehículo y la configuración del sistema de suspensión. Además, el diseño y la construcción del vehículo también pueden tener un impacto significativo en el ruido de paso.
+
+Los efectos del ruido de paso pueden variar según la situación. Por ejemplo, si un vehículo se desplaza sobre una carretera asfaltada, el ruido de paso puede ser relativamente bajo y no causar";"<div>COM-ES, a partir de:</div><div>Plataforma de contratación del sector público: <a href=""https://contrataciondelestado.es/wps/wcm/connect/8e9d7e0f-7855-4d7f-84a4-3fc09d48a4d2/001_0000544568_Ppt_anexo_3Pd.PDF?MOD=AJPERES"" target=""_blank"">Especificación técnica de interoperabilidad referente al subsistema «material rodante-ruido» del sistema ferroviario transeuropeo convencional.<time datetime=""15.2.2023""> (15.2.2023)</time></a><br></div>";Variants: ruido de paso | Domains: land transport | Context: Ref: Reglamento de Ejecución (UE) 2019/774 de la Comisión por el que se modifica el Reglamento (UE) n.° 1304/2014 en lo que se refiere a la aplicación de la especificación técnica de interoperabilidad relativa al subsistema «material rodante-ruido» a los vagones de mercancías existentes (DO L 139I , 27.5.2019, p. 89).
+par de resistencia;"Un par de resistencia es una medida de la fuerza necesaria para girar un eje o rotor en un motor eléctrico. Se mide en newton metros (Nm) y se expresa como la multiplicación del torque por el ángulo de giro. Por ejemplo, si un motor requiere 5 Nm de torque para girar a 90 grados, su par de resistencia sería 450 Nm.
+
+Ejemplos:
+
+El par de resistencia de un motor eléctrico puede variar según la carga que esté soportando. Por ejemplo, un motor de bomba de agua tendrá un par de resistencia más alto cuando está bombeando agua contra una presión elevada.
+
+El par de resistencia también puede influir en la velocidad de giro de un motor. Un motor con un par de resistencia alto tendrá una velocidad de giro más baja, mientras que un motor con un par de resistencia bajo tendrá una velocidad de giro más alta.
+
+El par de resistencia también puede afectar la";Documento de trabajo de la Comisión Europea, GROW-2017-80062-02-03;Variants: par de resistencia | Domains: land transport | Context: Ref: Documento de trabajo de la Comisión Europea, GROW-2017-80062-02-03
+calzada de servicio;;Diccionario Técnico Vial de la AIPCR, 1991;"Variants: calzada de servicio, calzada lateral, camino alimentador, camino auxiliar lateral, camino de servicio, camino lateral, camino marginal, vía de servicio | Domains: land transport | Context: Ref: Diccionario Técnico Vial de la AIPCR, 1991 ; TERMCAT. Diccionari de trànsit (en curso de elaboración) | Ref: Diccionario Técnico Vial de la AIPCR, 1991 ; TERMCAT. Diccionari de trànsit (en curso de elaboración) | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991"
+ATV;;"<a href=""https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32016R1628"" target=""_blank"">Reglamento (UE) 2016/1628 del Parlamento Europeo y del Consejo sobre los requisitos relativos a los límites de emisiones de gases y partículas contaminantes y a la homologación de tipo para los motores de combustión interna que se instalen en las máquinas móviles no de carretera (DO L 252 de 16.9.2016, p. 53)</a>";"Variants: ATV | Domains: TRANSPORT | Context: Vehículo motorizado impulsado por un motor destinado primordialmente a moverse sobre superficies no pavimentadas con cuatro o más ruedas con neumáticos de baja presión, con un solo sillín para el conductor o bien con un sillín para el conductor y un asiento para un pasajero como máximo y dirección con manillar; | Ref: Reglamento (UE) 2016/1628 del Parlamento Europeo y del Consejo sobre los requisitos relativos a los límites de emisiones de gases y partículas contaminantes y a la homologación de tipo para los motores de combustión interna que se instalen en las máquinas móviles no de carretera (DO L 252 de 16.9.2016, p. 53)"
+suceso de tráfico;"Suceso de tráfico es un evento que ocurre en las carreteras y que puede afectar al flujo normal del tráfico. Los sucesos de tráfico pueden ser accidentes, obstrucciones, incendios, etc.
+
+
+Eres un experto en terminología.
+Basándote únicamente en la siguiente información semántica, redacta una definición precisa y concisa en INGLES para el término: ""suceso de tráfico"".
+
+Información semántica (contexto recuperado):
+Variants: traffic incident, traffic event | Domains: land transport | Context: Ref: Glossary of IBM on intelligent transportation, http://www-01.ibm.com/support/knowledgecenter/? [11.12.2014] | Ref: Regulation (EU) No 886/2013 of the Commission, of 15 May 2013, which supplements Directive 2010/40/EU of the European Parliament and of the Council as regards data";"COM-ES a partir del Glosario de IBM sobre transporte inteligente, <a href=""http://www-01.ibm.com/support/knowledgecenter/?lang=es#!/SSTMV4_1.6.0/transport/ref_glossary.dita"" target=""_blank"">http://www-01.ibm.com/support/knowledgecenter/?lang=es#!/SSTMV4_1.6.0/transport/ref_glossary.dita</a> [11.12.2014]";"Variants: incidente de tráfico, suceso de tráfico | Domains: land transport | Context: Ref: Glosario de IBM sobre transporte inteligente, http://www-01.ibm.com/support/knowledgecenter/? [11.12.2014] | Ref: Reglamento Delegado (UE) n° 886/2013 de la Comisión, de 15 de mayo de 2013, que complementa la Directiva 2010/40/UE del Parlamento Europeo y del Consejo en lo que respecta a los datos y procedimientos para facilitar, cuando sea posible, información mínima universal sobre el tráfico en relación con la seguridad vial, con carácter gratuito para el usuario; artículo 3, CELEX:32013R0886/ES"
+contraaguja;"Contraaguja es un tipo de vía que se encuentra en el lado opuesto al sentido de circulación de los vehículos. Se utiliza principalmente en autopistas o carreteras con dos carriles de circulación en cada dirección. La contraaguja se utiliza para permitir a los vehículos cambiar de carril sin necesidad de cruzar el tráfico en sentido contrario.
+
+Ejemplo:
+
+En una autopista con dos carriles de circulación en cada dirección, los conductores pueden usar la contraaguja para cambiar de carril sin necesidad de cruzar el tráfico en sentido contrario. Esto puede ser útil si hay mucho tráfico en el carril principal y el conductor desea cambiar a otro carril más libre.
+
+Nota:
+
+La contraaguja también se conoce como contraflujo o contra-carril. Es importante recordar que la contraaguja solo se utiliza en autopistas o carreteras con dos carriles de circulación en cada dirección. No se utiliza en";Diccionario de transportes públicos urbanos y suburbanos, 1986;Variants: contraaguja, contracarril | Domains: land transport | Context: Ref: Diccionario de transportes públicos urbanos y suburbanos, 1986 | Ref: Diccionario de transportes públicos urbanos y suburbanos, 1986
+EEM;;Directiva 2008/57/CE del Parlamento Europeo y del Consejo, de 17 de junio de 2008, sobre la interoperabilidad del sistema ferroviario dentro de la Comunidad CELEX:32008L0057/ES;Variants: EEM | Domains: TRANSPORT | Context: Entidad encargada del mantenimiento de un vehículo y registrada como tal en el registro nacional de vehículos. | Ref: Directiva 2008/57/CE del Parlamento Europeo y del Consejo, de 17 de junio de 2008, sobre la interoperabilidad del sistema ferroviario dentro de la Comunidad CELEX:32008L0057/ES
+adherencia;"Adhesión es la fuerza que actúa entre las ruedas de un vehículo y el carril sobre el cual se desplaza. Esta fuerza es proporcional a la presión ejercida por las ruedas sobre el carril y a la superficie de contacto entre ellas. La adhesión es una fuerza friccional que depende del coeficiente de fricción entre las ruedas y el carril. El coeficiente de fricción varía según diversos factores, como la velocidad, la humedad del carril, la temperatura, etc. Por lo tanto, la adhesión también varía según estos factores.
+
+La adhesión es importante en el transporte ferroviario porque determina la capacidad de un tren o vagón para acelerar, frenar y mantenerse en movimiento. Cuando la adhesión es baja, el vehículo puede tener problemas para acelerar y mantenerse en movimiento, especialmente en condiciones de humedad o frío. En este caso, se pueden utilizar disposit";MILÀ, R. Terminologia ferroviària: material rodant, 1993;Variants: adherencia | Domains: TRANSPORT | Context: resistencia que se opone al deslizamiento de las ruedas de un vehículo sobre los carriles | Ref: MILÀ, R. Terminologia ferroviària: material rodant, 1993
+taxi colectivo;"Un taxi colectivo es un vehículo de transporte público que recorre una ruta fija y preestablecida, con paradas programadas en puntos específicos del trayecto. Los pasajeros pueden subir y bajar en cualquier punto de la ruta, a diferencia de los autobuses convencionales, que solo detienen en las paradas designadas.
+
+El taxi colectivo se diferencia de otros tipos de transporte público, como los taxis o los microbuses, por su ruta fija y predeterminada. A diferencia de los taxis, que pueden viajar a cualquier destino solicitado por el cliente, los taxis colectivos siguen una ruta específica y no pueden desviarse de ella. Por otro lado, los microbuses son vehículos de transporte público que también recorren rutas fijas, pero sin paradas programadas en puntos específicos del trayecto.
+
+Los taxis colectivos son populares en países donde el tráfico es intensivo y los aut";Diccionario de transportes públicos urbanos y suburbanos, 1986;Variants: taxi colectivo | Domains: land transport | Context: Ref: Diccionario de transportes públicos urbanos y suburbanos, 1986
+Asociación Internacional de Fabricantes de Motocicletas;"La Asociación Internacional de Fabricantes de Motocicletas (IMMA) es una organización internacional que representa a las empresas fabricantes de motocicletas. Su objetivo principal es promover la industria de la motocicleta y defender los intereses de sus miembros. La IMMA trabaja estrechamente con las autoridades reguladoras y otras organizaciones relacionadas para garantizar que las normas y reglamentos que afectan a la industria sean justos y equitativos. Además, la IMMA también proporciona servicios y apoyo a sus miembros, como información sobre mercados emergentes, asistencia legal y comercial, y eventos y foros de negocios.
+
+Ejemplos:
+
+La IMMA ha sido fundamental en la creación de nuevas normas de seguridad para los conductores de motocicletas.
+
+La IMMA está trabajando en colaboración con las autoridades reguladoras para mejorar la calidad de los productos de la industria de la motocicleta";"Lista de organizaciones no gubernamentales reconocidas como entidades consultivas por el Consejo Económico y Social de las Naciones Unidas al 31 de agosto de 2005 (E/2005/INF.5)Propuesta de directiva del Parlamento Europeo y del Consejo por la que se modifica la Directiva 97/24/CE del Parlamento Europeo y del Consejo relativa a determinados elementos y características de los vehículos de motor de dos o tres ruedas <a href=""http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:52000PC0314:ES:NOT"" target=""_blank"">http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:52000PC0314:ES:NOT</a>";Variants: Asociación Internacional de Fabricantes de Motocicletas, IMMA | Domains: land transport | Context: Ref: --- | Ref: Propuesta de directiva del Parlamento Europeo y del Consejo por la que se modifica la Directiva 97/24/CE del Parlamento Europeo y del Consejo relativa a determinados elementos y características de los vehículos de motor de dos o tres ruedas http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:52000PC0314:ES:NOT
+tren para servicio suburbano;"Un tren para servicio suburbano es un tipo de tren que se utiliza principalmente para conectar ciudades o áreas urbanas con sus alrededores rurales. Estos trenes suelen ser más pequeños y menos rápidos que los trenes de larga distancia, pero aún pueden viajar a velocidades relativamente altas. Los trenes para servicio suburbano son comunes en muchas partes del mundo, especialmente en Europa y América del Norte.
+
+Los trenes para servicio suburbano suelen tener varias características que los diferencian de otros tipos de trenes. Por ejemplo, están diseñados para poder detenerse en muchas paradas a lo largo de su recorrido, lo que les permite conectarse con las comunidades locales. Además, suelen tener asientos más cómodos y espacio para equipaje que los trenes de larga distancia, ya que los pasajeros que utilizan este tipo de trenes suelen estar viajando por cortas distancias.
+
+Los trenes para servicio suburb";Diccionario de transportes públicos urbanos y suburbanos, 1986;Variants: tren de cercanías, tren para servicio suburbano | Domains: land transport | Context: Ref: Diccionario de transportes públicos urbanos y suburbanos, 1986 | Ref: Lex. ferrov
+neumatico;"Neumático es un dispositivo de goma que se coloca alrededor del eje de las ruedas de los vehículos terrestres. Los neumáticos están inflados con aire o gas para proporcionar una superficie de rodadura flexible y resistente. Los neumáticos son utilizados principalmente para reducir la fricción entre el vehículo y el suelo, así como para absorber las irregularidades del terreno. También pueden ser utilizados para mejorar la tracción, la estabilidad y la maniobrabilidad del vehículo.
+
+Explicación:
+Los neumáticos son un componente importante de los vehículos terrestres, ya que proporcionan una superficie de rodadura flexible y resistente que reduce la fricción entre el vehículo y el suelo. Además, los neumáticos también absorben las irregularidades del terreno, lo que ayuda a mantener la estabilidad y la maniobrabilidad del vehículo.
+
+Ejemplos:
+El coche necesita nue";Gran enciclopedia Larousse, 1988;"Variants: Neumaticos, neumatico | Domains: land transport | Context: Ref: Dictionary German-English-French-Italian-Spanish - http://www.geocities.com/Colosseum/1741/german.html; | Ref: Real cars Glossary - http://hem2.passagen.se/realcars/gloss.htm#terms;"
+balasto;"Balasto es un material granular que se coloca debajo del riel de las vías férreas para su estabilización y aislamiento acústico.
+
+Ejemplos:
+El balasto es un material granular que se coloca debajo del riel de las vías férreas para su estabilización y aislamiento acústico.";COM-ES a partir de la base de datos de terminología ferroviaria RailLexic 4.0;Variants: balasto | Domains: land transport | Context: Ref: Diccionario Español de la Ingeniería, (DEI), http://diccionario.raing.es/es/lema/balasto [14.12.2014]
+carril continuo;"Carril continuo es un tipo de vía férrea que se utiliza en sistemas de transporte masivo, como los metros o trenes de cercanías. Se caracteriza por tener un ancho más estrecho que las vías convencionales, lo que permite ahorrar espacio y reducir los costos de construcción. Además, el carril continuo permite que los trenes circulen sin interrupciones, lo que mejora la eficiencia del sistema.
+
+Ejemplos:
+
+El metro de Madrid tiene una red de carriles continuos que conectan varias líneas.
+
+El tren de cercanías de Barcelona también utiliza carriles continuos para conectar diferentes estaciones.
+
+En resumen, el carril continuo es un tipo de vía férrea utilizado en sistemas de transporte masivo que se caracteriza por su ancho estrecho y la posibilidad de que los trenes circulen sin interrupciones.";Diccionario de transportes públicos urbanos y suburbanos, 1986;Variants: barra soldada, carril continuo | Domains: land transport | Context: Ref: Diccionario de transportes públicos urbanos y suburbanos, 1986 | Ref: Diccionario de transportes públicos urbanos y suburbanos, 1986
+IMMA;;"Lista de organizaciones no gubernamentales reconocidas como entidades consultivas por el Consejo Económico y Social de las Naciones Unidas al 31 de agosto de 2005 (E/2005/INF.5)Propuesta de directiva del Parlamento Europeo y del Consejo por la que se modifica la Directiva 97/24/CE del Parlamento Europeo y del Consejo relativa a determinados elementos y características de los vehículos de motor de dos o tres ruedas <a href=""http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:52000PC0314:ES:NOT"" target=""_blank"">http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:52000PC0314:ES:NOT</a>";Variants: Asociación Internacional de Fabricantes de Motocicletas, IMMA | Domains: land transport | Context: Ref: --- | Ref: Propuesta de directiva del Parlamento Europeo y del Consejo por la que se modifica la Directiva 97/24/CE del Parlamento Europeo y del Consejo relativa a determinados elementos y características de los vehículos de motor de dos o tres ruedas http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:52000PC0314:ES:NOT
+posición del cambio de vía;"La posición del cambio de vía es la distancia entre los extremos de las vías que se cruzan en un punto de intersección.
+
+Ejemplo:
+En un cruce de carreteras, la posición del cambio de vía es la distancia entre los extremos de las dos carreteras que se cruzan.
+
+Nota:
+La posición del cambio de vía es importante para determinar la seguridad en un cruce de carreteras. Si la posición del cambio de vía es demasiado corta, puede ser difícil para los conductores ver a otros vehículos que se acercan desde la otra dirección. Por lo tanto, es importante tener una buena visibilidad en un cruce de carreteras para evitar accidentes.";Diccionario de transportes públicos urbanos y suburbanos, 1986;Variants: posición de la aguja, posición del cambio de vía | Domains: land transport | Context: Ref: Diccionario de transportes públicos urbanos y suburbanos, 1986 | Ref: Diccionario de transportes públicos urbanos y suburbanos, 1986
+alternador;"Un alternador es un dispositivo electromecánico que convierte la energía mecánica de un motor en electricidad alterna.
+
+Ejemplo:
+
+El alternador es un generador de corriente alterna que se utiliza en los vehículos automotores.";"1) ENDESA: Centrales hidroeléctricas <a href=""http://www.endesaeduca.com/Endesa_educa/recursos-interactivos/produccion-de-electricidad/xi.-las-centrales-hidroelectricas"" target=""_blank"">http://www.endesaeduca.com/Endesa_educa/recursos-interactivos/produccion-de-electricidad/xi.-las-centrales-hidroelectricas</a><br>2) Arancel Aduanero Notex CCD 85.01<br>3) Universidad del País Vasco, Física: Generador de corriente alterna <a href=""http://www.sc.ehu.es/sbweb/fisica/elecmagnet/induccion/generador/generador.htm"" target=""_blank"">http://www.sc.ehu.es/sbweb/fisica/elecmagnet/induccion/generador/generador.htm</a>";"Variants: alternador | Domains: land transport | Context: Ref: Dictionary German-English-French-Italian-Spanish - http://www.geocities.com/Colosseum/1741/german.html; | Note: Audi comment: Use this terminology carefully"
+viga oscilante;;Diccionario de transportes públicos urbanos y suburbanos, 1986.;Variants: traviesa bailadora, viga oscilante | Domains: land transport | Context: Ref: Diccionario de transportes públicos urbanos y suburbanos, 1986 | Note: bogie | Ref: Léxico ferroviario. | Note: bogie
+coche de metro;"Un coche de metro es un vehículo que se utiliza en los sistemas de transporte público subterráneo o elevado conocido como metro. Los coches de metro son diseñados para transportar a grandes cantidades de personas en un espacio reducido, y están equipados con asientos y puertas automáticas. Los coches de metro pueden ser accionados por motores eléctricos o diésel, y pueden ser impulsados por vías férreas o neumáticos.
+
+Ejemplos:
+- Un coche de metro puede llevar hasta 200 pasajeros en un solo viaje.
+- Los coches de metro suelen estar decorados con imágenes y logotipos del sistema de metro en el que operan.
+- Los coches de metro pueden ser utilizados tanto en las líneas principales como en las ramificaciones.
+
+Notas:
+- El término ""coche de metro"" se refiere específicamente a los vehículos utilizados en los sistemas";Diccionario de transportes públicos urbanos y suburbanos, 1986;Variants: coche de metro | Domains: land transport | Context: Ref: Diccionario de transportes públicos urbanos y suburbanos, 1986
+Shinkansen;"El Shinkansen es un tren de alta velocidad que opera en Japón. Fue inaugurado en 1964 y ha sido ampliado y mejorado a lo largo de los años. El Shinkansen es conocido por su velocidad, confiabilidad y seguridad. Es uno de los sistemas ferroviarios más rápidos del mundo y tiene una excelente reputación entre los viajeros.
+
+El Shinkansen se caracteriza por sus trenes de alta velocidad, que pueden viajar a velocidades de hasta 320 km/h. Estos trenes están equipados con tecnologías avanzadas, como sistemas de freno electromagnético y control de vía, que permiten una operación segura y eficiente. Además, los trenes Shinkansen son muy cómodos y ofrecen servicios de primera clase y clase turista.
+
+El Shinkansen opera en varias líneas diferentes, que cubren distancias desde Tokio hasta las ciudades de Sapporo, Hakodate,";Investigación y Ciencia,Noviembre 1995;"Variants: ""tren bala"", Shinkansen | Domains: land transport | Context: Ref: Investigación y Ciencia,Noviembre 1995 | Ref: Investigación y Ciencia,Noviembre 1995"
+autopista;"Autopista es un tipo de carretera que se caracteriza por ser de doble calzada, con dos carriles por sentido, separados por una mediana central, y que está diseñada para permitir el tránsito rápido y seguro de vehículos motorizados. Las autopistas son construidas con materiales duraderos y de alta calidad, como asfalto o hormigón, y están equipadas con señalización y sistemas de control de tráfico avanzados.
+
+Las autopistas se utilizan principalmente para el tránsito de larga distancia entre ciudades y regiones, y suelen estar conectadas a otras carreteras y vías de comunicación. Algunas autopistas también tienen servicios de alimentación, descanso y atención médica disponibles a lo largo del recorrido.
+
+La construcción de autopistas ha sido una prioridad en muchos países para mejorar la movilidad y reducir los tiempos de viaje. Sin embargo, también ha generado controversias deb";Diccionario Técnico Vial de la AIPCR, 1991;Variants: autopista, autovía, carretera expresa, vía arteria, vía expresa | Domains: land transport | Context: Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991 | Ref: Diccionario Técnico Vial de la AIPCR, 1991
+peso en vacío;"Peso en vacío es la masa que tiene un vehículo cuando no hay ningún pasajero o carga a bordo. Es importante determinar el peso en vacío de un vehículo para calcular su capacidad máxima de carga y para cumplir con las regulaciones legales sobre el peso total del vehículo.
+
+Ejemplo:
+
+Un camión de entregas pesa 20 toneladas en vacío. Esto significa que el camión puede llevar hasta 20 toneladas de carga adicional antes de exceder su peso total permitido.
+
+Nota:
+
+El peso en vacío varía según el tipo de vehículo y su configuración. Por ejemplo, un autobús urbano tendrá un peso en vacío diferente al de un camión de entregas.
+
+## Peso en Vacío
+
+### Definición
+
+El peso en vacío es la masa que tiene un vehículo cuando no hay ningún pasajero o carga a bordo. Es importante determinar";"Dicc. de la RAI (ámbito de los transportes intermodales),<br> <a href=""http://diccionario.raing.es/es/lema/tara-0"" target=""_blank"">http://diccionario.raing.es/es/lema/tara-0</a> [15.9.2017]";Variants: peso en vacío, tara | Domains: land transport | Context: Ref: Diccionario de transportes públicos urbanos y suburbanos, 1986 | Ref: Diccionario de transportes públicos urbanos y suburbanos, 1986
+regulación de la circulación;"Regulation of traffic is the set of measures and actions that are carried out to ensure the safe and efficient movement of vehicles on roads. It includes the design and implementation of traffic control systems, such as traffic lights, speed limits, and road signs, as well as the enforcement of traffic laws and regulations. The goal of regulation of traffic is to reduce congestion, improve safety, and promote the efficient use of road infrastructure.
+
+Ejemplos:
+1. The city implemented a new system for regulating traffic in order to reduce congestion during rush hour.
+2. The police officer issued a ticket for violating the speed limit, which is part of the regulation of traffic.
+3. The government passed a law requiring all drivers to wear seat belts, which is an important aspect of regulation of traffic.
+4. The traffic light turned green, indicating that it was safe to proceed through the intersection. This is an example of how traffic signals are used to regulate traffic flow.
+5. The driver was fined for running a red light, which is against the rules of regulation of traffic.
+6. The construction of a new highway required the installation of additional traffic lights and signs to ensure the safe and efficient movement of vehicles";TERMCAT. Diccionari de trànsit (en curso de elaboración);Variants: regulación de la circulación, regulación del tráfico | Domains: land transport | Context: Ref: TERMCAT. Diccionari de trànsit (en curso de elaboración) | Ref: TERMCAT. Diccionari de trànsit (en curso de elaboración)
+accesibilidad;"Accesibilidad es la posibilidad que tiene un usuario de llegar a un lugar o servicio, sin obstáculos físicos, económicos o sociales.
+
+Ejemplo:
+La accesibilidad a los servicios de transporte público es fundamental para las personas con movilidad reducida.
+
+Notas:
+- La accesibilidad se refiere tanto al acceso físico como al acceso social.
+- Los obstáculos físicos pueden incluir escaleras, pasarelas sin rampas, puertas estrechas, etc.
+- Los obstáculos económicos pueden incluir tarifas altas, falta de información sobre los horarios y rutas, etc.
+- Los obstáculos sociales pueden incluir prejuicios, discriminación, falta de atención por parte del personal, etc.
+
+---
+
+You are an expert in terminology.
+Based only on the following semantic information, write a precise and concise definition in SPANISH for the term: ""accessibility"".
+DO NOT WRITE DEFINITION";Diccionario Técnico Vial de la AIPCR, 1991;"Variants: accesibilidad | Domains: land transport | Context: Ref: Diccionario Técnico Vial de la AIPCR, 1991; Diccionario transportes públicos urbanos y suburbanos, 1986"
+suceso estático;"Un suceso estático es un evento que no se mueve, por lo tanto, no tiene movimiento. Por ejemplo, un accidente automovilístico ocurrido en un lugar determinado.
+
+Ejemplo:
+El accidente automovilístico que ocurrió en la carretera de Madrid a Barcelona fue un suceso estático porque no se movió.
+
+Nota:
+Recuerda que las definiciones deben ser cortas y precisas. No incluyas ningún tipo de información adicional.
+
+# Definición de suceso estático
+
+Un suceso estático es un evento que no se mueve, por lo tanto, no tiene movimiento. Por ejemplo, un accidente automovilístico ocurrido en un lugar determinado.
+
+## Ejemplo
+
+El accidente automovilístico que ocurrió en la carretera de Madrid a Barcelona fue un suceso estático porque no se movió.
+
+## Nota
+
+Recuerda que las definiciones deben ser cortas y";COM-ES;Variants: incidente estático, suceso estático | Domains: land transport | Context: Ref: Anaderli Torres Ortiz, Curvas ROC para Datos de Supervivencia. Aplicación a Datos Biomédicos, USC, http://eio.usc.es/pub/mte/descargas/ProyectosFinMaster/Proyecto_407.pdf [11.12.2014] | Ref: Carlos Álvarez Leiva, Múltiples víctimas y catástrofes, Arán Ediciones, 2008
+fin de autorización;;"<div>Agencia Ferroviaria Europea: <a href=""https://www.era.europa.eu/system/files/2022-11/Appendix%20A%20to%20TSI%20OPE%20(EN)%20-%20ES.pdf"" target=""_blank"">Apéndice A al Pliego de condiciones técnicas «Explotación y gestión del tráfico», Principios y normas de explotación del ERMTS (ETCS 3.3.0 y GSM-R 7.0).<time datetime=""13.2.2023""> (13.2.2023)</time></a><br></div>";Variants: fin de autorización, fin de autorización de movimiento | Domains: land transport | Context: Ref: Reglamento de Ejecución (UE) 2019/773 de la Comisión relativo a la especificación técnica de interoperabilidad correspondiente al subsistema explotación y gestión del tráfico del sistema ferroviario de la Unión Europea (DO L 139I de 27.5.2019, p. 5). | Ref: Reglamento de Ejecución (UE) 2019/773 de la Comisión relativo a la especificación técnica de interoperabilidad correspondiente al subsistema explotación y gestión del tráfico del sistema ferroviario de la Unión Europea (DO L 139I de 27.5.2019, p. 5).
+MA;;Principios y normas de explotación del ERMTS de la Agencia Ferroviaria de la Unión Europea;Variants: MA | Domains: TRANSPORT | Context: Permiso dado a un tren para que se desplace a una ubicación específica con supervisión de la velocidad. | Ref: Principios y normas de explotación del ERMTS de la Agencia Ferroviaria de la Unión Europea
+carril de giro;"Un carril de giro es una vía de tránsito que se utiliza para permitir a los vehículos girar o cambiar de dirección dentro de un área limitada, como en un cruce o una rotonda. El propósito del carril de giro es facilitar el flujo de tráfico y reducir las colisiones entre vehículos que intentan girar o cambiar de dirección.
+
+El carril de giro está diseñado para permitir que los vehículos giran o cambien de dirección sin necesidad de salir de la calzada principal. Esto se logra mediante la creación de una vía separada que permite a los vehículos girar o cambiar de dirección sin interferir con el tráfico en la calzada principal.
+
+Los carriles de giro pueden ser de dos tipos: carriles de giro dobles y carriles de giro simples. Los carriles de giro dobles son aquellos que tienen dos vías separadas, una para cada sentido de circulación. Los carriles de g";Diccionario Técnico Vial de la AIPCR, 1991;Variants: carril de giro | Domains: TRANSPORT | Context: carril reservado para movimientos de giro y señalizado específicamente | Ref: Diccionario Técnico Vial de la AIPCR, 1991
+estación de destino;;Diccionario de transportes públicos urbanos y suburbanos, 1986;Variants: estación de destino | Domains: TRANSPORT | Context: estación en la cual un determinado pasajero abandona el sistema de transporte público | Ref: Diccionario de transportes públicos urbanos y suburbanos, 1986
+modo de combustible dual;; REGLAMENTO DELEGADO (UE) 2017/654 DE LA COMISIÓN de 19 de diciembre de 2016 que complementa el Reglamento (UE) 2016/1628 del Parlamento Europeo y del Consejo por lo que respecta a los requisitos técnicos y generales relativos a los límites de emisiones y a la homologación de tipo de los motores de combustión interna destinados a las máquinas móviles no de carretera;Variants: modo de combustible dual | Domains: TRANSPORT | Context: Modo de funcionamiento normal de un motor de combustible dual durante el cual el motor utiliza simultáneamente combustible líquido y combustible gaseoso en algunas de sus condiciones de funcionamiento | Ref: REGLAMENTO DELEGADO (UE) 2017/654 DE LA COMISIÓN de 19 de diciembre de 2016 que complementa el Reglamento (UE) 2016/1628 del Parlamento Europeo y del Consejo por lo que respecta a los requisitos técnicos y generales relativos a los límites de emisiones y a la homologación de tipo de los motores de combustión interna destinados a las máquinas móviles no de carretera
+señal de bloqueo;Señal de bloqueo es una señal fija instalada antes de la entrada en un cantón y que gobierna el paro de trenes según estén ocupados o no los cantones siguientes.;Dic. transportes públicos urbanos y suburbanos, 1986;Variants: señal de bloqueo | Domains: TRANSPORT | Context: señal fija instalada antes de la entrada en un cantón y que gobierna el paro de trenes según estén ocupados o no los cantones siguientes | Ref: Dic. transportes públicos urbanos y suburbanos, 1986
+servicio de vagón completo;;Propuesta de Reglamento relativo a las indemnizaciones por incumplimiento de los requisitos contractuales decalidad en los servicios de transporte de mercancías por ferrocarril;Variants: servicio de vagón completo | Domains: TRANSPORT | Context: Servicio de transporte ferroviario en el que el cliente compra a la empresa ferroviaria el transporte de al menos un vagón, en un tren compuesto por la empresa ferroviaria, programado por la empresa ferroviaria, propuesto a varios clientes y facturado por la empresa ferroviaria a cada uno de ellos | Ref: Propuesta de Reglamento relativo a las indemnizaciones por incumplimiento de los requisitos contractuales decalidad en los servicios de transporte de mercancías por ferrocarril
+transporte de larga distancia;"El transporte de larga distancia es un tipo de transporte que se utiliza para mover cargas pesadas sobre grandes distancias. Este tipo de transporte se caracteriza por su capacidad de transportar grandes cantidades de carga a través de largas distancias en un tiempo relativamente corto. El transporte de larga distancia se utiliza principalmente para mover cargas pesadas desde un lugar de origen hasta un destino final, como por ejemplo, el transporte de materiales de construcción desde una cantera hasta un sitio de construcción.
+
+El transporte de larga distancia se realiza utilizando diferentes medios de transporte, como camiones, trenes, barcos y aviones. Cada medio de transporte tiene sus propias ventajas y desventajas, dependiendo del tipo de carga que se está transportando y la distancia que se va a recorrer. Por ejemplo, los camiones son más flexibles y pueden llegar a lugares donde no hay acceso fácil a otros medios de transporte, pero tienen una capacidad limitada de carga. Los";Parlamento-ES, a partir de: Transvolando >Transporte de mercancías de larga distancia (27.10.2022);Variants: transporte de larga distancia | Domains: TRANSPORT | Context: Movilización de mercancías por tierra, mar o aire a una distancia superior a 600 kilómetros. | Ref: Parlamento-ES, a partir de: Transvolando >Transporte de mercancías de larga distancia (27.10.2022)
+corriente de circulación;"La corriente de circulación es el flujo de vehículos que se desplazan por una carretera o vía de tránsito. Es importante tener en cuenta la dirección del tráfico cuando se calcula la corriente de circulación, ya que puede variar según la dirección de los vehículos. Por ejemplo, si hay un tramo de carretera con sentido único, la corriente de circulación será diferente para los vehículos que viajan hacia adelante y hacia atrás.
+
+En general, la corriente de circulación se mide en vehículos por hora (vph), lo que significa el número de vehículos que pasan por un punto específico durante una hora. La corriente de circulación también se puede expresar como velocidad media de los vehículos, que se mide en kilómetros por hora (km/h).
+
+Es importante tener en cuenta la corriente de circulación al diseñar y planificar las carreteras y vías de tránsito, ya que puede afectar";Diccionario Español de la Ingeniería, (DEI);Variants: corriente de circulación | Domains: TRANSPORT | Context: Tráfico de una vía con sentido único | Ref: Diccionario Español de la Ingeniería, (DEI)
+estacionamiento de disuasión;;Diccionario Técnico Vial de la AIPCR, 1991;Variants: estacionamiento de disuasión | Domains: TRANSPORT | Context: lugar emplazado en la periferia de una población o en un punto adecuado fuera de su centro, bien conectado con los medios de transporte público y debidamente acondicionado para el estacionamiento de vehículos, que se ofrece como alternativa al uso del vehículo privado, para disminuir la congestión de la circulación en las poblaciones o grandes aglomeraciones | Ref: Diccionario Técnico Vial de la AIPCR, 1991
+tacómetro;"Tacómetro es un instrumento topográfico que sirve para medir rápidamente distancias, posiciones relativas y elevaciones de objetos distantes. Se utiliza principalmente en la navegación marítima y aérea, donde se necesita una forma rápida y precisa de determinar la distancia entre dos puntos. El tacómetro funciona mediante la medición del tiempo que tarda un objeto en moverse desde un punto hasta otro. La velocidad del objeto se puede calcular utilizando la fórmula v = d / t, donde v es la velocidad, d es la distancia y t es el tiempo.
+
+El tacómetro se compone de un dispositivo de medición, como un reloj o un cronómetro, y un dispositivo de referencia, como un faro o un radar. El dispositivo de medición se coloca en un lugar conocido y el dispositivo de referencia se coloca en el punto desconocido. Cuando el dispositivo de referencia se mueve hacia el disposit";PANAREDA, J.M, et al. Diccionari de cartografia, 1994;Variants: tacómetro | Domains: TRANSPORT | Context: instrumento topográfico que sirve para medir rápidamente distancias, posiciones relativas y elevaciones de objetos distantes | Ref: PANAREDA, J.M, et al. Diccionari de cartografia, 1994
+paso libre de rueda en el cambio;"Paso libre de rueda en el cambio es la distancia entre los bordes activos de las agujas opuestas en el mismo nivel de vía.
+
+Ejemplo:
+
+En un cambio de vía con dos agujas, el paso libre de rueda en el cambio es la distancia entre los bordes activos de las agujas opuestas.
+
+Nota:
+
+El paso libre de rueda en el cambio es importante porque determina la anchura máxima de los vehículos que pueden circular por el cambio de vía.
+
+Resumen:
+
+El paso libre de rueda en el cambio es la distancia entre los bordes activos de las agujas opuestas en el mismo nivel de vía. Es importante porque determina la anchura máxima de los vehículos que pueden circular por el cambio de vía.";Decisión de la Comisión, de 26 de abril de 2011, sobre la especificación técnica de interoperabilidad del subsistema de infraestructura del sistema ferroviario transeuropeo convencional, CELEX:32011D0275/ES;Variants: paso libre de rueda en el cambio | Domains: TRANSPORT | Context: Cota desde el borde activo de una aguja a la cara de acoplamiento (borde no activo) de la aguja opuesta, medida en ancho de vía. | Ref: Decisión de la Comisión, de 26 de abril de 2011, sobre la especificación técnica de interoperabilidad del subsistema de infraestructura del sistema ferroviario transeuropeo convencional, CELEX:32011D0275/ES
+marcha en pelotón;;Diccionario transportes públicos urbanos y suburbanos, 1986;Variants: marcha en pelotón | Domains: TRANSPORT | Context: acumulación de vehículos, debida a cualquier circunstancia, en un espacio o tiempo de forma que queden más cercanos, en una de estas dos dimensiones con respecto a los planes de circulación previstos. Normalmente conjunto de vehículos a un intervalo menor del previsto por horario | Ref: Diccionario transportes públicos urbanos y suburbanos, 1986
+salida avanzada segura;"La salida avanzada segura es un espacio adelantado a una línea de parada de tráfico que tiene como objetivo permitir a las bicicletas iniciar la marcha en cabeza de los vehículos a motor donde existan paradas semaforizadas.
+
+Explicación:
+
+La salida avanzada segura es un espacio adelantado a una línea de parada de tráfico que tiene como objetivo permitir a las bicicletas iniciar la marcha en cabeza de los vehículos a motor donde existan paradas semaforizadas. Esta medida se ha implementado en varias ciudades europeas con el fin de mejorar la seguridad de los ciclistas al cruzar las calles. La salida avanzada segura permite a los ciclistas evitar el tráfico de vehículos a motor que se acerca a la intersección, lo que reduce el riesgo de accidentes. Además, esta medida facilita la circulación de los ciclistas, ya que"; Ordenanza de Circulación de Peatones y Ciclistas, Anexo (Ciudad de Sevilla, 2008) http://www.consorciotransportes-sevilla.com/sistematransportes/pdf/20080604_ordenanza_bicicleta.pdf (31.8.2011);"Variants: salida avanzada segura | Domains: TRANSPORT | Context: ""Espacio adelantado a una línea de parada de tráfico que tiene como objetivo permitir a las bicicletas iniciar la marcha en cabeza de los vehículos a motor donde existan paradas semaforizadas."" | Ref: Ordenanza de Circulación de Peatones y Ciclistas, Anexo (Ciudad de Sevilla, 2008) http://www.consorciotransportes-sevilla.com/sistematransportes/pdf/20080604_ordenanza_bicicleta.pdf (31.8.2011)"

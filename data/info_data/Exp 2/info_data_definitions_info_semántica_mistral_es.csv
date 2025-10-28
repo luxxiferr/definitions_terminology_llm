@@ -1,0 +1,641 @@
+term;definition;source;info_semantica
+incidente de seguridad;"Un incidente de seguridad es cualquier suceso que afecta a la confidencialidad, integridad o disponibilidad de los activos de información de una empresa o entidad, por ejemplo: acceso o intento de acceso a los sistemas o uso, divulgación, modificación o destrucción no autorizada de información.
+
+Explicación:
+La definición del término ""incidente de seguridad"" se basa en la información semántica proporcionada, que describe el contexto y las variantes del término. En este caso, se refiere a cualquier suceso que afecte a la confidencialidad, integridad o disponibilidad de los activos de información de una empresa o entidad, como acceso o intento de acceso a los sistemas o uso, divulgación, modificación o destrucción no autorizada de información.
+
+El término ""incidente de seguridad"" se utiliza en el campo de la ciberseguridad para referirse a eventos que";"<i><a href=""https://www.incibe.es/sites/default/files/contenidos/guias/doc/guia_glosario_ciberseguridad_metad.pdf?bcsi_scan_c5f5d8e479916bf5=0&amp;bcsi_scan_filename=guia_glosario_ciberseguridad_metad.pdf"" target=""_blank"">Glosario de términos de ciberseguridad: una guía de aproximación para el empresario<time datetime=""14.11.2019""> (14.11.2019)</time></a></i>, Instituto Nacional de Ciberseguridad, León, 2017";Variants: incidente de seguridad | Domains: EDUCATION AND COMMUNICATIONS | Context: Cualquier suceso que afecte a la confidencialidad, integridad o disponibilidad de los activos de información de una empresa o entidad, por ejemplo: acceso o intento de acceso a los sistemas o uso, divulgación, modificación o destrucción no autorizada de información. | Ref: Glosario de términos de ciberseguridad: una guía de aproximación para el empresario (14.11.2019) , Instituto Nacional de Ciberseguridad, León, 2017
+memoria lenta;"La memoria lenta es un tipo de memoria que se caracteriza por su lentitud de acceso, lo que reduce el promedio de procesamiento de los datos. Esta memoria se utiliza principalmente en aplicaciones donde no es necesario un alto rendimiento o donde la velocidad de acceso no es crítica.
+
+Ejemplos:
+
+En computadoras, la memoria lenta puede ser utilizada como almacenamiento secundario, como en el caso de las unidades de disco duro. En dispositivos móviles, la memoria lenta puede ser utilizada para almacenar datos que no son necesarios en tiempo real, como fotografías o videos.
+
+Conclusiones:
+
+La memoria lenta es un tipo de memoria que se caracteriza por su lentitud de acceso, lo que reduce el promedio de procesamiento de los datos. Aunque esta memoria tiene una velocidad de acceso más lenta que otras formas de memoria, como la memoria RAM, es adecuada para aplicaciones donde no es necesario un alto rendimiento o donde";J.A. Alonso y J.M. Otero, Ingenieros;Variants: memoria lenta | Domains: EDUCATION AND COMMUNICATIONS | Context: almacenamiento cuya lentitud de acceso reduce el promedio de procesamiento de los datos | Ref: J.A. Alonso y J.M. Otero, Ingenieros
+verificación;"La verificación es un proceso consistente en determinar si los productos de una fase dada de un ciclo de desarrollo cumplen o no los requisitos establecidos durante la fase precedente. Es decir, se asegura que los resultados de una etapa del proceso de desarrollo cumplan con las especificaciones establecidas en la etapa anterior. La verificación es una actividad importante en el proceso de desarrollo de software, ya que ayuda a garantizar la calidad del producto final.
+
+Ejemplo:
+
+En el contexto de la educación, la verificación puede referirse al proceso de evaluar si los estudiantes han aprendido lo que se les ha enseñado. Por ejemplo, en un examen de matemáticas, la verificación podría consistir en determinar si los estudiantes pueden resolver problemas de manera correcta.
+
+En el contexto de las comunicaciones, la verificación puede referirse al proceso de comprobar si los mensajes transmitidos entre dos partes son correctos. Por"; 2) comprobación oficial de la corrección de un programa;Variants: verificación | Domains: EDUCATION AND COMMUNICATIONS | Context: proceso consistente en determinar si los productos de una fase dada de un ciclo de desarrollo cumplen o no los requisitos establecidos durante la fase precedente | Ref: 2) comprobación oficial de la corrección de un programa
+marcación por impulsos;"La marcación por impulsos es un método de transmisión de datos que utiliza pulsos de corta duración para representar los bits de datos. En este sistema, cada bit se representa como un pulso de corta duración, lo que permite transmitir datos a alta velocidad. La longitud del pulso puede variar según el tipo de dato que se está transmitiendo, pero generalmente es muy corta, de unos pocos nanosegundos.
+
+Este método de transmisión es muy eficiente y se utiliza en muchas aplicaciones, como la telefonía digital, la transmisión de datos por cable coaxial y la transmisión de datos por fibra óptica. También se utiliza en algunos sistemas de comunicación militar, como el sistema de comunicaciones por satélite MILSTAR.
+
+En la marcación por impulsos, los datos se codifican utilizando un código binario, donde cada bit se representa como un pulso de corta duración. Estos pulsos se envían a través de un medio";Antonio Soto López, ingeniero de sistemas, Alcatel-Standard Eléctrica, S.A., Madrid;Variants: marcación por impulsos | Domains: EDUCATION AND COMMUNICATIONS | Context: impulsos decádicos | Ref: Antonio Soto López, ingeniero de sistemas, Alcatel-Standard Eléctrica, S.A., Madrid
+artículo;"Un artículo es una unidad de información que se compone de uno o más números o caracteres adyacentes que se tratan como una unidad. Los artículos pueden ser utilizados para representar diferentes tipos de información, como números enteros, decimales, fracciones, fechas, horas, etc.
+
+Ejemplos:
+
+1. El número 3 es un artículo que representa el número entero tres.
+2. La fracción 1/2 es un artículo que representa la fracción un medio.
+3. La fecha 01/01/2023 es un artículo que representa la fecha del primer día del año 2023.
+4. La hora 15:30 es un artículo que representa la hora trece y media.
+
+Notas:
+
+- Un artículo puede estar formado por uno o más números o caracteres adyacentes.
+- Los artículos pueden ser utilizados para representar diferentes tipos de información,";J.A. Alonso y J.M. Otero, Ingenieros;Variants: artículo | Domains: EDUCATION AND COMMUNICATIONS | Context: conjunto de dígitos o caracteres adyacentes tratado como una unidad y que contiene una unidad de información | Ref: J.A. Alonso y J.M. Otero, Ingenieros
+ajuste del texto;;"Consejo-ES ""Diseño de páginas Web"" <a href=""http://enlaces.ucv.cl/pags/area_acad/manual2/site/p0802.htm"" target=""_blank"">http://enlaces.ucv.cl/pags/area_acad/manual2/site/p0802.htm</a>";"Variants: ajuste del texto | Domains: EDUCATION AND COMMUNICATIONS | Context: Función de los tratamientos de textos que permiten colocar un texto junto a una imagen o a su alrededor de la manera que el operador desee. | Ref: Consejo-ES ""Diseño de páginas Web"" http://enlaces.ucv.cl/pags/area_acad/manual2/site/p0802.htm"
+mínimos de energía espurios;;"COM-ES, basado en ""Aplicaciones de las redes de neuronas en supervisión, diagnosis y control de procesos"", CYTED-Conicit, M.J. de la Fuente, T. Calonge, <a href=""http://books.google.lu/books?id=jUHGRXd5xU8C&amp;hl=fr"" target=""_blank"">http://books.google.lu/books?id=jUHGRXd5xU8C&amp;hl=fr</a> [25.11.2012]";"Variants: mínimos de energía espurios | Domains: EDUCATION AND COMMUNICATIONS | Context: En una red de Hopfield, mínimos de la función de energía debidos a estados espurios, que no corresponden a las memorias fundamentales. | Ref: COM-ES, basado en ""Aplicaciones de las redes de neuronas en supervisión, diagnosis y control de procesos"", CYTED-Conicit, M.J. de la Fuente, T. Calonge, http://books.google.lu/books?id=jUHGRXd5xU8C&hl=fr [25.11.2012]"
+carga y ejecución;"La carga y ejecución es una técnica de explotación que permite convertir directamente un lenguaje específico en lenguaje máquina y asegurar su ejecución inmediata sin parar el ordenador.
+
+Ejemplo:
+
+En el caso de los lenguajes de programación, la carga y ejecución se utiliza para convertir un programa escrito en un lenguaje de alto nivel en código máquina y ejecutarlo directamente sin necesidad de pasar por un compilador o intérprete. Esto permite una mayor velocidad de ejecución y una mejor utilización de los recursos del sistema.
+
+Notas:
+
+- La carga y ejecución es una técnica comúnmente utilizada en sistemas operativos y plataformas de desarrollo de software.
+- La carga y ejecución puede ser implementada mediante diferentes métodos, como la traducción justo a tiempo (JIT) o la interpretación dinámica.
+- La carga";J.A. Alonso y J.M. Otero, Ingenieros;Variants: carga y ejecución | Domains: EDUCATION AND COMMUNICATIONS | Context: técnica de explotación que permite convertir directamente un lenguaje específico en lenguaje máquina y asegurar su ejecución inmediata sin parar el ordenador | Ref: J.A. Alonso y J.M. Otero, Ingenieros
+autenticación fuerte;"Autenticación fuerte es un proceso de autenticación utilizado en algunas aplicaciones que no se basa únicamente en la demostración de la identidad por una contraseña, sino que intercambia más información ofreciendo más seguridad. En general uno de los corresponsales genera un código que transmite y el otro corresponsal debe devolverlo procesado de un modo preestablecido.
+
+Ejemplos:
+
+El sistema de autenticación fuerte utiliza dos factores de autenticación: el conocimiento (contraseña) y el control del dispositivo (token).
+
+La autenticación fuerte es un método de autenticación que requiere dos o más factores de autenticación.
+
+La autenticación fuerte es un método de autenticación que requiere dos o más factores de autenticación.
+
+La autenticación fuerte es un método de autenticación que requiere dos o más factores de autenticación.
+
+La autenticación fuerte es";"INFORMATOSCOPIA Y TECNOLOGÍA FORENSE <a href=""http://cita.es/apedanica/INFORMAT.HTM"" target=""_blank"">http://cita.es/apedanica/INFORMAT.HTM</a>";Variants: autenticación fuerte | Domains: EDUCATION AND COMMUNICATIONS | Context: Proceso de autenticación utilizado en algunas aplicaciones que no se basa únicamente en la demostración de la identidad por una contraseña, sino que intercambia más información ofreciendo más seguridad. En general uno de los corresponsales genera un código que transmite y el otro corresponsal debe devolverlo procesado de un modo preestablecido. | Ref: INFORMATOSCOPIA Y TECNOLOGÍA FORENSE http://cita.es/apedanica/INFORMAT.HTM
+transformación lineal;"La transformación lineal es una función matemática que se puede expresar como la suma de varias constantes multiplicadas por una o más variables. Esta función tiene la propiedad de ser lineal, lo que significa que si se aplica a dos vectores, la transformación lineal resultante es igual a la suma de las transformaciones lineales individuales de cada vector. La transformación lineal también conserva la proporcionalidad entre los vectores, lo que significa que si dos vectores son proporcionales, entonces su transformación lineal resultante también será proporcional.
+
+Ejemplo:
+
+Supongamos que tenemos tres vectores, v1, v2 y v3, y una transformación lineal f(x) = ax + b, donde a y b son constantes. Si aplicamos esta transformación lineal a cada uno de los vectores, obtenemos las siguientes transformaciones lineales:
+
+f(v1) = av1 + b
+f(v2) = av2 + b
+f(v3) = av3 +";J.A. Alonso y J.M. Otero, Ingenieros;Variants: transformación lineal | Domains: EDUCATION AND COMMUNICATIONS | Context: función que comprende la suma de sus partes, cada una de las cuales es una constante multiplicada por una, y solo una, de las variables de primer orden | Ref: J.A. Alonso y J.M. Otero, Ingenieros
+televisión de calidad convencional;"La televisión de calidad convencional es un sistema de transmisión de señales de televisión que utiliza una resolución de imagen de 480 líneas o menos. Este tipo de televisión se basa en estándares de transmisión establecidos por organizaciones internacionales como la Unión Internacional de Telecomunicaciones (UIT) y la Organización Internacional de Normalización (ISO).
+
+En los países que utilizan el sistema de televisión analógico PAL, la resolución de imagen estándar es de 625 líneas, mientras que en los países que utilizan el sistema NTSC, la resolución estándar es de 525 líneas. La televisión de calidad convencional también puede incluir formatos de alta definición como el HDTV (High Definition Television), que ofrece una resolución de imagen superior a la de la televisión de calidad convencional.
+
+La televisión de calidad convencional ha sido la forma predominante de transmitir televisión durante muchos años, pero con el avance de la tecnología,";CCITT, Rec.I. 113;Variants: televisión de calidad convencional | Domains: EDUCATION AND COMMUNICATIONS | Context: televisión definida por las normas de televisión convencionales de 625 líneas y 525 líneas, como los sistemas NTSC, PAL y SECAM | Ref: CCITT, Rec.I. 113
+carga;"La carga es el proceso de transferir un archivo desde un equipo informático a un servidor. Este proceso se realiza mediante un protocolo de transferencia de archivos, como FTP o SFTP. La carga puede ser realizada por un usuario final o por un programa automatizado.
+
+Ejemplos:
+
+- El usuario final puede utilizar un cliente de FTP para cargar un archivo a un servidor.
+- Un programa automatizado puede utilizar un script de comandos para cargar varios archivos a un servidor.
+
+Notas:
+
+- La carga puede ser realizada en modo activo o pasivo. En modo activo, el cliente inicia la conexión al servidor. En modo pasivo, el servidor inicia la conexión al cliente.
+- La carga puede ser realizada en modo anónimo o no anónimo. En modo anónimo, el usuario no necesita autenticarse en el servidor. En modo no anónimo, el usuario debe proporcion";"Valentín López, Gema: <i>Informática básica: sistema operativo, Internet y correo electrónico</i>, Editorial CEP, 2014, <a href=""https://books.google.be/books?id=0OpCDwAAQBAJ&amp;lpg=PP1&amp;hl=es&amp;pg=PA4#v=onepage&amp;q&amp;f=false"" target=""_blank"">https://books.google.be/books?id=0OpCDwAAQBAJ&amp;lpg=PP1&amp;hl=es&amp;pg=PA4#v=onepage&amp;q&amp;f=false</a> [23.4.2018]";Variants: carga | Domains: EDUCATION AND COMMUNICATIONS | Context: Transferencia de un archivo desde un equipo informático a un servidor. | Ref: Valentín López, Gema: Informática básica: sistema operativo, Internet y correo electrónico , Editorial CEP, 2014, https://books.google.be/books?id=0OpCDwAAQBAJ&lpg=PP1&hl=es&pg=PA4#v=onepage&q&f=false [23.4.2018]
+onda reflejada en el suelo;"La onda reflejada en el suelo es una onda electromagnética que se propaga a través del aire y se refleja sobre la superficie terrestre. Esta onda puede ser utilizada para comunicaciones de radio o para medir la distancia entre dos puntos. La longitud de onda de la onda reflejada en el suelo varía según la frecuencia de la onda. Por ejemplo, las ondas de radio cortas tienen una longitud de onda más larga que las ondas de radio ultracortas.
+
+Ejemplos:
+
+- La onda reflejada en el suelo se utiliza para comunicaciones de radio en la banda de frecuencias de 3 a 30 MHz.
+- La onda reflejada en el suelo se utiliza para medir la distancia entre dos puntos utilizando un radar.
+- La onda reflejada en el suelo se utiliza para determinar la altura de los edificios utilizando un láser.
+
+Conclusiones:
+
+La onda ref";DANTERM 15054;Variants: onda reflejada en el suelo | Domains: EDUCATION AND COMMUNICATIONS | Context: la parte de la onda de suelo que se refleja sobre la superficie terrestre | Ref: DANTERM 15054
+intercambio de archivos entre pares;;"PE-ES, basado en:<br> Malmierca, M.: «Piratería editorial en Internet», <i>Revista CERLALC</i>, 2005 <a href=""http://www.cerlalc.org/Revista_Pirateria/pdf/n_art10.pdf"" target=""_blank"">http://www.cerlalc.org/Revista_Pirateria/pdf/n_art10.pdf</a> [30.7.2015]";Variants: intercambio de archivos entre pares | Domains: EDUCATION AND COMMUNICATIONS | Context: Intercambio de archivos mediante programas informáticos que permiten a los usuarios poner a disposición del resto archivos almacenados en su ordenador, haciendo las veces de servidor, y acceder a su vez como clientes a los archivos de otros usuarios conectados en ese momento. | Ref: PE-ES, basado en: Malmierca, M.: «Piratería editorial en Internet», Revista CERLALC , 2005 http://www.cerlalc.org/Revista_Pirateria/pdf/n_art10.pdf [30.7.2015]
+asíncrono;;UIT-T, Rec.G. 701,1993,6018;Variants: asíncrono | Domains: EDUCATION AND COMMUNICATIONS | Context: característica esencial de una escala de tiempo o de una señal en virtud de la cual sus instantes significativos correspondientes no se presentan necesariamente con la misma cadencia media | Ref: UIT-T, Rec.G. 701,1993,6018
+ciclo de instrucción;"Un ciclo de instrucción es una secuencia de pasos que se ejecutan en un orden específico para completar una tarea o proceso. En el contexto de la programación, un ciclo de instrucción es una estructura de control que repite una serie de instrucciones hasta que se cumplen ciertas condiciones.
+
+En general, un ciclo de instrucción comienza con una instrucción de inicio que especifica las instrucciones a repetir y las condiciones bajo las cuales se debe repetir. Después de cada iteración del ciclo, se evalúa si se han cumplido las condiciones para continuar. Si no se ha cumplido ninguna condición, el ciclo termina. De lo contrario, se vuelve a ejecutar la instrucción de inicio y se repiten las instrucciones dentro del ciclo.
+
+Los ciclos de instrucción son importantes en la programación porque permiten automatizar tareas repetitivas y simplificar el código. Por ejemplo, si";J.A. Alonso y J.M. Otero, Ingenieros;Variants: ciclo de instrucción | Domains: EDUCATION AND COMMUNICATIONS | Context: etapas elementales necesarias para ejecutar una instrucción | Ref: J.A. Alonso y J.M. Otero, Ingenieros
+servicio de blog;Un servicio de blog es una plataforma que permite crear y publicar;"PE-ES, basado en : <p> -Wikipedia, La enciclopedia libre <a href=""http://es.wikipedia.org/wiki/WordPress"" target=""_blank"">http://es.wikipedia.org/wiki/WordPress</a> [24.3.2015] </p><p>-Wikipedia, La enciclopedia libre <a href=""http://es.wikipedia.org/wiki/Blogger"" target=""_blank"">http://es.wikipedia.org/wiki/Blogger</a> [24.3.2015]</p>";Variants: servicio de blog | Domains: EDUCATION AND COMMUNICATIONS | Context: Plataforma que permite crear y publicar blogs. | Ref: PE-ES, basado en : -Wikipedia, La enciclopedia libre http://es.wikipedia.org/wiki/WordPress [24.3.2015] -Wikipedia, La enciclopedia libre http://es.wikipedia.org/wiki/Blogger [24.3.2015]
+indicación de error;;CCITT, Libro rojo, X. 224;Variants: indicación de error | Domains: EDUCATION AND COMMUNICATIONS | Context: una indicación REINICIACION-R, o una indicación DESCONEXION-R con un código de motivo indicativo de un error, enviada por el proveedor SR y recibida por una entidad de transporte | Ref: CCITT, Libro rojo, X. 224
+elemento software;"Un elemento software es una unidad básica de programación que se utiliza para construir aplicaciones informáticas. Es una pieza de código que realiza una función específica dentro del programa, como por ejemplo, leer datos de un archivo, calcular una suma o mostrar un mensaje en pantalla. Los elementos software son los bloques básicos de las aplicaciones informáticas y se combinan para crear programas más complejos.
+
+Ejemplos:
+
+- Un elemento software puede ser una función que calcula el área de un triángulo.
+- Un elemento software puede ser una clase que representa un objeto de negocio, como un cliente o un producto.
+- Un elemento software puede ser una biblioteca de funciones que proporciona servicios comunes, como manejo de archivos o conexión a bases de datos.
+
+Conclusiones:
+
+Los elementos software son los bloques básicos de las aplicaciones informáticas y se utilizan para construir programas más comple";Mundo científico, mayo 1985;Variants: elemento software | Domains: EDUCATION AND COMMUNICATIONS | Context: parte fundamental de un sistema o de un programa | Ref: Mundo científico, mayo 1985
+representación distribuida;"La representación distribuida es un modelo en el cual el conocimiento de cualquier patrón individual no se almacena en las conexiones de una unidad especial reservada para ese patrón, sino que está distribuido en conexiones entre un gran número de unidades de proceso; 2) modelo en el cual cada entidad está representada por un patrón de actividad distribuido en muchos elementos computacionales y cada elemento computacional está implicado en representar muchas entidades diferentes.";TIBI-CENTAURUS;"Variants: representación distribuida | Domains: EDUCATION AND COMMUNICATIONS | Context: modelo en el cual el conocimiento de cualquier patrón individual no se almacena en las conexiones de una unidad especial reservada para ese patrón, sino que está distribuido en conexiones entre un gran número de unidades de proceso; 2) modelo en el cual cada entidad está representada por un patrón de actividad distribuido en muchos elementos computacionales y cada elemento computacional está implicado en representar muchas entidades diferentes | Ref: TIBI-CENTAURUS"
+notación Iverson;"La notación Iverson es un sistema de escritura matemática que utiliza solo dos símbolos: 0 y 1. Se utiliza principalmente en teoría de conjuntos y programación lógica. Fue creada por Kenneth E. Iverson en 1962 y se ha utilizado en varios lenguajes de programación, como APL y J.
+
+En la notación Iverson, las expresiones se escriben como funciones de variables. Por ejemplo, la función f(x) se escribe como xf. La variable x se llama argumento de la función y f se llama operador.
+
+Las funciones pueden ser compuestas para formar nuevas funciones. Por ejemplo, la función g(x) = x + 1 se puede escribir como (xf) + 1.
+
+La notación Iverson también permite la definición de funciones recursivas. Por ejemplo, la función factorial se puede definir como:
+
+factorial(n) = n * factorial(n - 1)";Termcat;Variants: notación Iverson | Domains: EDUCATION AND COMMUNICATIONS | Context: conjunto especial de símbolos destinados a describir la estructura formal de los lenguajes de ordenador | Ref: Termcat
+balanceo;"Balanceo es un proceso que se realiza en los sistemas de comunicaciones digitales para evitar que las señales de datos se pierdan o se corrompan debido a interferencias externas. El balanceo consiste en enviar la misma señal de datos por dos o más canales diferentes, de manera que si uno de ellos sufre interferencia, la otra señal puede ser utilizada para reconstruir la información perdida.
+
+Ejemplo:
+
+En un sistema de telefonía digital, el balanceo se utiliza para garantizar la calidad de la conexión entre los usuarios. Si una línea de telefónica sufre interferencias externas, como por ejemplo, la presencia de un aparato electrónico cerca del cable, el balanceo permite que la conversación se mantenga sin problemas.
+
+Conclusiones:
+
+El balanceo es una técnica importante en las comunicaciones digitales para garantizar la integridad de las señales de datos. Permite evitar que las interferencias externas afecten";Profs.A.Ribagorda Garnacho/J. Fernández González;Variants: balanceo | Domains: EDUCATION AND COMMUNICATIONS | Context: proceso de sumar módulo 2 un contador a una clave | Ref: Profs.A.Ribagorda Garnacho/J. Fernández González
+partición a frecuencia elevada;;A. Soto López, Ing. de Sistemas, Alcatel Standard Eléctrica, SA, Madrid, 1994;Variants: partición a frecuencia elevada | Domains: EDUCATION AND COMMUNICATIONS | Context: configuración de sistema de banda ancha caracterizada por amplificadores bidireccionales en los que las señales de frecuencias de 5 MHz a 174 MHz se retransmiten en el sentido de retorno y las señales de frecuencias de 234 MHz para arriba se retransmiten en sentido de ida | Ref: A. Soto López, Ing. de Sistemas, Alcatel Standard Eléctrica, SA, Madrid, 1994
+modelo;"Un modelo es una representación abstracta o simplificada de un objeto, proceso o sistema real. Los modelos pueden ser utilizados para ayudar a comprender, predecir o controlar el comportamiento de los sistemas reales. En general, los modelos son abstracciones de los sistemas reales que se utilizan para estudiar sus propiedades y comportamientos.
+
+Ejemplos:
+* Un modelo matemático de un sistema físico, como una ecuación diferencial, puede ser utilizado para predecir el comportamiento del sistema en condiciones específicas.
+* Un modelo de negocio puede ser utilizado para planear y analizar la estrategia empresarial.
+* Un modelo de computadora puede ser utilizado para simular el comportamiento de un sistema informático.
+
+Conclusiones:
+Los modelos son importantes en muchas áreas de la ciencia y la tecnología, ya que permiten comprender y predecir el comportamiento de sistemas complejos. Sin embargo, es importante recordar que los modelos";Propuesta de norma UNE 71-012,1987;Variants: modelo | Domains: EDUCATION AND COMMUNICATIONS | Context: en un lenguaje de programación, descripción de una serie de caracteres en la que cada posición se le ha asociado un símbolo que representa las propiedades del carácter que puede ocupar esa posición | Ref: Propuesta de norma UNE 71-012,1987
+conectividad digital;"Conectividad digital es la capacidad de acceder a tecnologías digitales y usarlas para conectarse a Internet y compartir datos. Es un concepto clave en la inclusión digital, ya que permite a las personas participar en la sociedad digital y beneficiarse de los avances tecnológicos.
+
+La conectividad digital se basa en la disponibilidad de infraestructura de telecomunicaciones, como redes de fibra óptica o 4G/5G, y en la capacidad de las personas de acceder a estas tecnologías. Esto incluye la disponibilidad de dispositivos electrónicos, como computadoras, teléfonos inteligentes o tablets, así como la conexión a Internet a través de servicios de telecomunicaciones.
+
+La conectividad digital también se refiere al uso de las tecnologías digitales para conectarse a Internet y compartir datos. Esto puede incluir la creación de contenido digital, como fotografías, vídeos o textos, y su publicación en plata";"Consejo-ES a partir de diversas fuentes. Véase, por ejemplo:<div>Duarte, F. y Pires, H. F.: <a href=""http://www.ub.edu/geocrit/aracne/aracne-150.htm"" target=""_blank"">«Inclusión digital, tres conceptos clave: conectividad, accesibilidad, comunicabilidad»<time datetime=""12.10.2021""> (12.10.2021)</time></a>, <i>Ar@cne<br>REVISTA ELECTRÓNICA DE RECURSOS EN INTERNET<br>SOBRE GEOGRAFÍA Y CIENCIAS SOCIALES, </i>n.º 150, 1.8.2011, Universidad de Barcelona.</div>";Variants: conectividad digital | Domains: EDUCATION AND COMMUNICATIONS | Context: Capacidad de acceso a tecnologías digitales y de uso de las mismas para conectarse a internet y compartir datos. | Ref: Consejo-ES a partir de diversas fuentes. Véase, por ejemplo: Duarte, F. y Pires, H. F.: «Inclusión digital, tres conceptos clave: conectividad, accesibilidad, comunicabilidad» (12.10.2021) , Ar@cne REVISTA ELECTRÓNICA DE RECURSOS EN INTERNET SOBRE GEOGRAFÍA Y CIENCIAS SOCIALES, n.º 150, 1.8.2011, Universidad de Barcelona.
+separador de grupo;"Separador de grupo es un carácter de control ASCII número 29 que se utiliza para separar grupos de caracteres.
+
+Explicación:
+
+El separador de grupo es un carácter de control ASCII utilizado para separar grupos de caracteres. Este carácter tiene el código hexadecimal 0x1D y el valor decimal 29. Su función principal es dividir cadenas de texto en diferentes partes o subcadenas. Por ejemplo, si tenemos una cadena de texto con varios campos separados por espacios, podemos utilizar el separador de grupo para reemplazar los espacios con este carácter y obtener una cadena más compacta y legible.
+
+Ejemplo:
+
+Supongamos que tenemos una cadena de texto con tres campos separados por espacios: ""John Smith 3456789"". Si queremos reemplazar los espacios con el separador de grupo, podemos utilizar la siguiente expresión regular:
+
+```
+/";Consejo-ES;Variants: separador de grupo | Domains: EDUCATION AND COMMUNICATIONS | Context: Carácter de control ASCII número 29 que se usa para separar grupos de caracteres. | Ref: Consejo-ES
+descriptor de datos;"Un descriptor de datos es una estructura de datos que se utiliza para almacenar información sobre los datos en un sistema de información. Un descriptor de datos puede contener información como el tipo de dato, el formato, la longitud, la ubicación en memoria y otros atributos relacionados con los datos. Los descriptores de datos son importantes porque ayudan a organizar y clasificar los datos en un sistema de información, lo que facilita su acceso y uso por parte de los usuarios.
+
+Ejemplo:
+En un sistema de gestión de bases de datos, un descriptor de datos podría ser utilizado para almacenar información sobre una columna de una tabla. Por ejemplo, si tenemos una tabla llamada ""clientes"" con una columna llamada ""nombre"", el descriptor de datos de la columna ""nombre"" podría contener información como el tipo de dato (por ejemplo, cadena de texto), la longitud máxima permitida (por ejemplo, 50 caracteres) y";Termcat;Variants: descriptor de datos | Domains: EDUCATION AND COMMUNICATIONS | Context: puntero que indica la posición en memoria de un elemento de datos | Ref: Termcat
+soporte físico;"Un soporte físico es una parte tangible o física de un sistema informático que se utiliza para almacenar, procesar o transmitir datos. Puede ser un dispositivo como un ordenador, un teléfono móvil, un disco duro, un puerto USB o un cable de red. El soporte físico es diferente del software, que son instrucciones y programas que se ejecutan en el equipo.
+
+El soporte físico puede incluir componentes eléctricos, electrónicos, electromecánicos y mecánicos. Por ejemplo, un ordenador tiene un teclado, ratón, pantalla, CPU, RAM, disco duro, tarjeta gráfica, conector de alimentación y otros componentes. Cada uno de estos componentes es un soporte físico que juega un papel importante en el funcionamiento del ordenador.
+
+Los soportes físicos también pueden ser dispositivos externos que se conectan al ordenador a través de puertos USB, HDMI, VGA,";"<i>Wikipedia</i>, <a href=""https://es.wikipedia.org/wiki/Hardware"" target=""_blank""><i>hardware</i> <time datetime=""13.3.2023""> (13.3.2023)</time></a>.";Variants: soporte físico | Domains: EDUCATION AND COMMUNICATIONS | Context: Partes físicas, tangibles, de un sistema informático, sus componentes eléctricos, electrónicos, electromecánicos y mecánicos. | Ref: Wikipedia , hardware (13.3.2023) .
+tiempo de adición;"Tiempo de adición es el tiempo que tarda un ordenador digital en realizar una suma, sin incluir el tiempo necesario para obtener las cantidades desde la memoria, ni el de devolver el resultado a la memoria.
+
+Ejemplos:
+
+El tiempo de adición es un factor importante en la velocidad de procesamiento de un ordenador digital.
+
+La velocidad de procesamiento de un ordenador digital se mide en ciclos por segundo (CPS), que es la cantidad de operaciones que puede realizar el ordenador en un segundo. El tiempo de adición es uno de los factores que afectan a la velocidad de procesamiento, ya que determina cuanto tiempo tarda el ordenador en realizar una suma.
+
+El tiempo de adición también se conoce como tiempo de ejecución o tiempo de procesamiento. Es importante tener en cuenta este tiempo cuando se diseña un programa de computadora, ya que puede afectar al rendimiento del programa.
+
+En resumen, el tiempo de adición es el tiempo que tarda un ordenador digital en realizar una suma,";Termcat;Variants: tiempo de adición | Domains: EDUCATION AND COMMUNICATIONS | Context: tiempo requerido en un ordenador digital para realizar una suma, sin incluir el tiempo necesario para obtener las cantidades desde la memoria, ni el de devolver el resultado a la memoria | Ref: Termcat
+elemento de equipo lógico;"Un elemento de equipo lógico es una parte fundamental de un sistema o de un programa. Es un componente básico que se utiliza para construir otros componentes más complejos. Puede ser un dispositivo físico, como un circuito integrado o un transistor, o un software, como un algoritmo o una función. Los elementos de equipo lógicos son los bloques básicos de un sistema y son necesarios para su funcionamiento correcto.
+
+Ejemplos:
+- Un microprocesador es un elemento de equipo lógico que forma parte de un ordenador personal.
+- Una memoria RAM es un elemento de equipo lógico que almacena datos en un ordenador.
+- Un sensor de temperatura es un elemento de equipo lógico que mide la temperatura en un sistema de control automático.
+- Un algoritmo de ordenamiento es un elemento de equipo lógico que se utiliza para ordenar una lista de datos.
+
+Notas adicionales:
+Los elementos de equipo lógicos pueden ser combinados para";Mundo científico, mayo 1985;Variants: elemento de equipo lógico | Domains: EDUCATION AND COMMUNICATIONS | Context: parte fundamental de un sistema o de un programa | Ref: Mundo científico, mayo 1985
+proveedor de contenidos de internet;"Un proveedor de contenidos de internet es una persona, empresa o profesional que publica con regularidad información de cualquier tipo en internet, ya sea utilizando recursos propios o sirviéndose de los suministrados por un proveedor de acceso.
+
+Ejemplos:
+El portal de noticias El País es un proveedor de contenidos de internet.
+La página web de la Universidad de Alcalá es un proveedor de contenidos de internet.";"Consejo-ES a partir de diversas fuentes. Véase, por ejemplo:<p>- Consumoteca&gt;Telecomunicaciones&gt;Internet <a href=""https://www.consumoteca.com/telecomunicaciones/internet/proveedor-de-contenido/"" target=""_blank"">https://www.consumoteca.com/telecomunicaciones/internet/proveedor-de-contenido/</a> [13.11.2017]</p><p>- Cordero, J.A.: La mediación de la información en Internet: evolución, tendencias y riesgos, Revista DÍGITOS n.º 1/2015 <a href=""https://revistadigitos.com/index.php/digitos/article/view/1"" target=""_blank"">https://revistadigitos.com/index.php/digitos/article/view/1</a> [13.11.2017]</p>";Variants: proveedor de contenidos de internet | Domains: EDUCATION AND COMMUNICATIONS | Context: Toda persona, empresa o profesional que publica con regularidad información de cualquier tipo en internet, ya sea utilizando recursos propios o sirviéndose de los suministrados por un proveedor de acceso. | Ref: Consejo-ES a partir de diversas fuentes. Véase, por ejemplo: - Consumoteca>Telecomunicaciones>Internet https://www.consumoteca.com/telecomunicaciones/internet/proveedor-de-contenido/ [13.11.2017] - Cordero, J.A.: La mediación de la información en Internet: evolución, tendencias y riesgos, Revista DÍGITOS n.º 1/2015 https://revistadigitos.com/index.php/digitos/article/view/1 [13.11.2017]
+ecuaciones independientes;"Ecuaciones independientes son aquellas que no pueden ser expresadas como una combinación lineal de otras ecuaciones. Esto significa que cada ecuación tiene su propio valor y no se puede obtener uno de ellos a partir de los demás.
+
+Ejemplo:
+
+Supongamos que tenemos tres ecuaciones:
+
+x + y = 5
+2x - y = 3
+3x + 4y = 10
+
+En este caso, las ecuaciones x + y = 5 y 2x - y = 3 son independientes, ya que no se puede obtener una de ellas a partir de la otra. Sin embargo, la ecuación 3x + 4y = 10 es dependiente de las otras dos, ya que se puede obtener a partir de la combinación lineal de x + y = 5 y 2x - y = 3.
+
+Por lo tanto, en este ejemplo, solo las ecuaciones x + y = 5 y 2x - y = 3 son independientes.";J.A. Alonso y J.M. Otero, Ingenieros;Variants: ecuaciones independientes | Domains: EDUCATION AND COMMUNICATIONS | Context: conjunto de ecuaciones ninguna de las cuales puede ser expresada como una combinación lineal de las otras | Ref: J.A. Alonso y J.M. Otero, Ingenieros
+registrador;"Un registrador es una persona o entidad que proporciona a los interesados servicios de registro de nombres de dominio «.eu».
+
+Ejemplos:
+
+El registrador debe ser una persona jurídica con sede en la Unión Europea o en un país que haya firmado un acuerdo internacional con la Unión Europea.
+
+El registrador debe garantizar la seguridad de los datos personales de los usuarios y cumplir con las normas de privacidad establecidas por la Unión Europea.
+
+El registrador debe proporcionar a los usuarios un sistema de gestión de dominios fiable y eficaz.
+
+El registrador debe estar preparado para responder a cualquier pregunta o reclamo relacionado con el registro de nombres de dominio «.eu».
+
+El registrador debe mantenerse actualizado sobre las nuevas tecnologías y tendencias en el mundo de Internet.
+
+El registrador debe ser capaz de ofrecer servicios de registro de nombres de domin";"COM-ES, basado en: <br>Reglamento (CE) n.° 733/2002 del Parlamento Europeo y del Consejo, de 22 de abril de 2002, relativo a la aplicación del dominio de primer nivel «.eu», <a href=""http://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32002R0733"" target=""_blank"">CELEX:32002R0733/ES</a>";Variants: registrador | Domains: EDUCATION AND COMMUNICATIONS | Context: Persona o entidad que proporciona a los interesados servicios de registro de nombres de dominio «.eu». | Ref: COM-ES, basado en: Reglamento (CE) n.° 733/2002 del Parlamento Europeo y del Consejo, de 22 de abril de 2002, relativo a la aplicación del dominio de primer nivel «.eu», CELEX:32002R0733/ES
+método de dispersión;"El método de dispersión es un algoritmo que permite encontrar, con el mínimo esfuerzo, una clave dada dentro de un conjunto de elementos, aplicando cálculos o transformaciones aritméticas sobre la clave buscada para producir directamente una dirección en una tabla o archivo de acceso directo.
+
+Ejemplo:
+En un sistema de gestión de bases de datos, se puede utilizar el método de dispersión para buscar rápidamente una clave específica entre miles o millones de registros. Por ejemplo, si se tiene una base de datos de clientes y se quiere buscar un cliente con un número de teléfono particular, se puede utilizar el método de dispersión para calcular una dirección en la tabla de clientes y luego buscar el registro correspondiente. Esto evita la necesidad de recorrer toda la base de datos para encontrar el registro deseado.
+
+Notas:
+El método de dispersión es una técnica común en la programación y";"Blog de Martín Cruz, «Blogueando sobre programación», <a href=""http://blog.martincruz.me/2013/03/metodo-de-dispersion-hashing-en-c.html"" target=""_blank"">http://blog.martincruz.me/2013/03/metodo-de-dispersion-hashing-en-c.html</a> [17.11.2017]";Variants: método de dispersión | Domains: EDUCATION AND COMMUNICATIONS | Context: Método que permite encontrar, con el mínimo esfuerzo, una clave dada dentro de un conjunto de elementos, aplicando cálculos o transformaciones aritméticas sobre la clave buscada para producir directamente una dirección en una tabla o archivo de acceso directo. | Ref: Blog de Martín Cruz, «Blogueando sobre programación», http://blog.martincruz.me/2013/03/metodo-de-dispersion-hashing-en-c.html [17.11.2017]
+palabra de datos;"Una palabra de datos es una unidad de datos almacenada en una palabra simple. Es decir, es una palabra que contiene información relevante sobre los datos que se están procesando. Por ejemplo, si se está analizando una base de datos de clientes, una palabra de datos podría ser el nombre del cliente, su dirección o su teléfono. Las palabras de datos son importantes porque proporcionan información relevante sobre los datos que se están procesando, lo que puede ayudar a mejorar la calidad y la eficacia de la información obtenida.
+
+Ejemplo:
+Supongamos que tenemos una base de datos de clientes que incluye información como el nombre, la dirección y el teléfono de cada cliente. En este caso, las palabras de datos podrían ser el nombre, la dirección y el teléfono de cada cliente. Estas palabras de datos pueden ser utilizadas por un sistema de análisis de datos para extraer";J.A. Alonso y J.M. Otero, Ingenieros;Variants: palabra de datos | Domains: EDUCATION AND COMMUNICATIONS | Context: unidad de datos almacenada en una palabra simple | Ref: J.A. Alonso y J.M. Otero, Ingenieros
+función (N);"La función es un concepto matemático que se utiliza para representar relaciones entre valores numéricos o variables. Es una operación que toma uno o más valores como entrada y devuelve un valor como salida. La función puede ser lineal, no lineal, polinómica, exponencial, logarítmica, trigonométrica, etc.
+
+En matemática, una función es una asociación entre dos conjuntos, llamados dominio y codominio, tal que cada elemento del dominio está asociado con exactamente un elemento del codominio. En otras palabras, una función es una regla que asigna a cada elemento del dominio un único elemento del codominio.
+
+La función se representa mediante una expresión matemática que contiene una variable independiente y una variable dependiente. La variable independiente es el elemento del dominio, mientras que la variable dependiente es el elemento del codominio. Por ejemplo, la función f(x) = x^2 es una función que as";CCITT, Libro rojo, X. 200;Variants: función (N) | Domains: EDUCATION AND COMMUNICATIONS | Context: parte de la actividad de las entidades (N) | Ref: CCITT, Libro rojo, X. 200
+actividad;"La actividad es una acción que se realiza con el fin de lograr un objetivo específico. Puede ser física o mental, individual o colectiva, y puede implicar la participación de personas, animales o máquinas. La actividad puede ser voluntaria o obligatoria, y puede estar relacionada con diversas áreas de la vida, como la educación, la salud, la economía, la ciencia, la tecnología, etc.
+
+Ejemplos:
+
+- El profesor realizó una actividad didáctica para enseñar a los alumnos sobre la historia de España.
+- Los trabajadores realizaron una actividad de mantenimiento preventivo en la planta industrial.
+- La investigadora realizó una actividad científica para estudiar las propiedades de un material nuevo.
+- La empresa realizó una actividad comercial para promocionar sus productos en un mercado internacional.
+- El médico realizó una actividad diagnóstica para determinar la causa de los síntomas del paciente."; J.A. Alonso y J.M. Otero, Ingenieros.;Variants: actividad | Domains: EDUCATION AND COMMUNICATIONS | Context: empleo o modificación de la información contenida en un archivo | Ref: J.A. Alonso y J.M. Otero, Ingenieros.
+registro de estado;"Un registro de estado es una estructura de datos que se utiliza en un ordenador para almacenar la información sobre el estado actual de una unidad funcional, como un microprocesador, un controlador de disco flexible o un controlador de acceso directo a memoria. El registro de estado puede contener información sobre el estado actual del dispositivo, como si está activo o inactivo, así como información sobre los parámetros de configuración actuales del dispositivo.
+
+El registro de estado se utiliza para mantener la información actualizada sobre el estado del dispositivo y para permitir que otros componentes del sistema accedan a esta información. Por ejemplo, un programa que necesita acceder a un dispositivo puede consultar el registro de estado para obtener información sobre su estado actual y configuración.
+
+En resumen, un registro de estado es una estructura de datos que se utiliza en un ordenador para almacenar la información sobre el estado actual de una unidad funcional. Este registro se utiliza para mantener la información";Termcat;Variants: registro de estado | Domains: EDUCATION AND COMMUNICATIONS | Context: registro utilizado en un ordenador para guardar la información sobre el estado de una unidad funcional como, por ejemplo, un microprocesador, un controlador de disco flexible o un controlador de acceso directo a memoria | Ref: Termcat
+registro de datos;"Un registro de datos es una colección organizada de información sobre personas, lugares o cosas. Puede ser físico o digital. Los registros de datos se utilizan para mantener un historial de transacciones, eventos o acciones realizadas por una persona, lugar o cosa. Los registros de datos pueden incluir información como nombres, direcciones, números de teléfono, fechas de nacimiento, números de identificación, etc.
+
+Ejemplos:
+1. El registro de datos de los clientes de una tienda incluye su nombre, dirección, número de teléfono y correo electrónico.
+2. La policía utiliza registros de datos para rastrear a los sospechosos de delitos.
+3. Los registros de datos médicos contienen información sobre la salud de las personas.
+4. Los registros de datos financieros contienen información sobre las transacciones económicas de las personas.
+5. Los registros de dat";Consejo-ES, a partir de Council-EN.;Variants: registro de datos | Domains: EDUCATION AND COMMUNICATIONS | Context: Huella electrónica que deja una persona, empresa, etc. al realizar actividades u operaciones en línea. | Ref: Consejo-ES, a partir de Council-EN.
+supercomputación;"Supercomputación es el procesamiento de grandes cantidades de datos a gran velocidad por parte de computadoras de gran capacidad. Estas máquinas son capaces de realizar cálculos numéricos a gran escala, tanto en volumen de datos como en velocidad de procesado. Las supercomputadoras se utilizan principalmente en campos como la física, la ingeniería, la química, la biología, la meteorología y la astronomía.
+
+Las supercomputadoras se diferencian de las computadoras ordinarias en su capacidad de procesar grandes cantidades de datos a gran velocidad. Esto les permite realizar cálculos numéricos a gran escala, tanto en volumen de datos como en velocidad de procesado. Las supercomputadoras también pueden ser utilizadas para simular fenómenos complejos, como la dinámica de fluidos o la propagación de ondas electromagnéticas.
+
+La supercomputación ha sido utilizada en numerosos proyectos científicos y tecnológicos. Por ejemplo,";"COM-ES, basado en «10 respuestas a la supercomputación», El Cultural, <a href=""https://www.elcultural.com/revista/ciencia/10-respuestas-a-la-supercomputacion/9153"" target=""_blank"">https://www.elcultural.com/revista/ciencia/10-respuestas-a-la-supercomputacion/9153</a> [6.7.2018]";Variants: supercomputación | Domains: EDUCATION AND COMMUNICATIONS | Context: Realización de cálculos numéricos a gran escala, tanto en volumen de datos como en velocidad de procesado, mediante ordenadores de gran potencia denominados «superordenadores». | Ref: COM-ES, basado en «10 respuestas a la supercomputación», El Cultural, https://www.elcultural.com/revista/ciencia/10-respuestas-a-la-supercomputacion/9153 [6.7.2018]
+réplica;;COM-ES a partir de la Recomendación de la Fundéu de 13 de agosto de 2018, https://www.fundeu.es/recomendacion/duplicar-o-enviar-alternativas-a-screen-mirroring/ [16.08.2018];Variants: réplica | Domains: EDUCATION AND COMMUNICATIONS | Context: Función que permite transferir contenidos desde un dispositivo electrónico a otro, generalmente desde un dispositivo móvil a un ordenador o un televisor | Ref: COM-ES a partir de la Recomendación de la Fundéu de 13 de agosto de 2018, https://www.fundeu.es/recomendacion/duplicar-o-enviar-alternativas-a-screen-mirroring/ [16.08.2018]
+objetivo de evaluación;"Un objetivo de evaluación es una declaración clara y concreta sobre lo que se quiere lograr mediante la realización de una evaluación. Es un elemento fundamental en el proceso de evaluación, ya que sirve como guía para determinar qué aspectos de un sistema o producto de T.I. se van a evaluar y cuál es el propósito de la evaluación.
+
+Por ejemplo, si se está evaluando la seguridad de un sistema operativo, un objetivo de evaluación podría ser ""determinar la vulnerabilidad del sistema a ataques cibernéticos"". Esto proporciona una dirección clara para los evaluadores y les permite centrarse en las áreas más relevantes del sistema.
+
+En general, un objetivo de evaluación debe ser específico, medible y alcanzable. Debe ser específico para que sea fácilmente comprensible y no deje lugar a interpretaciones diferentes. Debe ser medible para que se puedan obtener resultados cuantitativos y comparables. Y debe ser al";Profs A. Ribagorda Garnacho/J. Fernández González;Variants: objetivo de evaluación | Domains: EDUCATION AND COMMUNICATIONS | Context: sistema o producto de T.I. que se somete a una evaluación de seguridad | Ref: Profs A. Ribagorda Garnacho/J. Fernández González
+tasa de falso rechazo;"Tasa de falso rechazo (FRR)
+
+En el contexto de la biometría, la tasa de falso rechazo (FRR) es la probabilidad de que un sistema de reconocimiento de huellas dactilares o de iris rechace a un usuario legítimo.
+
+La FRR es uno de los dos tipos de errores posibles en un sistema de reconocimiento biométrico. El otro es el error de falso acepto (FAR), que es la probabilidad de que un sistema de reconocimiento de huellas dactilares o de iris acepte a un intruso como un usuario legítimo.
+
+La FRR y la FAR son medidas de la exactitud de un sistema de reconocimiento biométrico. La FRR se mide en porcentaje, mientras que la FAR se mide en decimales.
+
+Por ejemplo, si un sistema de reconocimiento de huellas dactilares tiene una FRR del 5% y una FAR del 1";"Enciclopedia Libre Universal en Español <a href=""http://enciclopedia.us.es/index.php/Error_tipo_I_y_tipo_II"" target=""_blank"">http://enciclopedia.us.es/index.php/Error_tipo_I_y_tipo_II</a> <br>A. K. Jain et al., Biometrics: A grand Challenge, Proceedings of International Conference on Pattern Recognition, Cambridge, UK., agosto de 2004, apartado 2.1 (en inglés) <a href=""http://biometrics.cse.msu.edu/biometricsgrandchallenge.pdf"" target=""_blank"">http://biometrics.cse.msu.edu/biometricsgrandchallenge.pdf</a>";Variants: tasa de falso rechazo | Domains: EDUCATION AND COMMUNICATIONS | Context: En un estudio de investigación, el error tipo I es el error que se comete cuando el investigador rechaza la hipótesis nula (en el caso de la biometría, la correspondencia de la persona considerada con su perfil registrado) siendo ésta verdadera. | Ref: Enciclopedia Libre Universal en Español http://enciclopedia.us.es/index.php/Error_tipo_I_y_tipo_II A. K. Jain et al., Biometrics: A grand Challenge, Proceedings of International Conference on Pattern Recognition, Cambridge, UK., agosto de 2004, apartado 2.1 (en inglés) http://biometrics.cse.msu.edu/biometricsgrandchallenge.pdf
+disponibilidad del equipo lógico;"La disponibilidad del equipo lógico se refiere a la probabilidad de que el programa funcione con éxito, según las especificaciones, en un punto dado en el tiempo. Esta medida es importante para evaluar la calidad del software y determinar si cumple con los requisitos del usuario.
+
+Ejemplos:
+1. La disponibilidad del equipo lógico de nuestro sistema operativo es del 98%, lo que significa que el sistema funciona correctamente en más del 98% de los casos.
+2. La disponibilidad del equipo lógico de nuestra aplicación web es del 95%, lo que significa que la aplicación está disponible y funcionando correctamente en más del 95% de los casos.
+3. La disponibilidad del equipo lógico de nuestro servidor de correo electrónico es del 99%, lo que significa que el servidor está disponible y funcionando correctamente en más del 99% de los casos.
+
+Notas adicionales:
+La disponibilidad del";TIBI-CENTAURUS;Variants: disponibilidad del equipo lógico | Domains: EDUCATION AND COMMUNICATIONS | Context: probabilidad de que el programa funcione con éxito, según las especificaciones, en un punto dado en el tiempo | Ref: TIBI-CENTAURUS
+refinamiento paso a paso;"El refinamiento paso a paso es un método de desarrollo de sistemas que se basa en la definición de los datos y las etapas del proceso en dos fases: una primera fase en la que se definen los datos y las etapas del proceso de manera amplia y una segunda fase en la que se define cada etapa del proceso con niveles crecientes de detalle.
+
+Ejemplo:
+
+En el desarrollo de un sistema de gestión de inventarios, el refinamiento paso a paso podría implicar la definición inicial de los datos como productos, proveedores y clientes, y las etapas del proceso como recepción de pedidos, almacenamiento de productos y envío de pedidos. En la segunda fase, se definirían cada etapa del proceso con más detalle, por ejemplo, la recepción de pedidos podría incluir la verificación de la existencia de los productos, la validación de los datos del pedido y la generación de una orden de compra.";TIBI-CENTAURUS;Variants: refinamiento paso a paso | Domains: EDUCATION AND COMMUNICATIONS | Context: metodología de desarrollo de un sistema según la cual la definición de los datos y las etapas del proceso están determinadas primero de modo amplio y luego con niveles crecientes de detalle | Ref: TIBI-CENTAURUS
+infraestructura de clave pública;La infraestructura de clave pública es un conjunto de personas, políticas, procedimientos y sistemas informáticos necesarios para la prestación de servicios de autenticación, encriptado, integridad y no repudio por medio de criptografía de claves públicas y privadas y certificados electrónicos.;"<a href=""https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32013D0001(01)"" target=""_blank"">2013/132/UE: Decisión del Banco Central Europeo, de 11 de enero de 2013 , por la que se establece el marco de una infraestructura de clave pública para el Sistema Europeo de Bancos Centrales (BCE/2013/1) (DO L 74 de 16.3.2013, p. 30)<br></a>";Variants: infraestructura de clave pública | Domains: EDUCATION AND COMMUNICATIONS | Context: Conjunto de personas, políticas, procedimientos y sistemas informáticos necesarios para la prestación de servicios de autenticación, encriptado, integridad y no repudio por medio de criptografía de claves públicas y privadas y certificados electrónicos. | Ref: 2013/132/UE: Decisión del Banco Central Europeo, de 11 de enero de 2013 , por la que se establece el marco de una infraestructura de clave pública para el Sistema Europeo de Bancos Centrales (BCE/2013/1) (DO L 74 de 16.3.2013, p. 30)
+aumento de la memoria;"La memoria de ordenador es un componente electrónico que almacena datos y programas para su posterior ejecución por el procesador. La memoria de ordenador se divide en dos tipos: la RAM (memoria principal) y la ROM (memoria secundaria). La RAM es la memoria principal del ordenador y se utiliza para almacenar los datos y programas que están siendo utilizados actualmente por el procesador. La ROM es la memoria secundaria del ordenador y se utiliza para almacenar los datos y programas que no necesitan ser modificados frecuentemente.
+
+El aumento de la memoria es una técnica que se utiliza para aumentar la capacidad de almacenamiento de la memoria de ordenador. Se puede hacer mediante la adición de nuevas placas de memoria o mediante la reemplazación de las placas de memoria existentes por placas de mayor capacidad. El aumento de la memoria es especialmente importante en los ordenadores portátiles, donde la memoria es limitada debido a la fal";J.A. Alonso y J.M. Otero, Ingenieros;Variants: aumento de la memoria | Domains: EDUCATION AND COMMUNICATIONS | Context: memoria de ordenador que se añade externamente y que es totalmente compatible con el sistema informático | Ref: J.A. Alonso y J.M. Otero, Ingenieros
+autómata;"Un autómata es una máquina que puede realizar ciertas acciones sin necesidad de intervención humana. Puede tomar decisiones basadas en las entradas que recibe y realizar acciones según estas decisiones. Los autómatas pueden ser utilizados en diversas áreas como la industria, la medicina o la educación.
+
+Ejemplos:
+
+- Un autómata industrial puede realizar tareas repetitivas y monótonas que podrían ser difíciles o peligrosas para los trabajadores humanos.
+- En la medicina, los autómatas pueden ayudar a realizar diagnósticos y tratamientos más rápidos y eficientes.
+- En la educación, los autómatas pueden ser utilizados para enseñar conceptos complejos a estudiantes de diferentes niveles.
+
+Conclusiones:
+
+Los autómatas son una herramienta muy útil en diversas áreas. Son capaces de realizar tareas repetitivas y comple";J.A. Alonso y J.M. Otero, Ingenieros;"Variants: autómata | Domains: EDUCATION AND COMMUNICATIONS | Context: 1) robot cuyo funcionamiento se desarrolla sin necesidad de intervenciones humanas paso a paso; 2) máquina que imita la figura y los movimientos de un ser animado | Ref: J.A. Alonso y J.M. Otero, Ingenieros"
+biblioteca de desarrollo de software;"Una biblioteca de desarrollo de software es una colección de archivos de código fuente y otros recursos relacionados que se utilizan para crear aplicaciones o programas de software. Estas bibliotecas proporcionan funciones y servicios comunes que pueden ser reutilizados en varios proyectos de software, lo que reduce el tiempo y los costos de desarrollo.
+
+Las bibliotecas de desarrollo de software pueden incluir componentes como bibliotecas de clases, bibliotecas de interfaz gráfica de usuario (GUI), bibliotecas de base de datos, bibliotecas de red, bibliotecas de seguridad y muchas otras. Algunas bibliotecas de desarrollo de software son específicas para un lenguaje de programación o plataforma, mientras que otras son independientes y pueden ser utilizadas en diferentes entornos de desarrollo.
+
+Al utilizar una biblioteca de desarrollo de software, los desarrolladores no necesitan reinventar la rueda y pueden concentrarse en las caracter";TIBI-CENTAURUS;Variants: biblioteca de desarrollo de software | Domains: EDUCATION AND COMMUNICATIONS | Context: biblioteca de equipo lógico que contiene informaciones legibles por el hombre y por ordenador sobre actividades de desarrollo del equipo lógico | Ref: TIBI-CENTAURUS
+canal de comunicación de banda ancha;"Un canal de comunicación de banda ancha es un medio físico o virtual utilizado para transmitir datos a alta velocidad entre dos puntos. Estos canales pueden ser de varios tipos, como por ejemplo fibra óptica, cable coaxial, cable de par trenzado, etc.
+
+El término ""canal de comunicación de banda ancha"" se refiere a un tipo específico de canal de comunicación que tiene una capacidad de transmisión de datos muy alta, lo que permite transferir grandes cantidades de información rápidamente. Estos canales son utilizados en diversas aplicaciones, como por ejemplo Internet, telefonía móvil, televisión digital, etc.
+
+En general, los canales de comunicación de banda ancha se caracterizan por su gran capacidad de transmisión de datos, su alta velocidad de transferencia y su bajo costo. Además, estos canales son muy fiables y seguros, lo que les hace ideales para la transmisión de información crítica.
+
+Por otro lado, los";CCITT, Rec.I. 113;Variants: canal de comunicación de banda ancha | Domains: EDUCATION AND COMMUNICATIONS | Context: parte normalizada de la capacidad de carga neta de información de que dispone el usuario para los servicios RDSI | Ref: CCITT, Rec.I. 113
+sistema de programación para el manejo de datos;"Un sistema de programación para el manejo de datos es un conjunto de herramientas y procedimientos que permiten a los usuarios crear, administrar y acceder a bases de datos. Estos sistemas se utilizan principalmente en entornos empresariales y organizativos para gestionar información crítica y mantenerla actualizada.
+
+El objetivo principal de un sistema de programación para el manejo de datos es facilitar la gestión de información en grandes volúmenes de datos. Estos sistemas proporcionan una interfaz gráfica de usuario intuitiva y fácil de utilizar, lo que permite a los usuarios crear, editar y eliminar registros de forma rápida y eficaz. Además, estos sistemas pueden integrarse con otros sistemas de información, como sistemas de gestión de relaciones con clientes o sistemas de ventas, lo que permite a las organizaciones obtener una visión completa y actualizada de sus datos.
+
+Los sistem";Termcat;Variants: sistema de programación para el manejo de datos | Domains: EDUCATION AND COMMUNICATIONS | Context: sistema de programas que ofrece a un operador de terminal la posibilidad de consultar y de poner al día los bancos de datos en un lenguaje conversacional | Ref: Termcat
+aseguramiento de la ciberseguridad;"La definición de aseguramiento de la ciberseguridad es el proceso de auditoría y revisión de las medidas de ciberseguridad adoptadas en un determinado entorno para garantizar su fiabilidad y correcto funcionamiento.
+
+Explicación:
+
+El aseguramiento de la ciberseguridad se refiere al proceso de auditoría y revisión de las medidas de ciberseguridad adoptadas en un determinado entorno para garantizar su fiabilidad y correcto funcionamiento. Este proceso implica evaluar la eficacia de las medidas implementadas para proteger los sistemas informáticos y datos de una organización o individuo contra amenazas como ataques cibernéticos, fraude, robo de identidad y pérdida de datos confidenciales.
+
+El objetivo principal del aseguramiento de la ciberseguridad es garantizar que las medidas adoptadas cumplan con los estándares de seguridad establecidos y que sean efectivas en su función de protección";"COM-ES a partir de: Xavier Rubiralta Costa, «Transformando la Ciberseguridad»,<a href=""http://www.itsmf.es/index.php?option=com_docman&amp;task=cat_view&amp;gid=338&amp;Itemid=177"" target=""_blank""> COBIT 5<time datetime=""14.11.2019""> (14.11.2019)</time></a>";Variants: aseguramiento de la ciberseguridad | Domains: EDUCATION AND COMMUNICATIONS | Context: Proceso de auditoría y revisión de las medidas de ciberseguridad [ IATE:2229866 ] adoptadas en un determinado entorno para garantizar su fiabilidad y correcto funcionamiento. | Ref: COM-ES a partir de: Xavier Rubiralta Costa, «Transformando la Ciberseguridad», COBIT 5 (14.11.2019)
+árbol de decisión potenciado;"Un árbol de decisión potenciado es una técnica de aprendizaje automático en la que los modelos (los árboles de decisión) se entrenan de manera iterativa, en orden secuencial, de modo que cada modelo aprende del anterior.
+
+Ejemplo:
+En este ejemplo, se muestra cómo se puede utilizar un árbol de decisión potenciado para predecir si una persona tendrá o no un accidente de tráfico en el futuro. Se utilizan dos conjuntos de datos: uno para entrenar el modelo y otro para evaluar su precisión. El conjunto de datos de entrenamiento contiene información sobre las características de los conductores, como su edad, sexo, experiencia de conducción y tipo de vehículo, así como si han tenido un accidente de tráfico en el pasado. El conjunto de datos de prueba contiene información similar sobre nuevos conductores, pero sin conocer si tendrán un accidente de tráfico en el futuro.
+
+El";"Consejo-ES, a partir de diversas fuentes, en particular:<div>- Jordan, J.: <a href=""https://www.jeremyjordan.me/boosted-trees/"" target=""_blank""><i>Boosted trees</i><time datetime=""2.7.2021""> (2.7.2021)</time></a> (publicado el 19.6.2017)<br></div><div>- Martínez Heras, J.: <a href=""https://www.iartificial.net/ensembles-voting-bagging-boosting-stacking/#Bagging"" target=""_blank""><i>Ensembles: voting, bagging, boosting, stacking</i><time datetime=""2.7.2021""> (2.7.2021)</time></a> (publicado el 31.5.2019).</div>";Variants: árbol de decisión potenciado | Domains: EDUCATION AND COMMUNICATIONS | Context: Técnica de aprendizaje automático en la que los modelos (los árboles de decisión) se entrenan de manera iterativa, en orden secuencial, de modo que cada modelo aprende del anterior. | Ref: Consejo-ES, a partir de diversas fuentes, en particular: - Jordan, J.: Boosted trees (2.7.2021) (publicado el 19.6.2017) - Martínez Heras, J.: Ensembles: voting, bagging, boosting, stacking (2.7.2021) (publicado el 31.5.2019).
+suceso de activación;"Un suceso de activación es un evento o estímulo de usuario, programado o externo, que hace que el ordenador pase del modo de espera o desactivado a un modo activo de funcionamiento.
+
+Ejemplos:
+El usuario presiona el botón de encendido en el teclado del ordenador, lo que provoca un suceso de activación.
+
+Otros términos relacionados:
+Encendido, modo de espera, modo de desactivado, modo activo de funcionamiento, evento o estímulo de usuario, programado o externo.
+
+Notas adicionales:
+El suceso de activación puede ser provocado por un evento o estímulo de usuario, como presionar el botón de encendido en el teclado del ordenador, o por un evento externo, como un temporizador programado para encender el ordenador cada día a las 8:00 AM.
+
+También es importante destacar que el suceso de activación no solo incluye el proceso de enc";"Reglamento (UE) n° 617/2013 de la Comisión, de 26 de junio de 2013, por el que se desarrolla la Directiva 2009/125/CE del Parlamento Europeo y del Consejo en lo relativo a los requisitos de diseño ecológico aplicables a los ordenadores y servidores informáticos, <a href=""http://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32013R0617"" target=""_blank"">CELEX:32013R0617/ES</a>";Variants: suceso de activación | Domains: EDUCATION AND COMMUNICATIONS | Context: Evento o estímulo de usuario, programado o externo que hace que el ordenador pase del modo de espera o desactivado a un modo activo de funcionamiento. | Ref: Reglamento (UE) n° 617/2013 de la Comisión, de 26 de junio de 2013, por el que se desarrolla la Directiva 2009/125/CE del Parlamento Europeo y del Consejo en lo relativo a los requisitos de diseño ecológico aplicables a los ordenadores y servidores informáticos, CELEX:32013R0617/ES
+saboteador;"Un saboteador es un intruso que accede a un sistema informático con fines delictivos.
+
+Explicación:
+El término ""saboteador"" se refiere a una persona que accede a un sistema informático con fines delictivos. Un saboteador puede utilizar diversas técnicas para obtener acceso al sistema, como la infiltración, la manipulación de contraseñas o la instalación de programas maliciosos. Una vez dentro del sistema, un saboteador puede realizar diversas actividades ilícitas, como robar datos confidenciales, modificar información o causar daños al sistema.
+
+Ejemplos:
+1. El hacker anónimo accedió al sistema de la empresa y se autoproclamó saboteador, amenazando con publicar información privada si no recibía un pago.
+2. La policía arrestó a tres personas por ser saboteadores que habían accedido a los sistemas de seguridad de varias empresas";"Rafael Fernández Calvo, Glosario básico inglés-español para usuarios de Internet , <a href=""http://www.ati.es/novatica/glosario/glosario_internet.html#cracker"" target=""_blank"">http://www.ati.es/novatica/glosario/glosario_internet.html#cracker</a>";Variants: saboteador | Domains: EDUCATION AND COMMUNICATIONS | Context: Intruso que accede a un sistema informático con fines delictivos. | Ref: Rafael Fernández Calvo, Glosario básico inglés-español para usuarios de Internet , http://www.ati.es/novatica/glosario/glosario_internet.html#cracker
+entrada limitada;"Entrada limitada es un concepto utilizado en sistemas informáticos que se refiere a la capacidad de procesar una cantidad limitada de datos o información en un período de tiempo determinado. En este contexto, la entrada limitada puede referirse a la velocidad con la que los datos son ingresados al sistema, la cantidad de datos que pueden ser procesados en un momento dado o la capacidad del sistema para manejar cierta cantidad de datos sin saturarse.
+
+La entrada limitada puede ser un problema en sistemas informáticos donde la velocidad de entrada de datos es mayor que la capacidad del sistema para procesarlos. Esto puede provocar retrasos en la ejecución del programa, pérdida de datos o errores en la salida. Por ejemplo, si un sistema está diseñado para procesar 1000 registros por segundo y se le envían 2000 registros por segundo, esto podría causar problemas de rendimiento y posiblemente daños en los dat";Termcat;Variants: entrada limitada | Domains: EDUCATION AND COMMUNICATIONS | Context: relativo a un sistema u operación cuya velocidad o eficiencia depende principalmente de la velocidad de entrada de datos a la máquina más que de la velocidad de la máquina propiamente dicha | Ref: Termcat
+programa de conversión;"Un programa de conversión es una serie de instrucciones que preparan un programa escrito para su ejecución en un sistema dado, con objeto de poderlo ejecutar en un sistema distinto.
+
+Explicación:
+Un programa de conversión es una serie de instrucciones que se utilizan para adaptar un programa escrito para que pueda ser ejecutado en un sistema diferente al original. Estas instrucciones pueden incluir cambios en la sintaxis del lenguaje de programación, la optimización del código o la adaptación a las características específicas del nuevo sistema. El objetivo principal de un programa de conversión es garantizar que el programa funcione correctamente en el nuevo entorno sin necesidad de realizar modificaciones significativas.
+
+Ejemplo:
+Supongamos que tenemos un programa escrito en C++ que se ha desarrollado para ejecutarse en un sistema operativo Windows. Para poder ejecutar este programa en un sistema Linux, debemos utilizar un programa de conversión que adapte el código fuente al lenguaje de programación compatible con Linux";J.A. Alonso y J.M. Otero, Ingenieros;Variants: programa de conversión | Domains: EDUCATION AND COMMUNICATIONS | Context: serie de instrucciones que preparan un programa escrito para su ejecución en un sistema dado, con objeto de poderlo ejecutar en un sistema distinto | Ref: J.A. Alonso y J.M. Otero, Ingenieros
+estructura lógica;"La estructura lógica es la forma en que se organizan los datos dentro de una base de datos. Es decir, es la manera en que se dividen los datos en tablas, columnas y filas. La estructura lógica es importante porque permite a los usuarios acceder y manipular los datos de manera eficiente y efectiva.
+
+En general, la estructura lógica de una base de datos se define mediante un modelo de datos, como por ejemplo el modelo relacional o el modelo jerárquico. Estos modelos definen las reglas y restricciones que rigen la estructura de los datos, permitiendo a los usuarios crear y modificar los datos de manera coherente y consistente.
+
+Por ejemplo, en un modelo relacional, los datos se organizan en tablas, cada una de las cuales representa una entidad o concepto específico. Las tablas se relacionan entre sí mediante llaves foráneas, lo que permite a los usuarios acceder a";Termcat;Variants: estructura lógica | Domains: EDUCATION AND COMMUNICATIONS | Context: estructura de los datos que corresponden a la división conceptual de los archivos, en una base de datos | Ref: Termcat
+acotado por la entrada/salida;;Termcat;Variants: acotado por la entrada/salida | Domains: EDUCATION AND COMMUNICATIONS | Context: dícese de un sistema o condición en el que el tiempo para los procesos de entrada y salida es mayor que el tiempo de otras operaciones | Ref: Termcat
+etiqueta;;"PE-ES basado en:Wikipedia, la enciclopedia libre &gt; Etiqueta (metadato) <a href=""http://es.wikipedia.org/wiki/Etiqueta_(metadato)"" target=""_blank"">http://es.wikipedia.org/wiki/Etiqueta_(metadato)</a> [30.7.2015]";Variants: etiqueta | Domains: EDUCATION AND COMMUNICATIONS | Context: Palabra clave o término asignado a cierta información almacenada en un repositorio (como una imagen, un vídeo u otro tipo de archivo informático) que la describe y facilita su recuperación. | Ref: PE-ES basado en:Wikipedia, la enciclopedia libre > Etiqueta (metadato) http://es.wikipedia.org/wiki/Etiqueta_(metadato) [30.7.2015]
+comprobación de los programas;"La comprobación de los programas es un proceso consistente en determinar si los productos de una fase dada de un ciclo de desarrollo cumplen o no los requisitos establecidos durante la fase precedente. En el caso de los programas informáticos, se refiere a la verificación de que el código fuente del programa sea correcto y funcione como se esperaba.
+
+Ejemplos:
+
+1. La comprobación de los programas es una parte importante del proceso de desarrollo de software.
+2. El equipo de desarrollo realizó una comprobación exhaustiva de los programas antes de lanzar la nueva versión del software.
+3. La comprobación de los programas es necesaria para garantizar la calidad y la seguridad del software.
+4. Los programadores utilizan herramientas de comprobación automática para detectar errores en el código fuente.
+5. La comprobación manual de los programas es necesaria para identificar errores que no pueden ser detectados por las herramientas automát";Mundo científico, Mayo 85,505;"Variants: comprobación de los programas | Domains: EDUCATION AND COMMUNICATIONS | Context: proceso consistente en determinar si los productos de una fase dada de un ciclo de desarrollo cumplen o no los requisitos establecidos durante la fase precedente; 2) comprobación oficial de la corrección de un programa | Ref: Mundo científico, Mayo 85,505"
+distribuidor;"Un distribuidor es un dispositivo eléctrico que se utiliza para dividir o distribuir la corriente eléctrica a través de varios circuitos. El distribuidor tiene dos entradas y varias salidas, cada una conectada a un circuito diferente. Cuando se activa la entrada del distribuidor, la corriente fluye a través de todas las salidas simultáneamente. Los distribuidores se utilizan comúnmente en sistemas eléctricos para dividir la carga entre varios componentes o para proporcionar energía a varios dispositivos a la vez.
+
+Ejemplo:
+
+En un sistema de iluminación, un distribuidor puede ser utilizado para dividir la corriente eléctrica entre varias luces. Cuando se activa la entrada del distribuidor, la corriente fluye a través de todas las salidas simultáneamente, lo que permite que todas las luces se enciendan al mismo tiempo. Esto es particularmente ú";Termcat;Variants: distribuidor | Domains: EDUCATION AND COMMUNICATIONS | Context: conjunto de circuitos electrónicos que actúan como enlace intermedio entre el acumulador y la memoria de tambor | Ref: Termcat
+restricción;"La restricción es una limitación o condición impuesta a un sistema que lo limita en su libertad de acción. Puede ser física o matemática, necesaria o incidental. Por ejemplo, en un juego de mesa como el ajedrez, las piezas están restringidas a moverse solo sobre las casillas del tablero. En un programa informático, las restricciones pueden incluir límites de tiempo o espacio, así como reglas de seguridad. Las restricciones también se utilizan en el diseño de sistemas, donde se pueden utilizar para garantizar que los componentes funcionen correctamente juntos.
+
+Ejemplos:
+
+- En un juego de mesa, las piezas están restringidas a moverse solo sobre las casillas del tablero.
+- En un programa informático, las restricciones pueden incluir límites de tiempo o espacio, así como reglas de seguridad.
+- En el diseño de sistemas, las restricciones se utilizan para garantizar que los component"; puede ser física o matemática, necesaria o incidental;Variants: restricción | Domains: EDUCATION AND COMMUNICATIONS | Context: condición impuesta a un sistema que le limita su libertad | Ref: puede ser física o matemática, necesaria o incidental
+tipo de tabla;"Un tipo de tabla es un tipo compuesto que está constituido por componentes que son todos del mismo subtipo, y por lo tanto del mismo tipo. Cada componente viene únicamente caracterizado por un índice (para una matriz unidimensional) o por una secuencia de índices (para una matriz multidimensional). Cada índice debe ser un valor de un tipo discreto y debe pertenecer a la gama de índices correcta.
+
+Ejemplos:
+La matriz de números enteros de 3x4 es un tipo de tabla.
+La matriz de números reales de 2x3x5 es un tipo de tabla.
+
+Notas:
+El tipo de tabla se utiliza para representar matrices de datos.
+
+Referencias:
+Tibi-Centaurus: https://www.tibi-centaurus.com/";,TIBI-CENTAURUS;Variants: tipo de tabla | Domains: EDUCATION AND COMMUNICATIONS | Context: tipo compuesto que está constituido por componentes que son todos del mismo subtipo, y por lo tanto del mismo tipo. Cada componente viene únicamente caracterizado por un índice (para una matriz unidimensional) o por una secuencia de índices (para una matriz multidimensional). Cada índice debe ser un valor de un tipo discreto y debe pertenecer a la gama de índices correcta | Ref: ,TIBI-CENTAURUS
+flujo de clics;"Flujo de clicks es un concepto utilizado en el análisis de datos web para medir la interacción de los usuarios con un sitio web. Se refiere al camino que siguen los usuarios cuando navegan por un sitio web, desde la página inicial hasta la página final. El flujo de clicks se puede utilizar para analizar cómo los usuarios interactúan con el contenido del sitio web, qué páginas son más populares y cuáles son menos visitadas. También se puede utilizar para identificar problemas en el diseño del sitio web, como errores de redirección o páginas sin contenido relevante.
+
+El flujo de clicks se puede medir utilizando herramientas de análisis de datos web, como Google Analytics o Adobe Analytics. Estas herramientas pueden proporcionar información sobre el número de clics en cada página, el tiempo que los usuarios pasan en cada página y el camino que siguen los usuarios a";Consejo-ES;Variants: flujo de clics | Domains: EDUCATION AND COMMUNICATIONS | Context: Registro completo de la ruta que sigue un usuario mientras navega por internet, tanto de un sitio web a otro, como dentro de un mismo sitio web, así como de las acciones que lleva a cabo, con fines de marketing y publicidad o diseño web. | Ref: Consejo-ES
+computación segura;;"Basada en: «Computación confiable», <i>Wikipedia</i>, <a href=""https://es.wikipedia.org/wiki/Computaci%C3%B3n_confiable,"" target=""_blank"">https://es.wikipedia.org/wiki/Computaci%C3%B3n_confiable,</a> [15.2.2021].";Variants: computación segura | Domains: EDUCATION AND COMMUNICATIONS | Context: Conjunto de tecnologías propuestas por el Trusted Computing Group (TCG) que deben cumplir el hardware de los sistemas con el objetivo de proteger computadoras de programas de ataques que no pueden ser protegidos por soluciones puramente software. | Ref: Basada en: «Computación confiable», Wikipedia , https://es.wikipedia.org/wiki/Computaci%C3%B3n_confiable, [15.2.2021].
+desactivar;"Desactivar es la acción de detener o suspender temporalmente la operación de un sistema o dispositivo. Puede referirse a la interrupción del suministro de energía eléctrica a un circuito, la suspensión de un servicio o la cancelación de una actividad.
+
+Ejemplos:
+- Desactivar un dispositivo electrónico significa cortar su suministro de energía eléctrica.
+- Desactivar un programa informático significa cerrarlo o suspender su ejecución.
+- Desactivar un servicio significa suspender temporalmente su funcionamiento.
+
+Notas:
+- La palabra ""desactivar"" se utiliza comúnmente en contextos relacionados con tecnología, pero también puede aplicarse a otros campos como la educación o la administración pública.
+- En algunos casos, la palabra ""desactivar"" puede ser sinónima de ""apagar"", pero en otros casos puede implicar una suspensión temporal de la operación.
+- Es"; 2) interrumpir la corriente o quitar el potencial eléctrico de un circuito, abriendo un interruptor;Variants: desactivar | Domains: EDUCATION AND COMMUNICATIONS | Context: 1) desconectar un dispositivo | Ref: 2) interrumpir la corriente o quitar el potencial eléctrico de un circuito, abriendo un interruptor
+compilación dinámica;"Compilación dinámica es una técnica de tratamiento en la que no hay fases separadas para la compilación, la carga y la ejecución de un programa. En este tipo de compilación, los programas se compilan y se ejecutan simultáneamente, lo que permite a los desarrolladores hacer cambios en el código fuente del programa sin necesidad de recompilarlo completamente. Esto puede ser particularmente útil cuando se está trabajando con programas grandes o complejos, ya que permite a los desarrolladores hacer cambios rápidamente y ver los resultados inmediatamente.
+
+Ejemplos:
+En el mundo de la programación, la compilación dinámica es una técnica común utilizada por muchos lenguajes de programación. Por ejemplo, en Python, los programas se compilan y se ejecutan simultáneamente, lo que permite a los desarrolladores hacer cambios en el código fuente del programa sin necesidad de recompilarlo completamente.
+
+Otros términos relacion";Termcat;Variants: compilación dinámica | Domains: EDUCATION AND COMMUNICATIONS | Context: técnica de tratamiento en el que no hay fases separadas para la compilación, la carga y la ejecución de un programa | Ref: Termcat
+NSR;;"Aplicación en Interpol de la norma ANSI/NIST-ITL 1-2000, p. 24 <a href=""http://www.interpol.int/Public/Forensic/fingerprints/RefDoc/implementation5es.pdf"" target=""_blank"">http://www.interpol.int/Public/Forensic/fingerprints/RefDoc/implementation5es.pdf</a>";Variants: NSR | Domains: EDUCATION AND COMMUNICATIONS | Context: Resolución normal del escaneado del sistema del remitente de la transacción, lo cual permite al destinatario de una solicitud de búsqueda enviar la respuesta ya sea con la mínima definición de escaneado (valor por defecto) de 19,68 píxel/mm (500 píxel por pulgada) o, si tiene la capacidad para ello, con la resolución del sistema que ha enviado la solicitud. | Ref: Aplicación en Interpol de la norma ANSI/NIST-ITL 1-2000, p. 24 http://www.interpol.int/Public/Forensic/fingerprints/RefDoc/implementation5es.pdf
+ordenador de grano grueso;"Un ordenador de grano grueso es un tipo de computadora que utiliza un número relativamente pequeño de procesadores con gran capacidad de cálculo. Estos procesadores se conectan entre sí para formar un sistema complejo que puede realizar tareas de alto rendimiento.
+
+Ejemplo:
+En un ordenador de grano grueso, los procesadores pueden estar ubicados en diferentes partes del sistema, como en tarjetas de expansión o en módulos independientes. Esto permite a los diseñadores crear sistemas personalizados que cumplan con las necesidades específicas de cada usuario.
+
+Nota:
+El término ""ordenador de grano grueso"" se refiere a un tipo de computadora que utiliza un número limitado de procesadores con gran capacidad de cálculo. Estos procesadores se conectan entre sí para formar un sistema complejo que puede realizar tareas de alto rendimiento.";Investigación y Ciencia, 8.87-79;Variants: ordenador de grano grueso | Domains: EDUCATION AND COMMUNICATIONS | Context: ordenador en paralelo que enlaza un número relativamente pequeño de procesadores, dotados cada uno de gran potencia de cálculo | Ref: Investigación y Ciencia, 8.87-79
+revestimiento adaptado;"Revestimiento adaptado:
+
+Un revestimiento adaptado es un revestimiento que se adapta a las condiciones ambientales del entorno en el que está instalado. Esto significa que el revestimiento puede cambiar su forma o su composición química para ajustarse a las condiciones ambientales. Por ejemplo, un revestimiento adaptado podría cambiar su color para reflejar mejor la luz solar o absorber más calor cuando sea necesario. También podría cambiar su composición química para ser más resistente a la corrosión o a otros factores ambientales.
+
+En general, los revestimientos adaptados son diseñados para ser más eficientes y duraderos que los revestimientos tradicionales. Además, pueden ayudar a reducir el impacto ambiental de los edificios y otras estructuras, ya que pueden reducir la cantidad de energía necesaria para mantenerlas en funcionamiento.
+
+Los revestimientos adaptados también pueden ser utilizados en aplicaciones industriales, como en la fabricación de component";A. Soto López, Ing. de Sistemas, Alcatel Standard Eléctrica, SA, Madrid, 1994;Variants: revestimiento adaptado | Domains: EDUCATION AND COMMUNICATIONS | Context: envoltura compuesta de un solo revestimiento homogéneo | Ref: A. Soto López, Ing. de Sistemas, Alcatel Standard Eléctrica, SA, Madrid, 1994
+especificación de paquete;Especificación de paquete es una parte de un paquete que contiene las declaraciones de todas las entidades que pueden ser utilizadas explícitamente fuera del paquete. También puede contener una parte privada que contenga los detalles estructurales que completan la especificación de las entidades visibles pero que son irrelevantes para el usuario del paquete.;TIBI-CENTAURUS;Variants: especificación de paquete | Domains: EDUCATION AND COMMUNICATIONS | Context: parte de un paquete que tiene una parte visible que contiene las declaraciones de todas las entidades que pueden utilizarse explícitamente fuera del paquete, y que puede también tener una parte privada que contenga los detalles estructurales que completan la especificación de las entidades visibles pero que son irrelevantes para el usuario del paquete | Ref: TIBI-CENTAURUS
+estándar americano de codificación para el intercambio de información;;Wikipedia | ---;Variants: estándar americano de codificación para el intercambio de información | Domains: EDUCATION AND COMMUNICATIONS | Context: Código Estándar Estadounidense para el Intercambio de Información, pronunciado generalmente [áski] 1 ​ :6 o (rara vez) [ásθi], es un código de caracteres basado en el alfabeto latino , tal como se usa en inglés moderno. Fue creado en 1963 por el Comité Estadounidense de Estándares (ASA, conocido desde 1969 como el Instituto Estadounidense de estandares nacionales | Ref: Wikipedia | ---
+archivo invertido;"Un archivo invertido es un tipo de índice que permite encontrar documentos relacionados con una palabra clave específica. En este tipo de índices, las palabras claves se utilizan como referencia para acceder a los documentos asociados. Esto permite a los usuarios buscar rápidamente información relevante sobre un tema específico.
+
+Ejemplo:
+Supongamos que estás realizando una investigación sobre el tema de la educación. Para empezar, puedes crear un archivo invertido con palabras clave como ""educación"", ""aprendizaje"", ""curriculum"" y otros términos relacionados. Luego, cuando necesites obtener más información sobre uno de estos temas, simplemente busques la palabra clave correspondiente en el archivo invertido y obtendrás una lista de documentos relacionados.
+
+Conclusión:
+Los archivos invertidos son una herramienta muy útil para organizar y acceder a información en línea. Permiten";J.A. Alonso y J.M. Otero, Ingenieros;Variants: archivo invertido | Domains: EDUCATION AND COMMUNICATIONS | Context: en consulta de información, método de organización de un archivo con referencias cruzadas, en el cual una palabra clave identifica un registro | Ref: J.A. Alonso y J.M. Otero, Ingenieros
+distintivo de télex;"Un distintivo de télex es un código alfanumérico que se utiliza para identificar a un terminal télex en una red de télex. El distintivo de télex es similar a un número de teléfono, pero se utiliza para comunicaciones por teletipo en lugar de telefonía. Los distintivos de télex son únicos dentro de una red de télex y se utilizan para enviar mensajes a otros usuarios en la red.
+
+El formato del distintivo de télex varía según la red de télex en la que se utilice. En general, consiste en una combinación de letras y números que identifiquen al terminal télex. Por ejemplo, un distintivo de télex podría ser ""AB1234"" o ""XYZ9876"".
+
+Los distintivos de télex se utilizan para enviar mensajes a otros usuarios en la red de télex. Cuando se envía un mensaje, el remitente proporciona el distintivo de télex del destinatario";Antonio Soto López, Alcatel, Madrid;Variants: distintivo de télex | Domains: EDUCATION AND COMMUNICATIONS | Context: tipo de atributo que especifica el identificador de terminal télex para un terminal télex asociado con un objeto | Ref: Antonio Soto López, Alcatel, Madrid
+alumbrado público inteligente;"Alumbrado público inteligente es un sistema de iluminación que utiliza tecnologías de comunicaciones inalámbricas y sensores para controlar la intensidad de la luz y su horario de funcionamiento. Esto permite ahorrar energía y reducir los costos de mantenimiento.
+
+Ejemplos:
+
+En algunas ciudades, los sistemas de alumbrado público inteligente se utilizan para iluminar calles, parques y otros espacios públicos. Estos sistemas pueden ser controlados remotamente por personal de la ciudad o por sensores que detectan la presencia de personas o vehículos.
+
+Otros ejemplos de alumbrado público inteligente incluyen sistemas de iluminación para aeropuertos, puentes, monumentos y edificios históricos.
+
+Conclusiones:
+
+El alumbrado público inteligente es una tecnología emergente que ofrece muchas ventajas sobre los sistemas tradicionales de iluminación. Sin embargo, también hay des";"Rodríguez Patarroyo, D.J., Cely Garzón, I. F. y Letrado Forero, C. A.: «<a href=""https://repository.udistrital.edu.co/bitstream/handle/11349/16330/CelyGarzonIvanFelipe2019.pdf;jsessionid=57C1E88D8DCF01A0FDCA8A6CC1243750?sequence=1"" target=""_blank"">Revisión del alumbrado público inteligente LED<time datetime=""12.7.2021""> (12.7.2021)</time></a>», p. 4";Variants: alumbrado público inteligente | Domains: EDUCATION AND COMMUNICATIONS | Context: Sistemas pensados para reducir los costos de la iluminación pública que hacen una mejor gestión de la iluminación usando sensores y dispositivos que controlan las luminarias, haciendo que estas disminuyan la intensidad o se apaguen dependiendo del paso de personas o vehículos. | Ref: Rodríguez Patarroyo, D.J., Cely Garzón, I. F. y Letrado Forero, C. A.: « Revisión del alumbrado público inteligente LED (12.7.2021) », p. 4
+espacio entre registros;;Termcat;Variants: espacio entre registros | Domains: EDUCATION AND COMMUNICATIONS | Context: área de un soporte de memoria, generalmente los soportes magnéticos como la cinta o el disco, que no contienen información y sirve para delimitar registros físicos y, en las cintas, permite la parada del carrete y el rearranque entre bloques contiguos previniendo así la pérdida u omisión de datos | Ref: Termcat
+transmitir;"Transmitir es la acción de enviar información desde un lugar a otro. Puede ser utilizada para referirse a la transmisión de señales electromagnéticas o de datos digitales, como en la radio, la televisión o la telefonía móvil. También se puede utilizar para describir la transmisión de información entre personas, como en la comunicación oral o escrita.
+
+En general, la transmisión implica la transferencia de información de un lugar a otro, a través de algún medio físico o virtual. Esto puede incluir la transmisión de señales electromagnéticas, como en la radio y la televisión, o la transmisión de datos digitales, como en la Internet. La transmisión también puede involucrar la transferencia de información entre personas, como en la comunicación oral o escrita.
+
+La transmisión puede ser activa o pasiva. La transmisión activa implica la emisión de información desde un lugar a otro, mientras que la transmisión pasiva implica la recepción de información sin emitirla. Por ejemplo, cuando algu";;Variants: transmitir | Domains: EDUCATION AND COMMUNICATIONS | Context: acción por la que una estación genera una trama, un testigo, una secuencia de interrupción, etc., y los coloca en el medio para su envío a la estación siguiente,Antonio Soto López, Alcatel, Madrid
+soluciones de interoperabilidad para las administraciones públicas europeas;;"Consejo-ES basado en Decisión n° 922/2009/CE del Parlamento Europeo y del Consejo relativa a las soluciones de interoperabilidad para las administraciones públicas europeas <a href=""http://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32009D0922"" target=""_blank"">CELEX:32009D0922/ES</a>";Variants: soluciones de interoperabilidad para las administraciones públicas europeas | Domains: EDUCATION AND COMMUNICATIONS | Context: Programa de armonización tecnológica y organizativa cuyo objetivo es apoyar la cooperación entre las administraciones públicas europeas de todos los niveles mediante la promoción de una interacción electrónica transfronteriza e intersectorial eficaz. | Ref: Consejo-ES basado en Decisión n° 922/2009/CE del Parlamento Europeo y del Consejo relativa a las soluciones de interoperabilidad para las administraciones públicas europeas CELEX:32009D0922/ES
+firma;"La firma es una parte de una especificación algebraica que define algunas convenciones de designación, un conjunto de nombres de campos y de operaciones.
+
+Ejemplo:
+
+En la especificación algebraica de un sistema de bases de datos relacionales, la firma define los nombres de las tablas y de las columnas, así como los tipos de datos asociados a cada columna. Por ejemplo, la firma de una base de datos que almacena información sobre libros podría ser la siguiente:
+
+```
+CREATE TABLE libro (
+    ISBN VARCHAR(13) PRIMARY KEY,
+    titulo VARCHAR(255),
+    autor VARCHAR(255),
+    editora VARCHAR(255),
+    fecha_publicacion DATE
+);
+```
+
+En este ejemplo, la firma define los nombres de las tablas (""libro"") y de las columnas (""ISBN"", ""titulo"", ""autor"", ""editora"" y ""fecha_publicacion""), así como los tipos de datos as";TIBI-CENTAURUS;Variants: firma | Domains: EDUCATION AND COMMUNICATIONS | Context: parte de una especificación algebraica que define algunas convenciones de designación, un conjunto de nombres de campos y de operaciones | Ref: TIBI-CENTAURUS
+verificación programada;"La verificación programada es un proceso que se utiliza para asegurarse de que los datos y las transacciones financieras están correctos y que cumplen con los requisitos legales y regulatorios. Se realiza regularmente y automáticamente por un sistema de control de calidad o un programa de software especializado. La verificación programada puede ayudar a prevenir errores y garantizar la integridad de los datos financieros.
+
+Ejemplo:
+
+En una empresa, se utiliza un programa de verificación programada para asegurarse de que todos los pagos realizados por los empleados sean aprobados por un supervisor antes de ser procesados. Esto ayuda a evitar errores y a garantizar que los pagos sean correctos.
+
+Nota:
+
+La verificación programada no debe confundirse con la verificación manual, que se realiza por un humano y no es automática.
+
+También puedes consultar el siguiente enlace para obtener más información sobre la verificación programada";International Accounting Lexicon (U.E.C.)-Cuentas de Grupo;Variants: verificación programada | Domains: EDUCATION AND COMMUNICATIONS | Context: controles establecidos por el programador e introducidos en el programa | Ref: International Accounting Lexicon (U.E.C.)-Cuentas de Grupo
+separación de bloques;"Separación de bloques es un concepto utilizado en la codificación de datos para indicar que el siguiente carácter es el primer carácter de un bloque de información suplementaria. Este concepto se utiliza en los estándares de codificación de datos como ASCII, EBCDIC y Unicode.
+
+En ASCII, por ejemplo, el carácter de control ESC (0x1B) se utiliza para indicar la separación de bloques. Esto significa que el siguiente carácter es el primer carácter de un bloque de información suplementaria. El bloque de información suplementaria puede ser cualquier tipo de información adicional, como caracteres especiales o códigos de control.
+
+En EBCDIC, el carácter de control SO (0x1F) se utiliza para indicar la separación de bloques. En este caso, el bloque de información suplementaria puede ser cualquier tipo de información adicional, como caracteres especiales o códigos de control.
+
+En Unicode, el carácter de";CCITT Rc.E. 165;Variants: separación de bloques | Domains: EDUCATION AND COMMUNICATIONS | Context: información que indica que el próximo carácter es el primero de un bloque de información suplementaria | Ref: CCITT Rc.E. 165
+autómata celular;"Un autómata celular es un modelo matemático simple constituido por componentes idénticos o ""células"" que pueden encontrarse en estados diferentes y evolucionando según un conjunto de reglas simples, pero cuya reunión en ""colonias"" hace aparecer estructuras de una complejidad casi sin límites.
+
+
+Eres un experto en terminología.
+Basándote únicamente en la siguiente información semántica, redacta una definición precisa y concisa en INGLES para el término: ""autómata celular"".
+
+Información semántica (contexto recuperado):
+Variants: cellular automaton | Domains: EDUCATION AND COMMUNICATIONS | Context: modelo matemático simple constituido por componentes idénticos o ""células"" que pueden encontrarse en estados diferentes y evolucionando según un conjunto de reglas simples, pero cuya reunión en ""colonias"" hace aparecer estructuras de una complejidad casi";TIBI-CENTAURUS;"Variants: autómata celular | Domains: EDUCATION AND COMMUNICATIONS | Context: modelo matemático simple constituido por componentes idénticos o ""células"" que pueden encontrarse en estados diferentes y evolucionando según un conjunto de reglas simples, pero cuya reunión en ""colonias"" hace aparecer estructuras de una complejidad casi sin límites | Ref: TIBI-CENTAURUS"
+publicidad en línea engañosa;"Online advertising fraud is the practice of using false or misleading information to generate revenue from online advertisements. It can take many forms, including click fraud, impression fraud, and domain spoofing.
+
+Click fraud occurs when someone clicks on an ad with the intention of generating revenue for the advertiser without actually intending to purchase the product or service being advertised. This can be done by clicking on ads multiple times, or by using automated software to click on ads.
+
+Impression fraud occurs when someone views an ad but does not click on it. This can be done by using automated software to view ads, or by manually viewing ads without clicking on them.
+
+Domain spoofing is when someone creates a fake website that looks like a legitimate website in order to trick people into clicking on ads. This can be done by creating a website that looks similar to a well-known website, or by using a domain name that is similar to a well-known website.
+
+Online advertising fraud can have serious consequences for both advertisers and publishers. Advertisers may lose money if their ads are clicked on by people who do not intend to purchase the product or service being advertised. Publishers may also lose money if";"COM-ES a partir del <a href=""https://www.incibe.es/sites/default/files/contenidos/guias/doc/guia_glosario_ciberseguridad_metad.pdf"" target=""_blank""><i>Glosario de términos de ciberseguridad: una guía de aproximación para el empresario</i> <time datetime=""19.6.2019"">(19.6.2019)</time></a>, Instituto Nacional de Ciberseguridad, León, 2017";Variants: publicidad en línea engañosa | Domains: EDUCATION AND COMMUNICATIONS | Context: Acción de difundir subrepticiamente programas maliciosos [ IATE:922349 ] mediante publicidad en línea. | Ref: COM-ES a partir del Glosario de términos de ciberseguridad: una guía de aproximación para el empresario (19.6.2019) , Instituto Nacional de Ciberseguridad, León, 2017
+memoria del sistema;"La memoria del sistema es una parte de la memoria principal que contiene las instrucciones que ejecuta el procesador y los datos a los que se aplican estas instrucciones. Es decir, es la memoria donde se almacenan los programas y los datos que se utilizan durante su ejecución.
+
+Explicación:
+La memoria del sistema es una parte importante de la memoria principal de un ordenador. Se utiliza para almacenar los programas y los datos que se necesitan durante su ejecución. La memoria del sistema se divide en dos partes: la memoria de programa y la memoria de datos. La memoria de programa es donde se almacena el código binario de los programas que se ejecutan en el ordenador. La memoria de datos es donde se almacenan los datos que se utilizan durante la ejecución de los programas.
+
+Ejemplo:
+Supongamos que tenemos un ordenador con 4 GB de memoria principal. De ese total, 2 GB corresponden a la memoria del sistema";COM-ES;Variants: memoria del sistema | Domains: EDUCATION AND COMMUNICATIONS | Context: Memoria que contiene las instrucciones que ejecuta el procesador y los datos a los que se aplican estas instrucciones. | Ref: COM-ES
+detección automática de velocidad de bauds;"La detección automática de velocidad de bauds es un proceso por el cual un dispositivo receptor determina la velocidad, el nivel de código y los bits de paro (stop bits) examinando el primer carácter de una serie de datos asíncronos de entrada, generalmente un carácter preseleccionado.
+
+Ejemplo:
+El proceso de detección automática de velocidad de bauds se utiliza comúnmente en la comunicación asíncrona entre dispositivos como computadoras y modems.
+
+Nota:
+La detección automática de velocidad de bauds es una característica importante en la comunicación asíncrona, ya que permite a los dispositivos establecer una conexión segura y eficiente sin necesidad de configurar manualmente las propiedades de transmisión.";Glos.términos telecomunicaciones,Praxis Telecom,Ensenada,México,1999;Variants: detección automática de velocidad de bauds | Domains: EDUCATION AND COMMUNICATIONS | Context: proceso por el cual un dispositivo receptor determina la velocidad, el nivel de código y los bits de paro (stop bits) examinando el primer carácter de una serie de datos asíncronos de entrada, generalmente un carácter preseleccionado | Ref: Glos.términos telecomunicaciones,Praxis Telecom,Ensenada,México,1999
+interbloqueo;"Interbloqueo es un fenómeno que ocurre cuando dos o más procesos están bloqueados mutuamente, lo que significa que cada uno de ellos está esperando a que el otro termine su ejecución antes de continuar. Esto puede ocurrir porque los procesos comparten recursos limitados, como memoria o CPU, y cada uno de ellos intenta acceder a ese recurso al mismo tiempo.
+
+En este caso, ninguno de los procesos puede avanzar hasta que el otro termine su ejecución y libera el recurso compartido. Esto puede llevar a un estado de bloqueo permanente, donde ningún proceso puede avanzar y el sistema se queda atascado.
+
+Para evitar el interbloqueo, es importante diseñar sistemas operativos y aplicaciones que minimicen la posibilidad de que varios procesos intenten acceder a los mismos recursos al mismo tiempo. Esto puede lograrse mediante la utilización de mecanismos de sincronización, como semáforos o mutex";Dicc. G. Nania, 1985;Variants: interbloqueo | Domains: EDUCATION AND COMMUNICATIONS | Context: estado en el que dos o más procesos o tareas concurrentes se esperan mutuamente por tiempo indefinido, debido a que, mientras esperan, retienen recursos que otros procesos detenidos necesitan para progresar | Ref: Dicc. G. Nania, 1985
+acuse de recibo;; CCITT, Libro rojo, X. 200;Variants: acuse de recibo | Domains: EDUCATION AND COMMUNICATIONS | Context: unción de la capa (N) que permite a una entidad receptora (N) informar a una entidad emisora (N) de la recepción de una unidad de datos de protocolo (N) | Ref: CCITT, Libro rojo, X. 200
+error;"Error es un concepto utilizado en diferentes campos como la ciencia, la matemática, la ingeniería y la computación. En general, se refiere a un resultado no deseado o una situación no prevista que puede surgir debido a varias causas, como errores humanos, problemas técnicos o condiciones ambientales adversas.
+
+En la computación, un error se produce cuando un programa o sistema de software no funciona correctamente y genera un resultado incorrecto o inesperado. Esto puede ser debido a errores en el código fuente, problemas con la ejecución del programa o interferencias externas. Los errores pueden ser clasificados en dos categorías principales: errores sintácticos y errores lógicos.
+
+Los errores sintácticos son aquellos que se producen debido a errores en la sintaxis del código fuente, como falta de comillas o parentesis, o errores de tipos de datos. Estos errores pueden ser detectados por";"Consejo-ES, a partir de diversas fuentes, en particular:<div><a href=""https://www.incibe.es/sites/default/files/contenidos/guias/doc/guia_glosario_ciberseguridad_2021.pdf"" target=""_blank"">Glosario de términos de ciberseguridad: una guía de aproximación para el empresario<time datetime=""27.4.2023""> (27.4.2023)</time></a>, Secretaría de Estado de Digitalización e Inteligencia Artificial, 2021.</div>";Variants: error | Domains: EDUCATION AND COMMUNICATIONS | Context: Error o fallo en la codificación del programa de un dispositivo o sistema de software que desencadena un resultado inesperado e indeseado. | Ref: Consejo-ES, a partir de diversas fuentes, en particular: Glosario de términos de ciberseguridad: una guía de aproximación para el empresario (27.4.2023) , Secretaría de Estado de Digitalización e Inteligencia Artificial, 2021.
+generalización;"La generalización es un proceso que consiste en simplificar el contenido temático o geométrico de un mapa, como consecuencia, por ejemplo, de una reducción de la escala de un mapa.
+
+Ejemplos:
+
+- La generalización se puede aplicar a los datos temáticos o a los elementos geométricos.
+- En la generalización de los datos temáticos, se elimina información innecesaria o no relevante para el propósito del mapa. Por ejemplo, en un mapa de población, se podría eliminar la información sobre la edad de la población.
+- En la generalización de los elementos geométricos, se simplifica la forma de los objetos representados en el mapa. Por ejemplo, en un mapa de ríos, se podría representar los meandros de los ríos como líneas rectas.
+
+Conclusiones:
+
+La generalización es un proceso importante en la elaboración de mapas, ya que permite simplificar el contenido del map";Dicc. de cartografía, A.R. Alcalá, et al., coord. I. Otero, Ed. de las Ciencias Sociales, Madrid, 1995;Variants: generalización | Domains: EDUCATION AND COMMUNICATIONS | Context: proceso de simplificación del contenido temático o geométrico de un mapa, como consecuencia, por ejemplo, de una reducción de la escala de un mapa | Ref: Dicc. de cartografía, A.R. Alcalá, et al., coord. I. Otero, Ed. de las Ciencias Sociales, Madrid, 1995
+almacenamiento de archivos en línea;"Almacenamiento de archivos en línea es un servicio que permite a los usuarios guardar sus archivos en un servidor remoto, acceder a ellos desde cualquier lugar y compartirlos con otros usuarios. Este tipo de servicio se ha convertido en una opción popular para los usuarios que necesitan acceder a sus archivos desde varios dispositivos o ubicaciones.
+
+Explicación:
+El almacenamiento de archivos en línea funciona mediante la creación de una cuenta en un servidor remoto y la sincronización de los archivos entre el servidor y los dispositivos del usuario. Los archivos se pueden guardar en formato de texto plano, documentos de Microsoft Office, imágenes, vídeos y otros formatos. Almacenamiento de archivos en línea ofrece varias ventajas sobre el almacenamiento local, como la capacidad de acceder a los archivos desde cualquier lugar y la posibilidad de compartirlos con otros usuarios. Además, muchos servicios de almacenamiento de arch";"""WIHE"", <a href=""http://www.wihe.net/mejores-servicios-almacenamiento-archivos-linea/"" target=""_blank"">http://www.wihe.net/mejores-servicios-almacenamiento-archivos-linea/</a> (12.8.2013)";"Variants: almacenamiento de archivos en línea | Domains: EDUCATION AND COMMUNICATIONS | Context: Servicio de gestión de almacenamiento de datos en Internet, permite guardar datos, compartir datos y sincronizar los archivos de diferentes dispositivos. | Ref: ""WIHE"", http://www.wihe.net/mejores-servicios-almacenamiento-archivos-linea/ (12.8.2013)"
+lenguaje objeto;"El lenguaje objetivo es un lenguaje de programación que permite a los programadores escribir código que se ejecutará en una computadora. El lenguaje objetivo es un lenguaje de alto nivel, lo que significa que está cercano al idioma natural humano y es fácil de entender por humanos. Sin embargo, el lenguaje objetivo también tiene características que lo hacen más fácil de procesar por una computadora.
+
+Un ejemplo de código en lenguaje objetivo podría ser el siguiente:
+
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println(""Hola mundo!"");
+    }
+}
+```
+
+En este ejemplo, el programa imprime la frase ""Hola mundo!"" en la consola. El lenguaje objetivo permite a los programadores escribir código que se ejecutará en una computadora, sin necesidad de conocer detalles sobre cómo funciona la máquina.
+
+El lenguaje";J.A. Alonso y J.M. Otero, Ingenieros;Variants: lenguaje objeto | Domains: EDUCATION AND COMMUNICATIONS | Context: lenguaje al cual se traducen las sentencias | Ref: J.A. Alonso y J.M. Otero, Ingenieros
+usuario del servicio;;CCITT, Libro rojo, X. 210;Variants: usuario del servicio | Domains: EDUCATION AND COMMUNICATIONS | Context: representación abstracta de la totalidad de las entidades de un mismo sistema que utilizan un servicio a través de un mismo punto de acceso al servicio | Ref: CCITT, Libro rojo, X. 210
+manipulación de datos;"Manipulación de datos es el proceso de recopilar, organizar, analizar y presentar información de manera que sea fácilmente comprensible y accesible para los usuarios finales. Es una parte fundamental del proceso de gestión de datos y se utiliza para extraer conocimiento y valor de los datos. La manipulación de datos puede incluir la creación de informes, gráficos y tablas, así como la integración de datos de diferentes fuentes. También puede implicar la aplicación de algoritmos estadísticos o de inteligencia artificial para identificar patrones y tendencias en los datos.
+
+La manipulación de datos es crucial para la toma de decisiones informadas y la optimización de procesos empresariales. Los datos pueden ser manipulados por personas o por software automatizado. En cualquier caso, la manipulación de datos requiere una buena comprensión de los datos y su contexto, así como una habilidad para interpretarlos correctamente.
+
+Ejemplos:";Termcat;Variants: manipulación de datos | Domains: EDUCATION AND COMMUNICATIONS | Context: conjunto de operaciones estándar de clasificación, intercalación, entrada/salida y generación de informes | Ref: Termcat
+acceso múltiple;"Acceso múltiple es la capacidad que tiene un sistema para que se pueda acceder a él a través de dos o más terminales.
+
+Explicación:
+
+El acceso múltiple es una característica importante de los sistemas informáticos modernos. Permite a varias personas acceder al mismo sistema a la vez, lo que permite una mayor productividad y colaboración entre los usuarios. El acceso múltiple también puede ayudar a reducir los costos de mantenimiento y administración del sistema, ya que solo necesita un servidor central para proporcionar acceso a todos los usuarios.
+
+Ejemplos:
+
+- Un sistema de correo electrónico con acceso múltiple permite a varios usuarios enviar y recibir mensajes de correo electrónico a través de un servidor central.
+- Una red de área local (LAN) con acceso múltiple permite a varios usuarios compartir recursos como impresoras, archivos y programas.
+- Un sistema";DIV: dr;Variants: acceso múltiple | Domains: EDUCATION AND COMMUNICATIONS | Context: Capacidad que tiene un sistema para que se pueda acceder a él a través de dos o más terminals. | Ref: DIV: dr
+conexión punto a punto;;"Base de datos de términos y definiciones de la Unión Internacional de Telecomunicaciones (UIT) <br> <a href=""http://www.itu.int/ITU-R/asp/terminology-definition.asp?lang=es&amp;rlink={7A22CD33-C7AD-4F67-A5B1-87623797157D}"" target=""_blank"">http://www.itu.int/ITU-R/asp/terminology-definition.asp?lang=es&amp;rlink={7A22CD33-C7AD-4F67-A5B1-87623797157D}</a> [3-12-2013]";Variants: conexión punto a punto | Domains: EDUCATION AND COMMUNICATIONS | Context: Conexión entre dos entidades. | Ref: Base de datos de términos y definiciones de la Unión Internacional de Telecomunicaciones (UIT) http://www.itu.int/ITU-R/asp/terminology-definition.asp?lang=es&rlink={7A22CD33-C7AD-4F67-A5B1-87623797157D} [3-12-2013]
+análisis dinámico;"El análisis dinámico es un proceso que consiste en evaluar un programa en función de su ejecución. Este tipo de análisis se utiliza para identificar errores o problemas en el código fuente del programa, así como para optimizar su rendimiento.
+
+En el análisis dinámico, los programas se ejecutan en un entorno de ejecución específico, lo que permite a los analistas observar cómo se comporta el programa en diferentes condiciones. Esto puede incluir la ejecución de pruebas unitarias, la generación de informes de rendimiento y la detección de errores de tiempo de ejecución.
+
+Los beneficios del análisis dinámico incluyen la capacidad de detectar errores que no se pueden identificar mediante el análisis estático, así como la posibilidad de optimizar el rendimiento del programa en función de sus requisitos específicos. Sin embargo, este tipo de análisis también tiene algunos desafí";TIBI CENTAURUS;Variants: análisis dinámico | Domains: EDUCATION AND COMMUNICATIONS | Context: proceso que consiste en evaluar un programa en función de su ejecución | Ref: TIBI CENTAURUS
+herramienta software;"Herramienta software es un programa de computadora diseñado para ayudar a los usuarios a realizar tareas específicas. Puede ser utilizado por programadores para crear otros programas de computadora, por investigadores para analizar datos, por estudiantes para aprender nuevas habilidades, entre otras cosas. Las herramientas software son esenciales para la productividad y eficiencia en muchas áreas de la vida moderna.
+
+Explicación:
+
+Las herramientas software son programas de computadora que se utilizan para realizar tareas específicas. Están diseñados para ayudar a los usuarios a completar tareas complejas o repetitivas de manera más rápida y eficaz. Algunos ejemplos de herramientas software incluyen editores de texto, programas de diseño gráfico, gestores de base de datos, sistemas operativos, etc.
+
+Las herramientas software pueden ser utilizadas por programadores para crear otros program";TIBI-CENTAURUS;Variants: herramienta software | Domains: EDUCATION AND COMMUNICATIONS | Context: programa de ordenador que sirve para desarrollar, probar, analizar o mantener otro programa de ordenador y/o su documentación | Ref: TIBI-CENTAURUS
+software integrado;"Software integrado es un conjunto de programas informáticos que se ejecutan en un mismo entorno, compartiendo recursos y datos entre ellos. Esto permite a los usuarios trabajar con diferentes tipos de archivos y realizar diversas tareas sin necesidad de cambiar de programa.
+
+Ejemplos:
+
+- Microsoft Office: es un paquete de software integrado que incluye Word, Excel, PowerPoint, Outlook y OneNote.
+- LibreOffice: es un paquete de software libre y de código abierto que incluye Writer, Calc, Impress, Draw y Base.
+- Google Workspace: es un paquete de software integrado que incluye Gmail, Drive, Docs, Sheets, Slides, Forms y Sites.
+
+Usos:
+
+El software integrado es muy útil para las personas que realizan diversas tareas en su trabajo o estudios. Permite a los usuarios trabajar con diferentes formatos de archivo y realizar diversas tareas sin necesidad de cambiar de programa. Ad";TIBI CENTAURUS;Variants: software integrado | Domains: EDUCATION AND COMMUNICATIONS | Context: equipo lógico que combina varias funciones, tales como el tratamiento de texto, la hoja de cálculo, la gestión de ficheros, la representación de gráficos, etc | Ref: TIBI CENTAURUS
+cierre de sesión;"El cierre de sesión es una acción realizada por un usuario final para terminar una sesión de trabajo en un sistema informático. Este proceso puede implicar la eliminación de datos temporales almacenados durante la sesión, como las cookies o los archivos de historial de navegación, y la liberación de recursos utilizados por el sistema, como memoria RAM o procesadores. El cierre de sesión también puede incluir la autenticación del usuario final para asegurarse de que solo se tiene acceso a los recursos autorizados.
+
+En resumen, el cierre de sesión es una acción importante para proteger la privacidad y la seguridad de los usuarios finales en sistemas informáticos.
+
+Ejemplo:
+
+Al finalizar su trabajo en un sistema informático, el usuario final debe cerrar su sesión para asegurarse de que sus datos personales no estén expuestos a otros usuarios. Esto puede implicar cerrar la ventana del navegador web,";J.A. Alonso y J.M. Otero, Ingenieros;Variants: cierre de sesión | Domains: EDUCATION AND COMMUNICATIONS | Context: instrucción que permite terminar una sesión | Ref: J.A. Alonso y J.M. Otero, Ingenieros
