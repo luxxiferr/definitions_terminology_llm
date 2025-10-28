@@ -14,3 +14,4 @@
  emphasising the importance of curated, structured semantic input.
 
  
+![Diagrama del pipeline](https://github.com/luxxiferr/definitions_terminology_llm/blob/main/img/pipeline.drawio.svg?raw=true)
